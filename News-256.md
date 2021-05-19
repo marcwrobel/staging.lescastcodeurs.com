@@ -94,6 +94,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Web
 
+[Crowdcast sur Cypress par Emmanuel Demey](https://docs.cypress.io/guides/overview/why-cypress)  
+
 [Bootstrap 5 est sorti](https://blog.getbootstrap.com/2021/05/05/bootstrap-5/)
 
 * New offcanvas component
@@ -194,6 +196,9 @@ TODO: reprendre celles de l'épisode d'avant
 
 [Devoxx france bougent au 29 septembre, 1er et 2 octobre](Et dire que @agoncal et @aheritier nous avertissent même pas que Devoxx France est repoussé à la rentrée ?
 https://twitter.com/DevoxxFR/status/1389489979978563584)  
+
+Crowdcast de [hack.commit.push](https://paris2021.hack-commit-pu.sh/) samedi 29 mai  
+
 
 ## Nous contacter
 
