@@ -178,6 +178,21 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * Ils on offert un golden parachute à qui voulait partir 
 * Et boom 30% ont dit oui 
 
+[Stratégie nationale du cloud français](https://www.lemonde.fr/economie/article/2021/05/17/cloud-la-france-se-veut-plus-souveraine_6080442_3234.html)
+
+* cloud solution d'hébergement par défaut des services numériques d'état
+* protégé de règlementation extracommunautaire
+    * contre le cloud act et autres lois
+* label "Cloud de confiance" c'est comme le porc salut
+    * mise à jour du SecNumCloud de l'ANSSI
+* solution hybride société Française ou Européenne en utilisant les briques logicielles de groups américains
+    * serveurs en France
+    * opérés par des entreprises européennes
+    * détenues par des européens
+* "les américainbs sont les plus avancés"
+    * Google et Microsoft ont signé l'accord de licence
+    * donc pas Amazon
+
 ## Outils de l'épisode
 
 [MuseGroup rachète audacity](https://www.minimachines.net/actu/muse-group-rachete-le-logiciel-audacity-99063)
