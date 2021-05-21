@@ -143,6 +143,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * En gros si tu ne paies pas tu dois être sur latest. Ils ne vont pas faire du support sur d’anciennes version pour les clients gratuits 
 * Ce qui est logique. 
 
+[Spock 2.0](https://spockframework.org/spock/docs/2.0/release_notes.html)
+
+* Spock est rebasé sur JUnit Platform
+* Support de l’exécution en parallèle des test specs et des test features
+* Support de Groovy 3
+* Améliorations des tests avec des données tabulaires
+
 
 ### Architecture
 
