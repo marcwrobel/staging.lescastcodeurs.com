@@ -131,7 +131,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Outillage
 
-[JForg garde Bintray JCenter en lecture seule y compris le mirroring de maven central ](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
+[JFrog garde Bintray JCenter en lecture seule y compris le mirroring de maven central ](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
 
 * Ca sent le truc planifie pour faire migrer et descendre le traffic et arriver en bon samaritain après. Cela dit ils étaient bon samaritains avec la version gratuite 
 * Au moins les builds anciens ne vont pas casser 
@@ -213,14 +213,9 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ## Conférences
 
-[Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu'à y mois  
-TODO: reprendre celles de l'épisode d'avant
-
-[Devoxx france bougent au 29 septembre, 1er et 2 octobre](Et dire que @agoncal et @aheritier nous avertissent même pas que Devoxx France est repoussé à la rentrée ?
-https://twitter.com/DevoxxFR/status/1389489979978563584)  
+[Devoxx france bougent au 29, 30 septembre et 1er octobre](https://twitter.com/DevoxxFR/status/1389489979978563584)  
 
 Crowdcast de [hack.commit.push](https://paris2021.hack-commit-pu.sh/) samedi 29 mai  
-
 
 ## Nous contacter
 
