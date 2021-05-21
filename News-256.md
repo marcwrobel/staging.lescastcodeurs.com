@@ -196,7 +196,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
     * serveurs en France
     * opérés par des entreprises européennes
     * détenues par des européens
-* "les américainbs sont les plus avancés"
+* "les américains sont les plus avancés"
     * Google et Microsoft ont signé l'accord de licence
     * donc pas Amazon
 
