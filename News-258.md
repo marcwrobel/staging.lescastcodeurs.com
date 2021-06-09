@@ -63,6 +63,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Infrastructure
 
+[Un problème chez Fastly et l'internet tousse](https://www.fastly.com/blog/summary-of-june-8-outage)
+
+* Fastly est un CDN
+* hoste beaucoup d'artefact de type NPM, Maven, JS resources etc
+* consequence est sites defacé par manque de CSS ou JS, voir HTTP pages non accessibles
+* bug declenché par une config client => fait tomber 85% du réseau
+
 ### Cloud
 
 [Les services d’intelligence artificielle d’AWS ne respectaient pas le non déplacement des données hors de la région par défaut ](https://techmonitor.ai/techonology/cloud/aws-user-data)
