@@ -35,7 +35,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Librairies
 
-[Spring Boot 2.5.0est sorti](https://spring.io/blog/2021/05/20/spring-boot-2-5-is-now-ga) 
+[Spring Boot 2.5.0 est sorti](https://spring.io/blog/2021/05/20/spring-boot-2-5-is-now-ga) 
 
 * Support for Java 16
 * Support for Gradle 7
@@ -87,7 +87,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * [Web extensions community group](https://www.w3.org/community/webextensions/)
 * Base sur le travail de safari de supporter les extensions des autres navigateurs 
 * On a vu des défis et réduction de possibilités pour contrôler la sécurité et le tracking
-* De toutes façons tout le,monde est sur Chromium ahaha 
+* De toutes façons tout le monde est sur Chromium ahaha 
 
 ### Data
 
@@ -95,7 +95,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 [Gradle 7 est sorti et Cédric nous fait un crowdcast ](https://gradle.org/whats-new/gradle-7)
 
-* D’ailleurs, Cédric quitte Graeme Inc après des années de bons et loyaux services 
+* D’ailleurs, Cédric quitte Gradle Inc après des années de bons et loyaux services 
 
 [Prosus achète StaxkOverfloz pour 1,8 milliards](https://stackoverflow.blog/2021/06/02/prosus-acquires-stack-overflow/)
 
@@ -105,6 +105,12 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 	* Jobs 50% du revenu
 	* Team collaboration tool bonne croissance 
 	* C’est stackoverflow pour les équipes internes 
+
+[docker hub autobuild, les crypto mineurs m'ont tué](https://www.docker.com/blog/changes-to-docker-hub-autobuilds/). 
+
+> En avril, nous avons vu le nombre d’heures de construction augmenter de 2 fois notre charge habituelle et à la fin du mois, nous avions déjà désactivé ~ 10 000 comptes en raison d’abus de minage. La semaine suivante, nous avons eu environ 2 200 mineurs supplémentaires.
+
+* Il faut contacter Docker pour les projets OSS de bonne volonté qui ont besoin de ce service 
 
 ### Architecture
 
@@ -117,6 +123,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * Différence Service vs product 
 
 ### Sécurité
+
+
 
 ### Loi, société et organisation
 
