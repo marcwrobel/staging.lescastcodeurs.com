@@ -104,6 +104,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * Scheduling and tenant support in the Reporting plugin.
 * aussi mentionne la roadmap
 
+[Kibernetes 1.22 enlève le support des vieilles versions de resource](https://kubernetes.io/blog/2021/07/14/upcoming-changes-in-kubernetes-1-22/#api-changes)
+
+* faites le ménage en continu pas des grosses migrations tous les 3 ans
+
 ### Cloud
 
 [Un tweet lance un faux service AWS InfiniDash qui a été repris par des devs et des boîtes](https://siliconangle.com/2021/07/05/fake-amazon-cloud-service-aws-infinidash-quickly-goes-viral/)
