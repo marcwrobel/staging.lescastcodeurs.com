@@ -81,7 +81,7 @@ Features integrated in JDK 17:
 * [JEP 382: New macOS Rendering Pipeline](https://openjdk.java.net/jeps/382)
 * [JEP 391: macOS/AArch64 Port ](https:/*openjdk.java.net/jeps/391)*/
 * [JEP 398: Deprecate the Applet API for Removal](https://openjdk.java.net/jeps/398)
-* [JEP 403: Strongly Encapsulate JDK Internals](https://openjdk.java.net/jeps/403)
+* [JEP 403: Strongly Encapsulate JDK Internals](https://openjdk.java.net/jeps/403) (sauf pour `sun.misc.Unsafe`)
 * [JEP 406: Pattern Matching for switch (Preview)](https://openjdk.java.net/jeps/406)
 * [JEP 407: Remove RMI Activation ](https://openjdk.java.net/jeps/407)
 * [JEP 409: Sealed Classes ](https://openjdk.java.net/jeps/409)
