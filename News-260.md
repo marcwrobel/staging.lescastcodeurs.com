@@ -54,7 +54,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * License Oracle Universal Permissive
     * probablement un dérivé de [Universal Permissive License](https://opensource.org/licenses/UPL)
 
-[Le rapport sur l’écosystème JVM](https://snyk.io/jvm-ecosystem-report-2021)
+[Le rapport sur l’écosystème JVM](https://snyk.io/jvm-ecosystem-report-2021) par Snyk
 
 * Mon (Emmanuel) intuition c'est qu'il y un biais dans les gens mesurés
 * 44% des Dev Java utilisent adoptopenjdk en prod. Oracle openjdk 28 et Oracle JDG 23
