@@ -106,7 +106,7 @@ Features integrated in JDK 17:
 * Vert.x 4
 * Microprofile 4
 * Continuous testing : les tests impactes tournent automatiquement en Dev mode. Les tests qui cassent sur un changement sont visible tout de suite et en continu. Comme infinitest mais sans plugin IDE.
-* Quarkus a une CLI pour simplifier l’interaction vs les plugins maven ou gradle.   Notamment création de projetas.* Guide de migration mais les applis devraient essentiellement fonctionner (extensions ont plus de taf)
+* Quarkus a une CLI pour simplifier l’interaction vs les plugins maven ou gradle. Notamment création de projetas.
 * JDK 11+ GraalVM 21.1
 * Vert.x 4
 * Microprofile 4
