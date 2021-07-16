@@ -56,6 +56,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 [Le rapport sur l’écosystème JVM](https://snyk.io/jvm-ecosystem-report-2021) par Snyk
 
+* Sondage effectué durant six semaines (entre février et mars 2021) au prêt de 2000 developeurs
 * Mon (Emmanuel) intuition c'est qu'il y un biais dans les gens mesurés
 * 44% des Dev Java utilisent adoptopenjdk en prod. Oracle openjdk 28 et Oracle JDG 23
 * 60% utilisent Java 11 en prod. Et 12 la dernière mais encore 60% de 8 en prod
