@@ -128,16 +128,16 @@ Features integrated in JDK 17:
 [Amazon sort son OpenSearch 1.0 et OpenSearch Dashboard, leur fork d’Elastic Search et Kibana](https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/)
 
 * 1.0 sortie de [OpenSearch](https://opensearch.org) ([GitHub](https://github.com/opensearch-project))
-* Continual removal of proprietary code and marks.
-* Upgrading: mise a jour d'ElasticSearch et Kibana aussi simple qu'une mise a jour de version
+* Suppression du code propriétaire
+* Upgrading: mise a jour d'ElasticSearch et Kibana vers OpenSearch et OpenSearch Dashboard aussi simple qu'une mise a jour de version
 * Compatibility: travaux de reflexion autour de la compatibilité avec les outils existants
-* Testing: modern and flexible testing infrastructur
-* Support for the ARM64 architecture for Linux,
+* Testing: infrastructure de test moderne et flexible
+* Supporte les architecture for Linux ARM64
 * Minimal artifacts for embedding of OpenSearch and OpenSearch Dashboards into existing products and services,
 * Data stream support for OpenSearch Dashboards,
 * Span attribute visibility and filtering in the Trace Analytics plugin,
 * Scheduling and tenant support in the Reporting plugin.
-* aussi mentionne la roadmap
+* Aussi mentionne la roadmap
 
 [Kibernetes 1.22 enlève le support des vieilles versions de resource](https://kubernetes.io/blog/2021/07/14/upcoming-changes-in-kubernetes-1-22/#api-changes)
 
