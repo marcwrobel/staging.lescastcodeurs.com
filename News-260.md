@@ -193,8 +193,9 @@ Features integrated in JDK 17:
 [LinkedIn la brèche qui donne des infos de 92% de ses utilisateurs y compris les salaires inférés](https://9to5mac.com/2021/06/29/linkedin-breach/amp/?__twitter_impression=true)
 
 * API LinkedIn abusée.
-* Email, noms, telephone, adresse physique,
+* Email, noms, telephone, adresse physique, de 700M d'utilisateurs
 * Presque interessé de fouiller pour voir mon salaire théorique :)
+* Dispo sur le dark web
 
 ### Loi, société et organisation
 
