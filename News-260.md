@@ -161,6 +161,19 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Loi, société et organisation
 
+[Lettre à ceux qui veulent faire tourner la France sur l’ordinateur de quelqu’un d’autre](https://www.codeforfrance.fr/publications) par [Tariq Krim](https://twitter.com/tariqkrim)
+* [Télécharger l'ebook au format PDF](https://www.codeforfrance.fr/assets/ebook/cloud_14Juillet2021.pdf). Très documenté et référencé
+* Coulisses et manoeuvres pour installer les GAFAM au coeur de l’État
+* 17 mai 2021, Bercy présente la nouvelle stratégie Cloud du Gouvernement
+* GAM (Googla Amazon Microsoft)
+* À part OVH Cloud, aucun des acteurs français n’a été mentionné par les Ministres
+* Les lois américaines dites FISA et Cloud Act permettent d’obliger les grandes sociétés US à fournir à la justice américaine les données situées sur leurs serveurs européens
+* Si l’on met de côté les questions de souveraineté, les services de sociétés comme Amazon, Microsoft et Google sont très ergonomiques
+* Les Américains offrent des services clé en main, les services “made in France” demandent de combiner plusieurs produits issus de sociétés différentes
+* Apple, Google, Facebook, Amazon ont embauché des dizaines de milliers d’ingénieurs, dont de très talentueux Français
+* Les clouds GAM pourraient décrocher le label SecNum Cloud (le plus haut niveau de sécurisation de l’État)
+* Après avoir délocalisé notre industrie (le fameux “Fabless” de Serge Tchuruk ancien patron d’Alcatel), l’État et les grandes entreprises ont délocalisé leur informatique vers les grandes SSII qui se sont mises à produire des projets à la chaîne
+
 ## Outils de l'épisode
 
 ## Rubrique débutant
