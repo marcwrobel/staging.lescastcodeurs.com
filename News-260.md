@@ -141,7 +141,9 @@ Features integrated in JDK 17:
 
 [Kubernetes 1.22 enlève le support des vieilles versions de resource](https://kubernetes.io/blog/2021/07/14/upcoming-changes-in-kubernetes-1-22/#api-changes)
 
-* faites le ménage en continu pas des grosses migrations tous les 3 ans
+* Faites le ménage en continu pas des grosses migrations tous les 3 ans
+* Release prévue en aout
+* Il vont supprimer des APIs qui étaient en beta
 
 ### Cloud
 
