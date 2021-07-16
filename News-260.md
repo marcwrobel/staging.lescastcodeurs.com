@@ -53,7 +53,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * License Oracle Universal Permissive
     * probablement un dérivé de [Universal Permissive License](https://opensource.org/licenses/UPL)
 
-[Le rapport sur l’écosystème JVM](https://snyk.io/jvm-ecosystem-report-2021/ le rapport sur l’écosystème JVM)
+[Le rapport sur l’écosystème JVM](https://snyk.io/jvm-ecosystem-report-2021)
 
 * Mon (Emmanuel) intuition c'est qu'il y un biais dans les gens mesurés
 * 44% des Dev Java utilisent adoptopenjdk en prod. Oracle openjdk 28 et Oracle JDG 23
@@ -62,6 +62,32 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * IntelliJ 70% eclipse 25 et vscode 23. 50% sont bi IDE
 * Maven 76% gradle 38% ant 12W yah
 * Spring Boot 58% Spring MVC 29% Jakarta ee 13% Quarkus 11%
+
+JDK 17 en ramp down phase 2
+
+Schedule
+
+* 2021/07/15 Rampdown Phase Two
+* 2021/08/05  Initial Release Candidate
+* 2021/08/19 Final Release Candidate
+* 2021/09/14  General Availability
+
+Features integrated in JDK 17:
+
+* [JEP 306: Restore Always-Strict Floating-Point Semantics](https://openjdk.java.net/jeps/306)
+* [JEP 356: Enhanced Pseudo-Random Number Generators](https://openjdk.java.net/jeps/356)
+* [JEP 382: New macOS Rendering Pipeline](https://openjdk.java.net/jeps/382)
+* [JEP 391: macOS/AArch64 Port ](https:/*openjdk.java.net/jeps/391)*/
+* [JEP 398: Deprecate the Applet API for Removal](https://openjdk.java.net/jeps/398)
+* [JEP 403: Strongly Encapsulate JDK Internals](https://openjdk.java.net/jeps/403)
+* [JEP 406: Pattern Matching for switch (Preview)](https://openjdk.java.net/jeps/406)
+* [JEP 407: Remove RMI Activation ](https://openjdk.java.net/jeps/407)
+* [JEP 409: Sealed Classes ](https://openjdk.java.net/jeps/409)
+* [JEP 410: Remove the Experimental AOT and JIT Compiler](https://openjdk.java.net/jeps/410)
+* [JEP 411: Deprecate the Security Manager for Removal](https://openjdk.java.net/jeps/411)
+* [JEP 412: Foreign Function & Memory API (Incubator)](https://openjdk.java.net/jeps/412)
+* [JEP 414: Vector API (Second Incubator)](https://openjdk.java.net/jeps/414)
+* [JEP 415: Context-Specific Deserialization Filters](https://openjdk.java.net/jeps/415) 
 
 ### Librairies
 
