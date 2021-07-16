@@ -127,7 +127,7 @@ Features integrated in JDK 17:
 
 [Amazon sort son OpenSearch 1.0 et OpenSearch Dashboard, leur fork d’Elastic Search et Kibana](https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/)
 
-* 1.0 sortie
+* 1.0 sortie de [OpenSearch](https://opensearch.org) ([GitHub](https://github.com/opensearch-project))
 * Continual removal of proprietary code and marks.
 * Upgrading: mise a jour d'ElasticSearch et Kibana aussi simple qu'une mise a jour de version
 * Compatibility: travaux de reflexion autour de la compatibilité avec les outils existants
