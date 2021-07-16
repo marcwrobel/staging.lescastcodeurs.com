@@ -39,6 +39,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * Lombok moins populaire parce que Java Records.
 * Kafka sera plus un data store immuable et source de vérité que un remplacement pour JMS
 * Kafka et réactive en combo va rendre la programmation réactive populaire
+* Le projet Loom eliminera la programmation reactive pour les resources non-reactives
 * ARM sur le serveur
 * GraalVM pour remplacer OpenJDK car rapide et multi langage. Et competitor a GraalVM qui arrive
 * Visual studio code et ses features pour Java  pas forcément connu et donc va croître encore.
