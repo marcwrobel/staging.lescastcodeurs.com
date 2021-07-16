@@ -63,7 +63,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * Maven 76% gradle 38% ant 12W yah
 * Spring Boot 58% Spring MVC 29% Jakarta ee 13% Quarkus 11%
 
-JDK 17 en ramp down phase 2
+[JDK 17 en ramp down phase 2](https://mail.openjdk.java.net/pipermail/jdk-dev/2021-March/005266.html)
 
 Schedule
 
