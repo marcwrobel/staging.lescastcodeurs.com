@@ -114,6 +114,10 @@ Features integrated in JDK 17:
 * Support kotlin grandement amélioré : resteasy rezctive, rest client, reactive messaging extensions supportent tous les coroutines
 * Support d’Amazon services system manager
 
+[Crafting rolling releases for a Quarkus CLI application](https://andresalmiray.com/crafting-rolling-releases-for-a-quarkus-cli-application/)
+
+* Y’a encore du chemin pour faire simplement des CLI avec graalVM en comparaison de go
+
 ### Infrastructure
 
 [Amazon sort son OpenSearch 1.0 et OpenSearch Dashboard, leur fork d’Elastic Search et Kibana](https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/)
