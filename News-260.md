@@ -117,6 +117,11 @@ Features integrated in JDK 17:
 [Crafting rolling releases for a Quarkus CLI application](https://andresalmiray.com/crafting-rolling-releases-for-a-quarkus-cli-application/)
 
 * Y’a encore du chemin pour faire simplement des CLI avec graalVM en comparaison de go
+* [JReleaser](https://jreleaser.org) outils permettant de livrer automatiquement des projets Java vers différentes plateforme (Homebrew, Snapcraft, Scoop)
+* Inspiré de GoReleaser et jbang
+* Le blog package l'outil `kcctl` créé par Gunnar avec JReleaser
+* Pas mal de conf (Windows vs Linux/MacOS) mais à la fin il y arrive
+
 
 ### Infrastructure
 
