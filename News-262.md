@@ -34,7 +34,45 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * Nouvelles API (backward compatibles ?)
 * Les anciens builds ne seront pas migrés
 
+[Une interview des architectes Java](https://blogs.oracle.com/javamagazine/java-architects-loom-panama-valhalla?source=:em:nw:mt::::RC_WWMK200429P00043C0036:NSL400176960)
+
+* Java longevity: stability (not removing things), readability, ecosystem’ well defined stable interfaces (JVM etc)
+* Nouvelles fonctionnalités : qu’est que qui ne peut être fait en dehors de la plateforme 
+	* Rendre Java plus extensible (Valhalla)
+* Bloque en Java 8
+	* Perds argent (meilleure mémoire, performance, temps de démarrage, pauses 2ms G1 etc
+	* Sécurité 
+* Loom
+	* Réactive programming pour mieux utiliser le,hardware
+	* Mais opposé à certains designs de la JVM (error report, débug, flight recorder)
+	* Loom résout le même problème mais en harmonie avec la JVM
+	* Api familières 
+*  Next
+	* Vallalah , panama
+	* Tail call recursion
+	* Etc
+
+[Quoi de neuf dans Scala 3](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
+
+* Scala 3.0.1
+	* Syntaxe given simplifiée (pas de with)
+	* `@experimental`
+* Scala 3.1
+	* Experimental safer exception (checked exceptions mais sans les ennuis)
+	* Warnings de compilation plus configurable
+	* Multiversal equality (des classes différentes qui peuvent être égales)
+
 ### Librairies
+
+[Spring 6 / SpringBoot 3 annoncé à SpringOne](https://twitter.com/mraible/status/1433072410182357000?s=21)
+
+* Java 17 et plus
+* Intègre Spring Native
+* Tomcat 10 min
+* Jakarta 9 avec cassage de packages 
+* Q4 2022
+* Spring 5.3 et SpringBoot 2.7 seront en maintenance open source entendue 
+* [Autre lien](https://spring.io/blog/2021/09/02/a-java-17-and-jakarta-ee-9-baseline-for-spring-framework-6)
 
 ### Infrastructure
 
