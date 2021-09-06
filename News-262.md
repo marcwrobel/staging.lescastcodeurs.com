@@ -186,6 +186,16 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ## Rubrique débutant
 
+[RISC vs CISC](https://medium.com/swlh/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de)
+
+* CISC roi quand la mémoire est chère, on crée des instructions haut niveau plus complexes
+* RISC paye en mémoire mais simplifie la chaîne de travail (instructions de taille fixe)
+* RISC plus d’opérations et donc de CPU clock mais pipelining possible
+* RISC compensé par plus de registers et par la compression d’instructions set
+* register mémoire interne CPU de taille fixe
+* CISC fait du hardware hyper threading 
+* RISC philosophiquement fait travailler les compilateurs beaucoup plus mais on ne code plus en assembleur
+
 ## Conférences
 
 [Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu'à y mois  
