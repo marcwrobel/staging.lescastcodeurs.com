@@ -52,6 +52,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 	* Tail call recursion
 	* Etc
 
+[Article en passant sur l’utilisation du foreign API avec libsodium](https://blog.arkey.fr/2021/09/04/a-practical-look-at-jep-412-in-jdk17-with-libsodium/)
+
+* juste une mention
+
 [Quoi de neuf dans Scala 3](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
 
 * Scala 3.0.1
