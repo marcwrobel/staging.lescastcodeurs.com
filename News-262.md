@@ -66,6 +66,14 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 	* Warnings de compilation plus configurable
 	* Multiversal equality (des classes différentes qui peuvent être égales)
 
+[Kotlin a 10 ans](https://www.infoq.com/articles/kotlin-ten-years-qa/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=mobile)
+
+* annoncé en 2011, 1.0 en 2016, default Android en 2017
+* pas theorique, problemes pragmatiques
+* multi plateforme encore experimental, on prend notre temps
+* ajoutent features dans le core lib plus lentement que Java
+* prochains 10 ans: multiplatforme, langage reste relevant, reactive programming et immuabilité du front vers le back
+
 ### Librairies
 
 [Spring 6 / SpringBoot 3 annoncé à SpringOne](https://twitter.com/mraible/status/1433072410182357000?s=21)
