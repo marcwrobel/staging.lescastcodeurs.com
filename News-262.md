@@ -86,6 +86,32 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * Spring 5.3 et SpringBoot 2.7 seront en maintenance open source entendue 
 * [Autre lien](https://spring.io/blog/2021/09/02/a-java-17-and-jakarta-ee-9-baseline-for-spring-framework-6)
 
+[Quarkus 2.2 et 2.1](http://quarkus.io/blog/quarkus-2-2-1-final-released/)
+
+* 2.2 Solidification (utilisabilite, doc, corriger problèmes) 
+* Mongodb service binding
+* RESTEasy Réactive automatiquement choisi le thread bloquant ou non bloquant
+	* Plus facile quand on vient de RESTEasy Classic
+	* [Détails ici](https://quarkus.io/blog/resteasy-reactive-smart-dispatch/)
+* 2.1 
+	* Dev services pour keycloak
+	* SQLServer réactive a son extension
+	* Kotlin 1.5
+	* [Blog post expliquant les nouvelles modularités de quarkus platform](http://quarkus.io/blog/quarkus-2x-platform-quarkiverse-registry/)
+
+[Micronaut 3 est sorti](https://micronaut.io/2021/08/18/micronaut-framework-3-released/)
+
+* RxJava n’est plus un dépendance transitive (choix du moteur réactive streams)
+	* Utilisent Reactor en dessous
+* Les annotations ne sont plus héritées par défaut 
+* Support Jakarta lifecycle annotations, Jakarta inject 
+* Injection qualifiée par le generic des arguments 
+* Filtres servers plus consistant (appelés une seule fois)
+* `@Introspected` ne rajoute plus les metadonnes pour GraalVM, utiliser `@ReflectiveAccess`
+* Ajout des resources passe du compile time au build time donc utilisez les plugins maven de Micronaut ou faite le vous même 
+* Quelques autres breaking changes
+* OpenRewrite règles changent le code pour migrer pour vous
+
 ### Infrastructure
 
 [Comment debugger son script Ansible](https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/)
