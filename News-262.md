@@ -181,6 +181,18 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * [Des articles paraissent listant les alternatives à Docker Desktop](https://matt-rickard.com/docker-desktop-alternatives/)
 * [Sur l’impact macOS](https://twitter.com/idriss_neumann/status/1432943504485986305)
 
+[Les différentes manières de déclarer les dépendances dans son projet Gradle](https://medium.com/agorapulse-stories/gradle-configurations-explained-4b9608dd5e35)  
+
+* En particulier, les différences entre api, implementation, runtimeOnly, compileOnly, compileOnlyApi
+Avec des exemples concrets pour bien illustre ces différents scopes.
+* Gradle regroupe les dépendances dans des ensembles appelés des “configurations”. Ces configurations définissent le classpath lors de la compilation, ou le classpath pour le runtime lorsque votre code s’exécute.
+* Gradle définit 3 types de configuration : api, implementation et runtimeOnly
+* La configuration “api” est utilisée pour le classpath compilation et runtime et est exposé aux consommateurs de l’API aussi pour le classpath de compilation et runtime
+* La configuration “implementation” est utilisée pour le classpath de compilation et runtime, mais est exposée pour le consommateur de l’API que pour le classpath au runtime
+* La configuration “runtimeOnly” n’est utilisée que pour le classpath au runtime
+* La configuration “compileOnly” est utilisée pour le classpath de compilation, mais n’est pas exposée pour les consommateurs
+* Enfin la configuration “compileOnlyApi” est utilisée pour le classpath de compliation et est exposée au consommateurs à la compilation de leur code quand les metadata Gradle sont utilisées
+
 ### Architecture
 
 ### Méthodologies
