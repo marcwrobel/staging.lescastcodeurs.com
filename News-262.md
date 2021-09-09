@@ -228,6 +228,14 @@ Avec des exemples concrets pour bien illustre ces différents scopes.
 * et quand on a deux pizza team, peut on contribuer sans se sentir trop contraint en temps
 * si c’est une équipe de 12 sur 200 equipes ca ne m’étonnes pas trop 🙂
 
+[L’Open Source au secours du développeur (et de l’architecte) ?](https://philippart-s.github.io/blog/articles/dev/oss-for-developer/), un retour d'expérience très personnel mais instructif pour ceux qui souhaiteraient se lancer ...
+
+* Pourquoi l’Open Source ?
+* Par où commencer ? 
+* Le choix du premier projet pour sa première contribution? (Le syndrome de l'imposteur)
+* La première contribution
+* Rythme de travail
+
 ## Outils de l'épisode
 
 ## Rubrique débutant
