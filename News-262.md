@@ -180,6 +180,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 * donc pour les boites de plus de 250 personnes ou qui font 10 millions, tu dois payer pour Docker Desktop
 * [Des articles paraissent listant les alternatives à Docker Desktop](https://matt-rickard.com/docker-desktop-alternatives/)
 * [Sur l’impact macOS](https://twitter.com/idriss_neumann/status/1432943504485986305)
+* [How Docker broke in half](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
 
 [Les différentes manières de déclarer les dépendances dans son projet Gradle](https://medium.com/agorapulse-stories/gradle-configurations-explained-4b9608dd5e35)  
 
