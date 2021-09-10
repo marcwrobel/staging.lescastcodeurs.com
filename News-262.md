@@ -239,6 +239,11 @@ Avec des exemples concrets pour bien illustre ces différents scopes.
 
 ## Outils de l'épisode
 
+[Fit Desk](https://thefitdesk.com)
+
+* Antonio passe au [Fit Desk](https://thefitdesk.com) pour travailler en pédalant
+* Promis, il écrira un blog dans 4/6 mois avec du feedback
+
 ## Rubrique débutant
 
 [RISC vs CISC](https://medium.com/swlh/what-does-risc-and-cisc-mean-in-2020-7b4d42c9a9de)
