@@ -12,13 +12,13 @@ Les cas d’utilisation typique
 
 ### Les concepts clés
 
-Le JIT  
+Graal le compilateur et le JIT  
 * c’est quoi un JIT
 * Pourquoi pas basé sur HotSpot  
 * Pourquoi en Java?
 * des cas d’utilisations préférés par GraalVM JIT vs HotSpot (et vice versa)
 
-Truffle
+Truffle et polyglot
 * Java qui tourne d’autres langages, lesquels?
 * comment ça marche, génère du byte code? Interprète?
 * Comment les codes de différents langages interagissent?
