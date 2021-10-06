@@ -90,19 +90,19 @@ Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-
 ### Architecture
 
 [Facebook est tombé pendant environ 6H ](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) 
-1/ Facebook prévoit de faire une maintenance sur son backbone (classique)
-2/ Un ingénieur lance par erreur une commande qui declare l’ensemble du backbone inaccessible
-3/ Oups, le système d’audit qui devrait empêcher de lancer une telle commande est buggé, la commande passe ...
-4/ Toute l’infra de Facebook est désormais déconnectée du net. Les avertissements BGP sont stoppées puisque l’infra FaceBook n’est plus dispo et les DNS déprovisionnent les entrées FaceBook, le monde ne peut plus accéder à FaceBook
-5/ Les ingé comprennent vite le problème sauf que ils ont perdus les accès remotes aux services et la plupart de leurs systèmes internes sont KO à cause du retrait des DNS
-6/ Ils envoient donc du personnel sur site dans les datacenters pour physiquement remettre en service l’infra mais l’accès physique aux machines est super protégé
-7/ Ils finissent par y arriver SAUF que le fait de tout redémarrer pause un vrai challenge du fait de l’affluence du traffic qui reprend. Ils risquent de refaire tomber les datacenters du fait de la surcharge électrique. (sans parler de sproblèmes plus haut niveau comme le rechargement des caches etc)
-8/ Heureusement ils ont un plan de reprise qu’ils testent régulièrement qui est plutôt prévu dans le cadre d’une tempête qui mettrait HS tout ou partie du réseau. Ce système marche bien et tout rentre dans l’ordre petit à petit, Facebook est sauvé, la planète a reperdu 5 points de QI
-[Julia Evans explore BGP et son fonctionnement dans cet article](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
-[Vu de dehors avec Cloudflare](https://blog.cloudflare.com/october-2021-facebook-outage/) 
+* Facebook prévoit de faire une maintenance sur son backbone (classique)
+* Un ingénieur lance par erreur une commande qui declare l’ensemble du backbone inaccessible
+* Oups, le système d’audit qui devrait empêcher de lancer une telle commande est buggé, la commande passe ...
+* Toute l’infra de Facebook est désormais déconnectée du net. Les avertissements BGP sont stoppées puisque l’infra FaceBook n’est plus dispo et les DNS déprovisionnent les entrées FaceBook, le monde ne peut plus accéder à FaceBook
+* Les ingé comprennent vite le problème sauf que ils ont perdus les accès remotes aux services et la plupart de leurs systèmes internes sont KO à cause du retrait des DNS
+* Ils envoient donc du personnel sur site dans les datacenters pour physiquement remettre en service l’infra mais l’accès physique aux machines est super protégé
+* Ils finissent par y arriver SAUF que le fait de tout redémarrer pause un vrai challenge du fait de l’affluence du traffic qui reprend. Ils risquent de refaire tomber les datacenters du fait de la surcharge électrique. (sans parler de sproblèmes plus haut niveau comme le rechargement des caches etc)
+* Heureusement ils ont un plan de reprise qu’ils testent régulièrement qui est plutôt prévu dans le cadre d’une tempête qui mettrait HS tout ou partie du réseau. Ce système marche bien et tout rentre dans l’ordre petit à petit, Facebook est sauvé, la planète a reperdu 5 points de QI
+* [Julia Evans explore BGP et son fonctionnement dans cet article](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
+* [Vu de dehors avec Cloudflare](https://blog.cloudflare.com/october-2021-facebook-outage/) 
 * Impact non seulement du DNS mais des routes BGP elles même. Ces routes disent qu'une IP (our série d’IP) appartient à une personne donnee. 
-* Fondamentalement modèle de confiance.
-* Intéressant de voir comment Facebook DNS down ajouté beaucoup de traffic aux serveurs de DNS principaux qui ne cachent pas le SERVFAIL
+    * Fondamentalement modèle de confiance.
+    * Intéressant de voir comment Facebook DNS down ajouté beaucoup de traffic aux serveurs de DNS principaux qui ne cachent pas le SERVFAIL
 
 ### Méthodologies
 
