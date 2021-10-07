@@ -1,9 +1,9 @@
 ---
-title: LCC 999 - 
+title: LCC 265 - 
 author: 'Emmanuel Bernard'
 team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Heritier, Audrey Neveu'
 layout: blog-post
-episode: 999
+episode: 265
 mp3_length: 85017000
 tweet: TODO
 # tweet size: 91-93 -> 99-101 #######################################################################
@@ -17,9 +17,9 @@ TODO: comment ajouter une news
 
     * bullet points autorisés si plusieurs liens sur là même news
 
-Enregistré le 1 septembre 2020
+Enregistré le 8 octobre 2021
 
-Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
+Téléchargement de l'épisode [LesCastCodeurs-Episode-265.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-265.mp3)
 
 ## News
 
@@ -124,8 +124,9 @@ Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-
 
 ## Conférences
 
-[Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu'à y mois  
-TODO: reprendre celles de l'épisode d'avant
+[DevFest Nantes les 21 et 22 octobre 2021](https://devfest.gdgnantes.com/) 
+[DevFest Lille le 19 novembre 2021](https://devfest.gdglille.org/) 
+[SunnyTech les 30 juin et 1er juillet 2022 à Montpellier](https://sunny-tech.io/) 
 
 ## Nous contacter
 
