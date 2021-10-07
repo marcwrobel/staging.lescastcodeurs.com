@@ -65,13 +65,33 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-265.mp3](https://traffic.
 * La base est censée référencer tous les changements depuis 1970
 * mais en fusionnant plusieurs zones, le risque est de perdre l'historique pré-1970
 
-Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-day-1-recap-and-highlights) - [Jour 2](https://tanzu.vmware.com/content/blog/springone-2021-day-2-recap-and-highlights)
-* State of Spring 2021
-* Azure Spring Cloud Enterprise
-* Tanzu Application Platform
-* Spring Cloud Gateway for K8s and API Portal for VMware Tanzu 
+Recap Spring.io : 
+* [Récap Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-day-1-recap-and-highlights) 
+* [Récap Jour 2](https://tanzu.vmware.com/content/blog/springone-2021-day-2-recap-and-highlights) 
+* [Récap en vidéo par Josh Long](https://www.youtube.com/watch?v=VMtUzytjo6Y) 
+* [State of Spring 2021](https://www.youtube.com/watch?v=O0-IhAKnkWM) 
+  * 61% des sondés utilisent spring boot
+  * 94% d'entre eux pour faire des micro services
+  * 35% sur des architectures reactive
+  * 61% voudraient passer sur du natif d'ici 2 ans
+* [Spring Native](https://springone.io/2021/sessions/spring-native)
+* [De Spring framework 5.3 à 6.0](https://springone.io/2021/sessions/from-spring-framework-5-3-to-6-0)
 
 ### Infrastructure
+
+(suites annonces Spring.io)
+* Tanzu Application Platform : 
+  * compatible AKS, EKS, GKS et TKG.
+  * application accelerator (inspiré par spring initializer) pour "déclarer" les templates des applications qui seront ensuite déployées
+  * plateforme livrée avec toute la chaine d'outils mais configurable si les équipes préfèrent utiliser d'autres outils que ceux proposés
+  * Spring Cloud Gateway for K8s and API Portal for VMware Tanzu 
+* Azure Spring Cloud Enterprise : 
+  * évolution de Azure Spring Cloud lancé en 2020
+  * intégration de tous les outils 
+
+[Tanzu Community Edition](https://tanzu.vmware.com/content/blog/vmware-tanzu-community-edition-announcement) : 
+  * Version OSS de Tanzu
+![Tanzu Community Edition](https://content.cdntwrk.com/files/aHViPTYzOTc1JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzYxNTc4MjcyNTY1ZjYucG5nJnZlcnNpb249MDAwMCZzaWc9ZDI3Mjk2NzY4NjQwYTZjZWJhZTFkNTAyYjhhMGMwZTI%253D)
 
 ### Cloud
 
