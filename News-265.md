@@ -122,6 +122,19 @@ Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-
 * Il va faire un “preflight” request (avec une méthode HTTP OPTIONS) pour savoir s’il a le droit ou non, puis si c’est le cas, pourra accéder à la resource (edited) 
 * Julia explique la same-origin policy (càd qu’on ne doit accéder que des resources du domaine qu’on est en train de visiter dans son navigateur)
 
+[Fuite massive de données chez Twitch](https://cyberguerre.numerama.com/13464-fuite-sur-twitch-revenus-de-streameurs-4-questions-sur-le-leak-colossal-qui-frapperait-la-plateforme.html)  
+* Quoi ?
+  * l'intégralité du code source
+  * Les revenus (sur 3 ans) de plus de 10 000 streamers Twitch ont été publiés sur le net. 
+  * certains codes d'accès AWS
+  * attention c'est la partie 1, il pourrait y avoir d'autres données prochainement
+* Comment ? 
+  * Officiellement suite à une erreur dans un changement de config
+  * Officieusement c'est plus probablement un employé ou un ex employé
+* Pourquoi ?
+  * le message sur 4chan dénonce un « un cloaque toxique dégoûtant », ce qui pourrait faire référence aux problèmes de harcèlements et de raids hostiles visant des streameurs et des streameuses en raison de leur origine ethnique, de leur orientation sexuelle ou genre. 
+  * il est aussi question d'une revendication à une concurrence plus saine dans le secteur du streaming de jeu vidéo
+
 ### Loi, société et organisation
 
 ## Outils de l'épisode
