@@ -26,11 +26,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 ### Langages
 
 [Oracle annonce des LTS de deux ans](https://inside.java/2021/09/14/moving-the-jdk-to-a-2-year-lts-candence/) 
-* Donc une LTS tous les 2 au lieu de 3 ans
+* Donc une LTS tous les 2 au lieu de 3 ans, ce qui fait que la prochaine sera la 21 et pas la 23.
+* Une enquête récente auprès de développeurs montre qu'entre un quart et la moitié utilisent les release de six mois en dev, mais moins de la moitié d'entre eux en prod
 * Mais pas de détail sur le temps de security patch support gratuit. Oracle en payant c’est 8 ans
 
 [Oracle offre Oracle JDK gratuitement avec support pendant 1 LTS + 1 an (donc 3 ans)](https://blogs.oracle.com/java/post/free-java-license) 
 * Redistribution gratuite aussi. Pas de click through. 
+* Sous license NFTC ("Oracle No-Fee Terms and Conditions").  
 * Ils en ont marre d’avoir de la compétition ?
 
 [Dans JDK 18, avec le JEP 400, le charset par défaut va enfin passer à UTF-8](https://inside.java/2021/10/04/the-default-charset-jep400/) 
