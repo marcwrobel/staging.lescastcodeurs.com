@@ -93,7 +93,7 @@ Recap Spring.io :
 ### Cloud
 
 [Azure installe des agents dans son image linux et ils sont vulnérables aux auto update](https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution)  
-* Lié à open management infrastructure
+* Lié à OMI (open management infrastructure, l'équivalent de  Windows Management Infrastructure (WMI) pour les systèmes UNIX qui s'exécute en root avec tous les privilèges
 * Dès qu’on utilise des services comme azure log, ils l’installent dans les VMs
 * L’article dit que c’est la faute à l’open source et que seulement 20 contributeurs. C’est un peu BS.
 * En fait si c’est installé via un service le service le mettra à jour
