@@ -85,15 +85,14 @@ Recap Spring.io :
 ### Infrastructure
 
 (suite annonces Spring.io)
-* [Tanzu Application Platform](https://tanzu.vmware.com/content/blog/announcing-vmware-tanzu-application-platform) : 
-  * plateforme livrée avec toute la chaine d'outils mais configurable si les équipes préfèrent utiliser d'autres outils que ceux proposés  
-  * compatible AKS, EKS, GKS et TKG.
-  * application accelerator (inspiré par spring initializer) pour "déclarer" les templates des applications qui seront ensuite déployées
-  * Spring Cloud Gateway for K8s and API Portal for VMware Tanzu 
+[Tanzu Application Platform](https://tanzu.vmware.com/content/blog/announcing-vmware-tanzu-application-platform) : 
+* plateforme livrée avec toute la chaine d'outils mais configurable si les équipes préfèrent utiliser d'autres outils que ceux proposés  
+* compatible AKS, EKS, GKS et TKG.
+* application accelerator (inspiré par spring initializer) pour "déclarer" les templates des applications qui seront ensuite déployées
+* Spring Cloud Gateway for K8s and API Portal for VMware Tanzu 
 
 [Tanzu Community Edition](https://tanzu.vmware.com/content/blog/vmware-tanzu-community-edition-announcement) : 
   * Version OSS de Tanzu
-![Tanzu Community Edition](https://content.cdntwrk.com/files/aHViPTYzOTc1JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzYxNTc4MjcyNTY1ZjYucG5nJnZlcnNpb249MDAwMCZzaWc9ZDI3Mjk2NzY4NjQwYTZjZWJhZTFkNTAyYjhhMGMwZTI%253D)
 
 ### Cloud
 
