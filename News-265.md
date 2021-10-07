@@ -70,10 +70,15 @@ Recap Spring.io :
 * [Récap Jour 2](https://tanzu.vmware.com/content/blog/springone-2021-day-2-recap-and-highlights) 
 * [Récap en vidéo par Josh Long](https://www.youtube.com/watch?v=VMtUzytjo6Y) 
 * [State of Spring 2021](https://www.youtube.com/watch?v=O0-IhAKnkWM) 
-  * 61% des sondés utilisent spring boot
-  * 94% d'entre eux pour faire des micro services
-  * 35% sur des architectures reactive
-  * 61% voudraient passer sur du natif d'ici 2 ans
+  * les chiffres:  
+    * 61% des sondés utilisent spring boot
+    * 94% d'entre eux pour faire des micro services
+    * 35% sur des architectures reactive
+    * 61% voudraient passer sur du natif d'ici 2 ans
+  * Java 17 et Jakarta EE 9 dès la 6.0 M1 qui arrive Q4 2021 (GA en Q4 2022)
+  * Execution native et compilation AOT dans SB 3.0
+  * Support de RSocket and GraphQL
+  * Spring Observability
 * [Spring Native](https://springone.io/2021/sessions/spring-native)
 * [De Spring framework 5.3 à 6.0](https://springone.io/2021/sessions/from-spring-framework-5-3-to-6-0)
 
