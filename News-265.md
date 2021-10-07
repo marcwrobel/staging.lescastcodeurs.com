@@ -161,9 +161,9 @@ Recap Spring.io :
 
 ## Conférences
 
-[DevFest Nantes les 21 et 22 octobre 2021](https://devfest.gdgnantes.com/) 
-[DevFest Lille le 19 novembre 2021](https://devfest.gdglille.org/) 
-[SunnyTech les 30 juin et 1er juillet 2022 à Montpellier](https://sunny-tech.io/) 
+[DevFest Nantes les 21 et 22 octobre 2021](https://devfest.gdgnantes.com/)  
+[DevFest Lille le 19 novembre 2021](https://devfest.gdglille.org/)  
+[SunnyTech les 30 juin et 1er juillet 2022 à Montpellier](https://sunny-tech.io/)  
 
 ## Nous contacter
 
