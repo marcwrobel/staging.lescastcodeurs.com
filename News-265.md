@@ -87,7 +87,8 @@ Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-
 ### Data
 
 [Kafka 3.0](https://blogs.apache.org/kafka/)
-* Another step closer to remove ZooKeeper dependency. And of course many other improvements, bug fixes, and new features.
+* Suppression du support Java 8 et Scala 2.12
+* Nouvelles améliorations sur KRaft, le méchanisme de consensus qui remplacera à terme ZooKeeper
 
 ### Outillage
 
