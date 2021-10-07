@@ -45,19 +45,25 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-265.mp3](https://traffic.
 
 ### Librairies
 
-[JUnit 5.8](https://twitter.com/junitteam/status/1437131139194494976?s=21)  
-* Declarative test suites
-* Test class ordering
-* Multiple temp dir support
-* Extension registration on fields/params
-* LauncherSession and listener
+[JUnit 5.8](https://junit.org/junit5/docs/5.8.0/release-notes/)  
+* les classes de test peuvent être ordonnées avec la Class Order API (par nom de classe, nom d'affichage, avec @order ou random)
+* les classes de test imbriquées peuvent l'être avec @TestClassOrder
+* @ExtendWith peut maintenant être utilisé pour enregistrer des extensions via des champs ou des paramètres de méthode (constructeur, méthodes de test ou lifecycle)
+* @RegisterExtension peut maintenant être utilisé sur des champs privés.
+* `assertThrowsExactly` version plus stricte de assertThrows()
+* `assertDoesNotThrow()` supporte les suspending functions Kotlin
+* `assertInstanceOf` produit de meilleurs messages d'erreurs (remplacement pour `assertTrue(obj instanceof X)`)
+* `assertNull` comporte maintenant le type de l'object si sa méthode `toString` retourne null pour éviter les messages de type `expected <null> but was <null>`
+* @TempDir 
+  * peut maintenant être utilisé pour créer plusieurs répertoires temporaires (le retour au mode par context peut être fait par configuration)
+  * fait un reset des permissions read and write du répetertoire root et de tout les répertoires contenus plutôt que d'échouer à les supprimer
+  * peut maintenant être utilisé sur des champs private
+* Nouvel UniqueIdTrackingListener qui va générer un fichier contenant les identifiants des test executés et qui peut être utilisé pour re-executer ces tests dans une image GraalVM par exemple.
 
 [Stephen Colebourne avertit les utilisateurs de Joda Time de ne pas mettre à jour la base de données des fuseaux horaires](https://blog.joda.org/2021/09/big-problems-at-timezone-database.html) 
 * Les personnes qui sont responsables de cette base de données veulent fusionner certaines zones ensemble, par exemple, Oslo et Berlin. Alors que ces deux villes (et d’autres) n’ont pas forcément toujours eu la même heure
 * La base est censée référencer tous les changements depuis 1970
-* mais de fusionner plusieurs zones, le risque est de perdre cet historique aussi pré-1970
-
-[State of Spring 2021]()
+* mais en fusionnant plusieurs zones, le risque est de perdre l'historique pré-1970
 
 Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-day-1-recap-and-highlights) - [Jour 2](https://tanzu.vmware.com/content/blog/springone-2021-day-2-recap-and-highlights)
 * State of Spring 2021
