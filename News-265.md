@@ -79,15 +79,12 @@ Recap Spring.io :
 
 ### Infrastructure
 
-(suites annonces Spring.io)
-* Tanzu Application Platform : 
+(suite annonces Spring.io)
+* [Tanzu Application Platform](https://tanzu.vmware.com/content/blog/announcing-vmware-tanzu-application-platform) : 
+  * plateforme livrée avec toute la chaine d'outils mais configurable si les équipes préfèrent utiliser d'autres outils que ceux proposés  
   * compatible AKS, EKS, GKS et TKG.
   * application accelerator (inspiré par spring initializer) pour "déclarer" les templates des applications qui seront ensuite déployées
-  * plateforme livrée avec toute la chaine d'outils mais configurable si les équipes préfèrent utiliser d'autres outils que ceux proposés
   * Spring Cloud Gateway for K8s and API Portal for VMware Tanzu 
-* Azure Spring Cloud Enterprise : 
-  * évolution de Azure Spring Cloud lancé en 2020
-  * intégration de tous les outils 
 
 [Tanzu Community Edition](https://tanzu.vmware.com/content/blog/vmware-tanzu-community-edition-announcement) : 
   * Version OSS de Tanzu
