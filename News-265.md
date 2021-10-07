@@ -84,6 +84,11 @@ Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-
 
 ### Web
 
+[Julia Evans nous explique CORS](https://twitter.com/b0rk/status/1445039796804542473) 
+* Julia explique comment se comporte le navigateur qui voit qu’on essaie d’accéder à une URL différente de celle du domaine de la page web chargée, et le navigateur se demande s’il a le droit de charger cette page
+* Il va faire un “preflight” request (avec une méthode HTTP OPTIONS) pour savoir s’il a le droit ou non, puis si c’est le cas, pourra accéder à la resource (edited) 
+* Julia explique la same-origin policy (càd qu’on ne doit accéder que des resources du domaine qu’on est en train de visiter dans son navigateur)
+
 ### Data
 
 [Kafka 3.0](https://blogs.apache.org/kafka/)
@@ -117,11 +122,6 @@ Recap Spring.io : [Jour 1](https://tanzu.vmware.com/content/blog/springone-2021-
 ### Méthodologies
 
 ### Sécurité
-
-[Julia Evans nous explique CORS](https://twitter.com/b0rk/status/1445039796804542473) 
-* Julia explique comment se comporte le navigateur qui voit qu’on essaie d’accéder à une URL différente de celle du domaine de la page web chargée, et le navigateur se demande s’il a le droit de charger cette page
-* Il va faire un “preflight” request (avec une méthode HTTP OPTIONS) pour savoir s’il a le droit ou non, puis si c’est le cas, pourra accéder à la resource (edited) 
-* Julia explique la same-origin policy (càd qu’on ne doit accéder que des resources du domaine qu’on est en train de visiter dans son navigateur)
 
 [Fuite massive de données chez Twitch](https://cyberguerre.numerama.com/13464-fuite-sur-twitch-revenus-de-streameurs-4-questions-sur-le-leak-colossal-qui-frapperait-la-plateforme.html)  
 * Quoi ?
