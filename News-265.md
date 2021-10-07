@@ -37,9 +37,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 [Dans JDK 18, avec le JEP 400, le charset par défaut va enfin passer à UTF-8](https://inside.java/2021/10/04/the-default-charset-jep400/) 
 * Autant ce n’était plus vraiment un problème pour les systèmes sour mac OS ou Linux, qui utilisent depuis assez longtemps UTF-8 par défaut, mais c’est surtout pour les systèmes Windows où c’est plus problématique
-* Dans JDK 17, la propriété système `System.getProperty("native.encoding")` avait été introduite
-* si on veut lire par exemple un fichier avec
-* Deux approches de mitigation pour les problèmes de compatibilité, 1) en recompilant et en utilisant cette propriété quand on ouvre un fichier, ou 2) en utilisant -Dfile.encoding=COMPAT sans recompilation, qui gardera le même comportement qu’en JDK 17 et avant
+* Dans JDK 17, la propriété système `System.getProperty("native.encoding")` avait été introduite si on veut lire par exemple un fichier avec
+* Deux approches de mitigation pour les problèmes de compatibilité, 
+  * en recompilant et en utilisant cette propriété quand on ouvre un fichier
+  * en utilisant -Dfile.encoding=COMPAT sans recompilation, qui gardera le même comportement qu’en JDK 17 et avant
 * L’équipe d’Oracle suggère de tester ses applications avec -Dfile.encoding=UTF-8 pour voir s’il n’y a pas de soucis 
 
 ### Librairies
