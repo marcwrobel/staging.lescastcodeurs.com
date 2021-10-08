@@ -31,6 +31,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-265.mp3](https://traffic.
 * Mais pas de détail sur le temps de security patch support gratuit. Oracle en payant c’est 8 ans
 
 [Oracle offre Oracle JDK gratuitement avec support pendant 1 LTS + 1 an (donc 3 ans)](https://blogs.oracle.com/java/post/free-java-license) 
+* Java 17 et +
 * Redistribution gratuite aussi. Pas de click through. 
 * Sous license NFTC ("Oracle No-Fee Terms and Conditions").  
 * Ils en ont marre d’avoir de la compétition ?
