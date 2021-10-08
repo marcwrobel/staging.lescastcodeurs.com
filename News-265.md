@@ -76,10 +76,18 @@ Recap Spring.io :
     * 94% d'entre eux pour faire des micro services
     * 35% sur des architectures reactive
     * 61% voudraient passer sur du natif d'ici 2 ans
-  * Java 17 et Jakarta EE 9 dès la 6.0 M1 qui arrive Q4 2021 (GA en Q4 2022)
-  * Execution native et compilation AOT dans SB 3.0
+  * Nouvelle baseline pour Spring Framework 6.0 
+    * Java 17 et Jakarta EE 9 dès la 6.0 M1 de Spring Framework qui arrive Q4 2021 (GA en Q4 2022)
+  * Spring Native arrive dans Spring Framework
+    * Compilation AOT bénéficiera aux déploiements JVM aussi
+    * Spring Boot starter pour applications natives
+    * Spring Boot proposera des plugin de build et configuration native dès la 3.0
   * Support de RSocket and GraphQL
-  * Spring Observability
+  * Spring Observability passe dans Spring Framework
+    * API unifiée pour les metrics et le tracing, compatible Micrometer, Wavefront, Zipkin, Brave et OpenTelemetry
+    * intégration consistante dans tout le portfolio
+    * auto configuration dans Spring Boot 3.0
+    * Core abstractions dans Spring Framework 6.0
 * [Spring Native](https://springone.io/2021/sessions/spring-native)
 * [De Spring framework 5.3 à 6.0](https://springone.io/2021/sessions/from-spring-framework-5-3-to-6-0)
 
