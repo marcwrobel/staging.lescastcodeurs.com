@@ -46,7 +46,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-265.mp3](https://traffic.
 
 ### Librairies
 
-[JUnit 5.8](https://junit.org/junit5/docs/5.8.0/release-notes/)  
+[JUnit 5.8](https://junit.org/junit5/docs/current/release-notes/index.html#release-notes-5.8.0)  
 * les classes de test peuvent être ordonnées avec la Class Order API (par nom de classe, nom d'affichage, avec @order ou random)
 * les classes de test imbriquées peuvent l'être avec @TestClassOrder
 * @ExtendWith peut maintenant être utilisé pour enregistrer des extensions via des champs ou des paramètres de méthode (constructeur, méthodes de test ou lifecycle)
