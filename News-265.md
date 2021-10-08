@@ -122,7 +122,7 @@ Recap Spring.io :
 ### Data
 
 [Kafka 3.0](https://blogs.apache.org/kafka/)
-* Suppression du support Java 8 et Scala 2.12
+* Le support Java 8 et Scala 2.12 est déprécié et sera retiré en version 4
 * Nouvelles améliorations sur KRaft, le méchanisme de consensus qui remplacera à terme ZooKeeper
 
 ### Outillage
