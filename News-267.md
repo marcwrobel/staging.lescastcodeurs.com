@@ -26,7 +26,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Langages
 
-[Blog sur les extraits de code dans les JavaDocs](https://www.morling.dev/blog/executable-javadoc-code-snippets/)  (18 Oct 2021)
+[Blog sur les extraits de code dans les JavaDocs](https://www.morling.dev/blog/executable-javadoc-code-snippets/) (18 Oct 2021)  
 
 * C’est plus agréable à utiliser que les balises pre, pas besoin d’escaping (pour < et >), l’espace à gauche est normalisé
 * On peut mettre en valeur certaines portion, ou remplacer par une expression régulière certains bouts
@@ -34,7 +34,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * Donc au moins, on est sûr que c’est du code valide et qui compile évidemment
 * Gunnar explique comment reprendre le code provenant de nos classes de test, pour le faire apparaître dans les JavaDocs, créant ainsi une vraie documentation “exécutable”
 
-[Compress class space](https://stuefe.de/posts/metaspace/what-is-compressed-class-space/) (27 Mars 2019)
+[Compress class space](https://stuefe.de/posts/metaspace/what-is-compressed-class-space/) (27 Mars 2019)  
 
 * compressed object ou class pointer sur 64buts en 32 bits vis adresse relative
 * due adresse relative, la Klass structure dans le metaspace doit être mémoire contiguë et pré allouée initialement (risque de non reallocation si mémoire libre non contiguë )
@@ -44,7 +44,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * Que quand on utilise compressed oops
 * Que pour Java heap size de 32G max
 
-[Cryostat 2.0](https://developers.redhat.com/articles/2021/10/18/announcing-cryostat-20-jdk-flight-recorder-containers)  
+[Cryostat 2.0](https://developers.redhat.com/articles/2021/10/18/announcing-cryostat-20-jdk-flight-recorder-containers) (18 Oct 2021)  
 
 * Fournit une API sécurisée pour profiler et monitored les applis Java dans les containers avec Java Flight Recorder
 * Cryostat peut récupérer stoquer et analyser les enregistrements flight recorder de containers
