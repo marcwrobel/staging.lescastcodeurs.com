@@ -110,7 +110,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * fonctionne sous M1
 * homebrew pour l'installation
 * comme docker machine avant en gros
-* il y a aussi une belle présentation de Devoxx France (lien a trouver)
+* [il y a aussi une belle présentation de Devoxx France](https://www.youtube.com/watch?v=pUFIG2AMDhg)
 
 ### Cloud
 
