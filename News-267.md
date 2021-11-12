@@ -142,6 +142,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 [elasticsearch 8.0 will require java 17](https://twitter.com/xeraa/status/1455980076001071106) (3 Nov 2021)    
 
 * definitely easier for something standalone than a library or anything that needs to share the JDK with all its apps
+* [PR GitHub](https://github.com/elastic/elasticsearch/pull/79873)
 
 [Hibernate Reactive 1.0.0, ça vaut le coup ?](https://in.relation.to/2021/10/27/hibernate-reactive-performance/)
 
@@ -150,7 +151,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * Donc les constructions haut niveau ont tendances à être limitées par le protocole sous-jacent ce qui ne se voyait pas ou peu en JDBC
 * utiliser HR si  votre appli est déjà réactive au cœur (e.g. RESTEasy reactive dans Quarkus ou une appli Vert.x)
 * Compareperfs acec techempower mais avec angle latence à un volume donné et  et pas throughout max
-* 20 requêtes d’affilée 20k request/s -> 35k sous 10ms de latence. C'est la valeur relative qui est intéressante
+* 20 requêtes d’affilée 20k request/s -> 35k sous 10ms de latence. C'est la valeur relative qui est intéressante* 
 * Une requête et du processing pour rendre au client, peu de différence
 * Toruhghput tend à être meilleur
 * Amélioration de réactive sur un an
