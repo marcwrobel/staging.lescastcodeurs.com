@@ -93,7 +93,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * Trop de contraintes limitantes dans le framework
 * Mais si client de Lightbend, supporté sur Lagom mais sans nouvelle fonctionnalité
 
-[Quarkus 2.4](https://quarkus.io/blog/quarkus-2-4-0-final-released/)
+[Quarkus 2.4](https://quarkus.io/blog/quarkus-2-4-0-final-released/) (27 Oct 2021)  
 
 * Hibernate Reactive 1.0.0.Final
 * Introducing Kafka Streams DevUI (c'est cool pour développer ca et savoir ce qui se passe
