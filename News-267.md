@@ -123,7 +123,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Web
 
-[CORS expliqué](https://jakearchibald.com/2021/cors/)  
+[CORS expliqué](https://jakearchibald.com/2021/cors/) (12 Oct 2021)    
 
 * inclue images d'autres sites, c'est l'origine
 * les cookies, credeitials etc etaient envoyés
