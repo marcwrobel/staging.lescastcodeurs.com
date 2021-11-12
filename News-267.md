@@ -13,6 +13,7 @@ Résumé
 TODO: comment ajouter une news
 
 * titre en français si possible
+* rajouter la date de la news (entre parenthèse)
 * pas de bullet points mais ajouter deux espaces à la fin de la ligne (cela fait passer à la ligne)  
 
     * bullet points autorisés si plusieurs liens sur là même news
@@ -25,7 +26,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Langages
 
-[Blog sur les extraits de code dans les JavaDocs](https://www.morling.dev/blog/executable-javadoc-code-snippets/)  
+[Blog sur les extraits de code dans les JavaDocs](https://www.morling.dev/blog/executable-javadoc-code-snippets/)  (18 Oct 2021)
 
 * C’est plus agréable à utiliser que les balises pre, pas besoin d’escaping (pour < et >), l’espace à gauche est normalisé
 * On peut mettre en valeur certaines portion, ou remplacer par une expression régulière certains bouts
@@ -33,7 +34,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * Donc au moins, on est sûr que c’est du code valide et qui compile évidemment
 * Gunnar explique comment reprendre le code provenant de nos classes de test, pour le faire apparaître dans les JavaDocs, créant ainsi une vraie documentation “exécutable”
 
-[Compress class space](https://stuefe.de/posts/metaspace/what-is-compressed-class-space/)  
+[Compress class space](https://stuefe.de/posts/metaspace/what-is-compressed-class-space/) (27 Mars 2019)
 
 * compressed object ou class pointer sur 64buts en 32 bits vis adresse relative
 * due adresse relative, la Klass structure dans le metaspace doit être mémoire contiguë et pré allouée initialement (risque de non reallocation si mémoire libre non contiguë )
