@@ -207,6 +207,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * La méthodologie est détaillée sur par exemple ce qu’est un journal de droite
 * Pourquoi c'est amplifié différemment est une question plus difficile à répondre
 * Amplification n’est pas mauvaise par défaut mais elle l'est si elle amène à un traitement préférentiel du à l’algorithme (vs comment les gens interagissent sur la plateforme)
+* [Le PDF de l'étude intégrale](https://cdn.cms-twdigitalassets.com/content/dam/blog-twitter/official/en_us/company/2021/rml/Algorithmic-Amplification-of-Politics-on-Twitter.pdf) 
 
 ## Outils de l'épisode
 
