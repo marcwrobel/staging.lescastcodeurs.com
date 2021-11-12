@@ -194,7 +194,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * arrêt du 6 octobre 2021
 * Pour corriger une erreur affectant le fonctionnement y compris via la désactivation d'une fonction affectant le bon fonctionnement de l'application
 
-[Influence de l’amplificartion algorithmique sur le contenu politique](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent)  
+[Influence de l’amplificartion algorithmique sur le contenu politique](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent) (21 Octo 2021)   
 
 * les recommendations algorithmiques amplifient-elle le contenu politique ?
 * dans le cas des timeline organisées algorithmiquement et pas reverse chronologique
