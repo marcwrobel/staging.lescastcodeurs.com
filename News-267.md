@@ -63,7 +63,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Librairies
 
-[Micronaut 3.1](https://micronaut.io/2021/10/11/micronaut-framework-released/)  
+[Micronaut 3.1](https://micronaut.io/2021/10/11/micronaut-framework-released/) (11 Oct 2021)  
 
 * support d'applications utilisant JDK 17
 * améliorations d'injections de dependances (repeatable scopes, primitive beans, etc)
