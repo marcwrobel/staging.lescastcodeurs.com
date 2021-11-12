@@ -102,7 +102,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Infrastructure
 
-[Installer et utiliser podman-machine sur macOS](https://blog.while-true-do.io/podman-machine/)  
+[Installer et utiliser podman-machine sur macOS](https://blog.while-true-do.io/podman-machine/) (19 Oct 2021)    
 
 * La virtualisation s’appuie sur qemu et met en place une VM dans laquelle les pods tournent.
 * Podman Machine pour installer une VM linux avec les outils
