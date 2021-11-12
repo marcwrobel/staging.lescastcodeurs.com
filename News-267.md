@@ -159,7 +159,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Outillage
 
-[AtomicJar se lance dans une offre Cloud](https://www.atomicjar.com/2021/11/announcing-testcontainers-cloud/)  
+[AtomicJar se lance dans une offre Cloud](https://www.atomicjar.com/2021/11/announcing-testcontainers-cloud/) (04 Nov 2021)    
 
 * les containers de test containers ne tournent plus en local
 * Mais dans le cloud de AtomicJar
