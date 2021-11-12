@@ -139,7 +139,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Data
 
-[elasticsearch 8.0 will require java 17](https://twitter.com/xeraa/status/1455980076001071106)  
+[elasticsearch 8.0 will require java 17](https://twitter.com/xeraa/status/1455980076001071106) (3 Nov 2021)    
 
 * definitely easier for something standalone than a library or anything that needs to share the JDK with all its apps
 
