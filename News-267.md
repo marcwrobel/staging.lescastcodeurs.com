@@ -87,7 +87,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * Besoin de sponsors et de contributeurs
 * Question: ils n’avaient pas déjà arrêté Scala?
 
-[Lightbend déveste de Lagom aussi](https://discuss.lightbend.com/t/the-future-of-lagom/8962)  
+[Lightbend déveste de Lagom aussi](https://discuss.lightbend.com/t/the-future-of-lagom/8962). (20 Oct 2021)  
 
 * Lagom effacé par akka Platform’et Akka Serverless
 * Trop de contraintes limitantes dans le framework
