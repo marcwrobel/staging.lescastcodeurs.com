@@ -116,7 +116,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 [Amazon déclaré la guerre à Microsoft en utilisant les arguments “Proprietaire”](https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/) (28 Oct 2021)    
 
-* Aurora a un font qui parler protocole SQL server.
+* Aurora a un font qui parler protocole SQL server ([Babelfish pour Aurora PostgreSQL](https://aws.amazon.com/fr/rds/aurora/babelfish/)).
 * Et convertit les T-SQL
 * Open source the t sql vers Postgres (debug). Sous license ASL
 * Pas tout open sourcé encore
