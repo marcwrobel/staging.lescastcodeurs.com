@@ -144,7 +144,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * definitely easier for something standalone than a library or anything that needs to share the JDK with all its apps
 * [PR GitHub](https://github.com/elastic/elasticsearch/pull/79873)
 
-[Hibernate Reactive 1.0.0, ça vaut le coup ?](https://in.relation.to/2021/10/27/hibernate-reactive-performance/)
+[Hibernate Reactive 1.0.0, ça vaut le coup ?](https://in.relation.to/2021/10/27/hibernate-reactive-performance/) (27 Oct 2021)  
 
 * PostgreSQL, MySQL, MariaDB, Db2, SQL Server, and CockroachDB
 * bases de donnés désignées pour des interactions classiques
