@@ -127,8 +127,9 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 * inclue images d'autres sites, c'est l'origine
 * les cookies, credeitials etc etaient envoyés
-* yahoo mail construit pouvait filer les credentials des utilisateurs
-* etc etc (TODO)
+* yahoo mail pouvait filer les credentials des utilisateurs
+* une iFrame pouvait lire le contenu d'une autre iFrame (Netscape met en place le Cross-Frame Scripting)
+* `Access-Control-Allow-Origin: *` est ok si pas de données privées
 
 [Rendre une page HTML brute jolie en 100 caractères de CSS](https://www.swyx.io/css-100-bytes)
 
