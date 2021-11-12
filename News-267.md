@@ -175,7 +175,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Méthodologies
 
-[Canary releases ou avoir des testeurs](https://www.infoq.com/articles/canary-releases-testing/)  
+[Canary releases ou avoir des testeurs](https://www.infoq.com/articles/canary-releases-testing/) (04 Nov 2021)    
 
 * canary release est une release en prod mais sur un petit sous ensemble des utilisateurs
 * Peut aider a voir si une nouvelle fonctionnalité intéresse les utilisateurs avant de commiter sur le long terme
