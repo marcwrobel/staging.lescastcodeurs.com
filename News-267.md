@@ -55,9 +55,9 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 * A un opérateur kubernetes
 * Etc
 
-[Microsoft augmente ses investissements dans Java](https://devblogs.microsoft.com/java/microsoft-deepens-its-investments-in-java/)  
+[Microsoft augmente ses investissements dans Java](https://devblogs.microsoft.com/java/microsoft-deepens-its-investments-in-java/). (4 Nov 2021)  
 
-* Microsoft rejoints le JCP
+* Microsoft rejoints le [JCP](https://jcp.org/)
 * Travaille sur VSCode for Java avec Red Hat
 * Est OK avec le LTS passant à 2 ans et va aider à supporter ces releases plus fréquentes
 
