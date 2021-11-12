@@ -189,7 +189,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Loi, société et organisation
 
-[Le droit à decompiler pour corriger des erreurs confirmé légal](https://www.legalis.net/actualite/le-droit-a-decompiler-un-logiciel-pour-corriger-des-erreurs-confirme-par-la-cjue/)
+[Le droit à decompiler pour corriger des erreurs confirmé légal](https://www.legalis.net/actualite/le-droit-a-decompiler-un-logiciel-pour-corriger-des-erreurs-confirme-par-la-cjue/) (21 Oct 2021)  
 
 * arrêt du 6 octobre 2021
 * Pour corriger une erreur affectant le fonctionnement y compris via la désactivation d'une fonction affectant le bon fonctionnement de l'application
