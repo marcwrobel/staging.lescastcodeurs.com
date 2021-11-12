@@ -114,7 +114,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-267.mp3](https://traffic.
 
 ### Cloud
 
-[Amazon déclaré la guerre à Microsoft en utilisant les arguments “Proprietaire”](https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/)  
+[Amazon déclaré la guerre à Microsoft en utilisant les arguments “Proprietaire”](https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/) (28 Oct 2021)    
 
 * Aurora a un font qui parler protocole SQL server.
 * Et convertit les T-SQL
