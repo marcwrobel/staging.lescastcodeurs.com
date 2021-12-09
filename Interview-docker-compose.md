@@ -57,6 +57,7 @@ Discussion sur les notions:
 * network
 * sécurité (cap_add)
 
+docker-compose vs docker compose
 
 ### Comment on l’utilise en pratique pour un dev
 
@@ -83,6 +84,9 @@ Zoom sur le network
 La sécurité  
 
 ### La communauté, le futur
+
+Roadmap  
+Docker desktop payant  
 
 ## Nous contacter
 
