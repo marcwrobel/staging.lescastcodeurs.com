@@ -17,7 +17,7 @@ TODO: comment ajouter une news
 
     * bullet points autorisés si plusieurs liens sur là même news
 
-Enregistré le 1 septembre 2020
+Enregistré le 2 janvier 2022
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
 
