@@ -161,6 +161,14 @@ Comme prévu, la saga log4j continue avec Log4j 2.17 et 2.17.1
 * doit-on quitter le navire? equilibre entre fonctionalités et sécurité
 * on fera un épisode spécial log4Shell bientôt
 
+[H2 vulnérable à une attaque JNDI](https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/)
+
+* fondamentalement comme log4shell
+* Mais exploitable pour ceux qui passent une url ou un login mot de passe via des infos utilisateur
+* Par exemple h2 console 
+* Mais localhost par défaut
+* Sauf dans jhipster
+
 ### Loi, société et organisation
 
 [Tribune de Didier Girard sur le cloud souverain](https://www.lopinion.fr/economie/le-cloud-souverain-est-necessaire-le-cloud-de-confiance-indispensable-pour-y-parvenir-la-tribune-de-didier-girard)  
