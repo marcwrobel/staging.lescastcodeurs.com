@@ -3,19 +3,21 @@
 
 
 
-### Quelle est la vulnérabilité et pourquoi c’est mal?
+### Quelle est cette vulnérabilité et pourquoi est-elle si dangereuse ?
 
 
 
 [CVE-2021-44228](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44228)
 * fix 2.15.0
 * Apache Log4j2 JNDI features do not protect against attacker controlled LDAP and other JNDI related endpoints.
+* Back to basics: C'est quoi JNDI?
 * Severité CVSS de 10 sur 10
 	* jamais vu
+* 0 day exploit, ça veut dire quoi ?
 * the JNDI features used in configurations, log messages, and parameters do not protect against attacker-controlled LDAP and other JNDI related endpoints
 * l’attaquant trouve une donnée utilisateur qui est loggée
 	* Pas que HTTP
-* et injecte `{JNDI:ldap` pointant vers un ldap malicieux qui retour du code java serialisé
+* et injecte `{JNDI:ldap` pointant vers un ldap malicieux qui retour du code java sérialisé
 * log4j deserialise et execute ce que l’on veut
 * que log4j2-core pas api
 * détail de [Lunasec log4j zero day](https://www.lunasec.io/docs/blog/log4j-zero-day/)  
