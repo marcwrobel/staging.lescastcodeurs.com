@@ -8,12 +8,14 @@
 
 
 [CVE-2021-44228](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44228)
-* fix 2.15.0
+
+Reportée chez Apache le 24 Novembre, Enregistrée en CVE le 26 Nov
+
+* fix 2.15.0 le 10 décembre
 * Apache Log4j2 JNDI features do not protect against attacker controlled LDAP and other JNDI related endpoints.
-* Back to basics: C'est quoi JNDI?
-* Severité CVSS de 10 sur 10
+* Severity CVSS de 10 sur 10
 	* jamais vu
-* 0 day exploit, ça veut dire quoi ?
+* Back to basics: C'est quoi JNDI?
 * the JNDI features used in configurations, log messages, and parameters do not protect against attacker-controlled LDAP and other JNDI related endpoints
 * l’attaquant trouve une donnée utilisateur qui est loggée
 	* Pas que HTTP
@@ -25,11 +27,11 @@
 
 [CVE-2021-45046](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-45046)
 
-* 2.16.0 (change des foncionalites
+* 2.16.0 (change des fonctionalités) le 13 décembre
 * Apache Log4j2 Thread Context Lookup Pattern vulnerable to remote code execution in certain non-default configurations
 * When the logging configuration uses a non-default Pattern Layout with a Context Lookup
 	* `$${ctx:loginId})`
-* attackers with control over Thread Context Map (MDC) input data can craft malicious input data using a JNDI Lookup pattern
+* attackers with control over Thread Context Map (MDC / Mapped Diagnostic Context) input data can craft malicious input data using a JNDI Lookup pattern
 * donc on peut injected une chaine JNDI encore
 * mais on doit savoir comment de la date utilisateur on peut pousser dans une Thread Context Map référencée par la config
 * on alors l’attaquant a accès à la config et c’est game over
@@ -39,14 +41,14 @@
 
 [CVE-2021-45105](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-45105)
 
-* fix dans 2.17.0
-* recursion non controllée dans un lookup auto référentiel
+* fix dans 2.17.0 le 18 décembre
+* recursion non controlée dans un lookup auto référentiel
 * When the logging configuration uses a non-default Pattern Layout with a Context Lookup (for example, $${ctx:loginId}
 * Besoin de l’attaquant control de Thread Context Map (peut etre une donnée injectée par un framework d’une entrée utilisateur
 * changer la config log4j locale?
 
 [CVE-2021-44832](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44832)
-* 2.17.1
+* 2.17.1 le 27 décembre
 * Apache Log4j2 vulnerable to RCE via JDBC Appender when attacker controls configuration
 * 	malicious configuration using a JDBC Appender with a data source referencing a JNDI URI which can execute remote code.
 * attaquant accede et modifie la config
@@ -61,6 +63,10 @@
 * montre 8% de packages sur central affectés par log4j 2
 * niveau de dépendance transitive monte jusqu’à 9
 	* du coup il y a neuf vendeurs qui doivent corriger leurs dépendances
+
+[Toujours plus de 40% de téléchargement sur Maven central des versions impactées](https://www.sonatype.com/resources/log4j-vulnerability-resource-center)
+
+
 
 
 Log4j1 n’est pas en reste:
