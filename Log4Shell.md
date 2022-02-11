@@ -10,6 +10,7 @@
 [CVE-2021-44228](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44228)
 
 Reportée chez Apache le 24 Novembre, Enregistrée en CVE le 26 Nov
+Probablement connue depuis au moins Mars 2021: https://github.com/nice0e3/log4j_POC
 
 * fix 2.15.0 le 10 décembre
 * Apache Log4j2 JNDI features do not protect against attacker controlled LDAP and other JNDI related endpoints.
