@@ -25,27 +25,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Ta vie ton oeuvre (présentation de l’interviewé)
 
-### Introduction à la techno (5 à 10 mins max)
+### Tes vues sur l’informatique
 
-### La techno en concepts
+### Le cloud souverain 
 
-e.g. Avant de parler d’un framework web en particulier, discuter du contexte des frameworks webs
-Évoquer la compétition
+Explique tes vues
 
-### Comment on l’utilise en pratique pour un dev
-
-Se dire qu’on est développeur devant son IDE et qu’on veut l’utiliser, quelles sont les étapes
-Notamment côté développement, qu’est-ce que  je fais, comment je l’utilise dans mon code
-
-### Sous le capot
-
-C’est là, qu’on peut envoyer du pâté technique
-C’est important de plonger et de satisfaire votre curiosité
-“Mais du coup, au niveau du bytecode, …”
-“Et l’approche de clustering, vous faites comment pour votre approche de consensus”
-“C’est dûr de développer un framework comme ça, quelles sont les contraintes techniques”
-
-### La communauté, le futur
+Différentes de Quentin : transfert technologique soft sur le cloud
 
 ## Nous contacter
 
