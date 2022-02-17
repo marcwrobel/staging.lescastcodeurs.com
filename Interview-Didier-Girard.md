@@ -27,11 +27,11 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Tes vues sur l’informatique
 
-#### Web 3
-
 ### Cloud
 
-### Cloud Native
+#### Web 3
+
+#### Cloud Native
 
 #### SecNumCloud
 
