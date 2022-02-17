@@ -27,13 +27,25 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Tes vues sur l’informatique
 
+### Cloud
+
+### Cloud Native
+
 #### SecNumCloud
+
+#### GitOps
+
+#### Infra as Code
+
+#### Finops
 
 ### Le cloud souverain 
 
+#### Gouvernance des données 
+
 #### France vs Europe
 
-#### US vs Chine
+#### US et Chine
 
 ### Darwinisme Numérique
 
