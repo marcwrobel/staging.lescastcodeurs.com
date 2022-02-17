@@ -27,7 +27,21 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Tes vues sur l’informatique
 
+#### SecNumCloud
+
 ### Le cloud souverain 
+
+#### France vs Europe
+
+#### US vs Chine
+
+### Darwinisme Numérique
+
+#### Constat
+
+#### Nouvelle Ere
+
+#### Opportunités
 
 Explique tes vues
 
