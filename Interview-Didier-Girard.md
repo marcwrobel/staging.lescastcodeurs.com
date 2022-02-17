@@ -25,23 +25,21 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Ta vie ton oeuvre (présentation de l’interviewé)
 
-### Tes vues sur l’informatique
-
-### Cloud
-
-#### Web 3
-
-#### Cloud Native
-
-#### SecNumCloud
-
-#### GitOps
-
-#### Infra as Code
-
-#### Finops
-
 ### Le cloud souverain 
+
+#### Définitions
+
+##### Web 3
+
+##### Cloud Native
+
+##### SecNumCloud
+
+##### GitOps
+
+##### Infra as Code
+
+##### Finops
 
 #### Gouvernance des données 
 
