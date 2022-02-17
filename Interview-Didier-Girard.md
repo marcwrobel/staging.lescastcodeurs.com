@@ -27,6 +27,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 ### Tes vues sur l’informatique
 
+#### Web 3
+
 ### Cloud
 
 ### Cloud Native
@@ -47,6 +49,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 
 #### US et Chine
 
+#### Différentes de Quentin : transfert technologique soft sur le cloud
+
 ### Darwinisme Numérique
 
 #### Constat
@@ -54,10 +58,6 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.
 #### Nouvelle Ere
 
 #### Opportunités
-
-Explique tes vues
-
-Différentes de Quentin : transfert technologique soft sur le cloud
 
 ## Nous contacter
 
