@@ -72,6 +72,15 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 ### Architecture
 
+[Les design patterns pour les systèmes distribués et donc les microservices](https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad)
+
+* survol et définitions des patterns qu'il faut connaître dans les microservices
+* Pas trop dans le détail donc bon survol
+* Idempotence, asynchronicite, helathcheck, feature flag, fallback
+* Bulkhead: compartementalisation
+* Metrics, monitoring, alarmes
+* Rate limiting, backpressure, etc
+
 ### Méthodologies
 
 ### Sécurité
@@ -95,6 +104,8 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 [French privacy regulator rules against use of Google Analytics](https://www.politico.eu/article/french-privacy-regulator-rules-against-use-of-google-analytics)
 
 * [L'article de la CNIL](https://www.cnil.fr/fr/utilisation-de-google-analytics-et-transferts-de-donnees-vers-les-etats-unis-la-cnil-met-en-demeure)
+
+[VMWare, Red Hat et d'autres s'ajoutent aux sanction contre le gouvernement Russe en arretant la vente et les services pour les entités Russes et Belarusse](https://www.redhat.com/en/blog/red-hats-response-war-ukraine)
 
 [Une Entrée en bourse pour Sonatype](https://venturebeat.com/2022/01/27/sonatype-which-secures-the-use-of-open-source-software-lays-groundwork-for-ipo)
 
