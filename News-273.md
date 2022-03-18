@@ -64,6 +64,27 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 * L’architecture Serverless est également attrayante pour les développeurs  Edge Computing : 48 % de tous les développeurs edge utilisent serverless, contre seulement 33 % de tous les développeurs backend.
 * Parmi les outils serverless, AWS Lambda continue de jouer un rôle prépondérant. Cependant, Google Cloud Run a considérablement gagné du terrain au cours des 12 derniers mois.
 
+[SLO et dependences de service](https://queue.acm.org/detail.cfm?id=3096459)
+
+* 99,99 en cible interne, au dessus, il y a tant de variables entre l'utilisateur et le service que c'est perdu dans le bruit (wifi, ISP etc)
+* 99,999 pour les infra globales
+* disponibilité est fonction du MTTF et MTBR = MTTF/(MTTF+MTTR)
+* si on veut offrir 99,99, toutes les dependances critiques doivent offrir beaucoup plus, regle du 9 supplementaire
+* sinon il faut des mitigation, cache, fail open etc
+* dispo depend du temps de detection et du temps de recuperation
+* donc forcer les clients (services dependants) à baisser leur niuveau ou engineerer pour compenser le bas niveau du service dont on est dependant
+* faire des scenarios (e.g. 1 outage majeur, 3 faibles - e.g. un shard, 5 de dependances)
+* considerer que la perte d'un shard du service veut dire SLO is 1/nieme indisponible (n étant le numbre de shards)
+* donc il reste peut de temps pour reagir quand on compte temps de detection, temps de paging, etc.
+* error budget: 1-SLO, sur un mois et peut etre une fenetre glissante pour remonter graduellement. si budget depensé, on ne fait plus de mise en prod sauf critical security issues ou si c'est pour corriger les causes du probleme qui a consommé le budget
+* rendre le plus de dependances non critiques (par exemple en eliminatnles SPOF)
+* faire revue d'architecture pour identifier ces dependances et leurs impacts
+* appels a trois pools de serveurs indpendants et prendre le premier resultat
+* dependences asynchrones peut reduire le nombre de dependancs critiques
+* retours arriere rapide et automatisés: en enlevant un humaind e la boucle, on racourcit les temps de réponse
+* et bien d'autres choses encore
+* (modifié)
+
 ### Web
 
 ### Data
@@ -83,7 +104,11 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 ### Méthodologies
 
+[La pyramide des fondamentaux dans la revue de code](https://www.morling.dev/blog/the-code-review-pyramid)
+
 ### Sécurité
+
+[Removed unencrypted Git protocol and certain SSH keys](https://github.blog/changelog/2022-03-15-removed-unencrypted-git-protocol-and-certain-ssh-keys/)
 
 [Samsung utilise incorrectement la crypto rendant son enclave sécurisée, pas sécurisée](https://threatpost.com/samsung-shattered-encryption-on-100m-phones/178606/)
 
@@ -96,6 +121,8 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 * https://knowledge-base.secureflag.com/vulnerabilities/broken_cryptography/reused_iv_key_pair_vulnerability.html
 
 ### Loi, société et organisation
+
+[Alert: peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
 
 [Un développeur sabote son projet open source et paralyse des milliers d'applications](https://www.numerama.com/cyberguerre/813825-un-developpeur-sabote-son-projet-open-source-et-paralyse-des-milliers-dapplications.html#utm_medium=e-mail&utm_source=newsletter_hebdo&utm_campaign=20220115_global)
 
