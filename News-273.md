@@ -43,6 +43,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-273.mp3](https://traffic.
 [Micronaut 3.3 sorti, avec des nouveautés](
 https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
+[Hibernate 6: certains points clés](https://twitter.com/1ovthafew/status/1486818448055410690?s=21)
+
+[Kubernetes Service Discovery and Selection with Stork](https://quarkus.io/blog/stork-kubernetes-discovery/)
+
 ### Infrastructure
 
 ### Cloud
@@ -72,11 +76,28 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 ### Sécurité
 
+[Samsung utilise incorrectement la crypto rendant son enclave sécurisée, pas sécurisée](https://threatpost.com/samsung-shattered-encryption-on-100m-phones/178606/)
+
+* l'article n'a pas les details techniques
+* 100 m de telephones
+* la meme clée était reutilisée (et pas encapsulée
+* le vecteur d'initialisation pouvait être configuré et reutilisé à valeur unique
+* n'importe quelle application pouvait essayer d'acceder aux secrets de l'enclave en essayant les conbos parce que l'application avait accès à ces paramêtres
+* quand on reutilise les vacteurs d'initialisation, on peut faire un 1-1 entre le message clair et chiffré, ce qui permet de revenir a message clair si on produit le meme message cripté.
+* https://knowledge-base.secureflag.com/vulnerabilities/broken_cryptography/reused_iv_key_pair_vulnerability.html
+
 ### Loi, société et organisation
 
 [Un développeur sabote son projet open source et paralyse des milliers d'applications](https://www.numerama.com/cyberguerre/813825-un-developpeur-sabote-son-projet-open-source-et-paralyse-des-milliers-dapplications.html#utm_medium=e-mail&utm_source=newsletter_hebdo&utm_campaign=20220115_global)
 
+[Violation de RGPD par utilisation de Google fonts](https://news.ycombinator.com/item?id=30135264)
+
+[French privacy regulator rules against use of Google Analytics](https://www.politico.eu/article/french-privacy-regulator-rules-against-use-of-google-analytics)
+
+* [L'article de la CNIL](https://www.cnil.fr/fr/utilisation-de-google-analytics-et-transferts-de-donnees-vers-les-etats-unis-la-cnil-met-en-demeure)
+
 [Une Entrée en bourse pour Sonatype](https://venturebeat.com/2022/01/27/sonatype-which-secures-the-use-of-open-source-software-lays-groundwork-for-ipo)
+
 
 ## Outils de l'épisode
 
