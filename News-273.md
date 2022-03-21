@@ -47,6 +47,13 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 [Kubernetes Service Discovery and Selection with Stork](https://quarkus.io/blog/stork-kubernetes-discovery/)
 
+[Quarkus 2.7](https://quarkus.io/blog/quarkus-2-7-0-final-released/)  
+
+* Stork 1.0
+* Quarkus CLI dans homebrew et SDKman
+* extension pour le driver Oracle Reactif
+* terminal interactif
+
 ### Infrastructure
 
 ### Cloud
