@@ -51,6 +51,13 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 [Hibernate 6: certains points clés](https://twitter.com/1ovthafew/status/1486818448055410690?s=21)
 
+* nouveau parseur HQL (langage plus riche)
+* API nettoyées (donc ca va peut etre demander des migrations)
+* DDL de meilleure qualité plus adaptée à la base de donnée cible
+* requetes de type rapport (filter, rollup, cube, et les window functions arrivent bientot)
+* arythmetique sur les dates
+* index pour les colonnes (SQL plus compact et rapide)
+
 [Kubernetes Service Discovery and Selection with Stork](https://quarkus.io/blog/stork-kubernetes-discovery/)
 
 [Quarkus 2.7](https://quarkus.io/blog/quarkus-2-7-0-final-released/)  
