@@ -46,6 +46,8 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 * graalVM 22
 * binding par valeur d'annotations (CDI)
 * Serialization (remplace Jackson, plus leger en memoire, ne fait pas de deserialisation arbitraire, pas de reflexion)
+* module email qui permet d'envoyer avec MailJet, Amazom simple email service, SendGrid, Postmark
+* Operateurs Kubernetes
 
 [Hibernate 6: certains points clés](https://twitter.com/1ovthafew/status/1486818448055410690?s=21)
 
