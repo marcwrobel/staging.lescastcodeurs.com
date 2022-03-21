@@ -43,6 +43,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-273.mp3](https://traffic.
 [Micronaut 3.3 sorti, avec des nouveautés](
 https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
+* graalVM 22
+* binding par valeur d'annotations (CDI)
+* Serialization (remplace Jackson, plus leger en memoire, ne fait pas de deserialisation arbitraire, pas de reflexion)
+
 [Hibernate 6: certains points clés](https://twitter.com/1ovthafew/status/1486818448055410690?s=21)
 
 [Kubernetes Service Discovery and Selection with Stork](https://quarkus.io/blog/stork-kubernetes-discovery/)
