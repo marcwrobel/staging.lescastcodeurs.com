@@ -134,6 +134,9 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 [La pyramide des fondamentaux dans la revue de code](https://www.morling.dev/blog/the-code-review-pyramid)
 
+* codifie les points sur lesquels se concentrer sur la revue de code et ceux avec une priorité plus basse
+* automatiser les points bas comment le style de code pour eviter de perdre du temps et de la frustration humaine
+
 ### Sécurité
 
 [Removed unencrypted Git protocol and certain SSH keys](https://github.blog/changelog/2022-03-15-removed-unencrypted-git-protocol-and-certain-ssh-keys/)
