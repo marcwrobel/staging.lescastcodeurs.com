@@ -38,6 +38,18 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-273.mp3](https://traffic.
 * des Properties améliorés
 * un depdenceny-injection léger
 
+[Java 18 est dans la place](https://openjdk.java.net/projects/jdk/18/)
+
+* 400: 	UTF-8 by Default
+* 408: 	Simple Web Server
+* 413: 	Code Snippets in Java API Documentation
+* 416: 	Reimplement Core Reflection with Method Handles
+* 417: 	Vector API (Third Incubator)
+* 418: 	Internet-Address Resolution SPI
+* 419: 	Foreign Function & Memory API (Second Incubator)
+* 420: 	Pattern Matching for switch (Second Preview)
+* 421: 	Deprecate Finalization for Removal
+
 ### Librairies
 
 [Micronaut 3.3 sorti, avec des nouveautés](
@@ -180,8 +192,10 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 ## Conférences
 
-[Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu'à y mois  
-TODO: reprendre celles de l'épisode d'avant
+[JavaOne à Las Vegas du 16 au 20 octobre 2022](https://blogs.oracle.com/java/post/javaone-is-back) - [CfP]()
+
+* Java language & platform, cloud-native development, database, microservices, DevOps, artificial intelligence & machine learning, security & application management, and more.
+
 
 ## Nous contacter
 
