@@ -69,6 +69,14 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 ### Infrastructure
 
+[L'energie utilisée dans les data centers est constante à 1 à 1,5% de l'energie mondiale d'après l'agence internationale de l'énergie](https://www.iea.org/reports/data-centres-and-data-transmission-networks)  
+
+* hors cryptocurrency
+* augmentation a continué mais les efforts d'economies d'énergie ont compensé la croissance de la demande
+* hors production du materiel je crois
+* les alertes ont fait bougé les lignes
+* études source [Masanet et al - science](https://datacenters.lbl.gov/sites/default/files/Masanet_et_al_Science_2020.full_.pdf) et une autre de Malmodin 2020 dans science aussi
+
 ### Cloud
 
 [Sondage annuel “The State Of Cloud Native Development”](https://www.cncf.io/wp-content/uploads/2021/12/Q1-2021-State-of-Cloud-Native-development-FINAL.pdf)
