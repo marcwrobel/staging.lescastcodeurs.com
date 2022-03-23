@@ -141,6 +141,12 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
 
 [Removed unencrypted Git protocol and certain SSH keys](https://github.blog/changelog/2022-03-15-removed-unencrypted-git-protocol-and-certain-ssh-keys/)
 
+* nettoyage de printemps
+* plus de `git:` qui est non sécurisé
+* plus ne nouvelles clés RSA SHA1
+* plus de DSA
+* de nouvelles courbes elliptiques
+
 [Samsung utilise incorrectement la crypto rendant son enclave sécurisée, pas sécurisée](https://threatpost.com/samsung-shattered-encryption-on-100m-phones/178606/)
 
 * l'article n'a pas les details techniques
