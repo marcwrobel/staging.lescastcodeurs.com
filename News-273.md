@@ -43,6 +43,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-273.mp3](https://traffic.
 * 400: 	UTF-8 by Default
 * 408: 	Simple Web Server
 * 413: 	Code Snippets in Java API Documentation
+    * un super [guide](https://docs.oracle.com/en/java/javase/18/code-snippet/index.html) sur l'utilisation des nouveaux javadoc code snippets
 * 416: 	Reimplement Core Reflection with Method Handles
 * 417: 	Vector API (Third Incubator)
 * 418: 	Internet-Address Resolution SPI
