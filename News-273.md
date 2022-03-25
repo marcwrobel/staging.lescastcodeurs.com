@@ -53,13 +53,18 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-273.mp3](https://traffic.
 ### Librairies
 
 [Micronaut 3.3 sorti, avec des nouveautés](
-https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/)
+https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/) et [Micronaut 3.4](https://micronaut.io/2022/03/22/micronaut-framework-3-4-0-released/) aussi
 
 * graalVM 22
 * binding par valeur d'annotations (CDI)
 * Serialization (remplace Jackson, plus leger en memoire, ne fait pas de deserialisation arbitraire, pas de reflexion)
 * module email qui permet d'envoyer avec MailJet, Amazom simple email service, SendGrid, Postmark
 * Operateurs Kubernetes
+
+* possibilité de référencer des beans properties dans @Requires
+* injection de localized message sources
+* nouveau module Micronaut Data MongoDB
+* support de Maven pour Micronaut AOT
 
 [Hibernate 6: certains points clés](https://twitter.com/1ovthafew/status/1486818448055410690?s=21)
 
