@@ -198,7 +198,7 @@ https://micronaut.io/2022/01/27/micronaut-framework-3-3-released/) et [Micronaut
 
 ## Conférences
 
-[JavaOne à Las Vegas du 16 au 20 octobre 2022](https://blogs.oracle.com/java/post/javaone-is-back) - [CfP]()
+[JavaOne à Las Vegas du 16 au 20 octobre 2022](https://blogs.oracle.com/java/post/javaone-is-back)  
 
 * Java language & platform, cloud-native development, database, microservices, DevOps, artificial intelligence & machine learning, security & application management, and more.
 
