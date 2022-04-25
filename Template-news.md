@@ -1,7 +1,7 @@
 ---
 title: LCC 999 - 
 author: 'Emmanuel Bernard'
-team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Heritier, Audrey Neveu'
+team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Héritier, Audrey Neveu'
 layout: blog-post
 episode: 999
 mp3_length: 85017000
