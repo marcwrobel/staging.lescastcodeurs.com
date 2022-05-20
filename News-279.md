@@ -62,7 +62,7 @@ A exclure? [Un article détaillé sur ce qui est nouveau niveau GC dans Java 18]
 
 ### Outillage
 
-[Un nouveau de compilateur avec du code plus lisible](https://www.reddit.com/r/java/comments/ue8u59/new_open_source_java_decompiler/)
+[Un nouveau décompilateur avec du code plus lisible](https://www.reddit.com/r/java/comments/ue8u59/new_open_source_java_decompiler/)
 
 * Tous plus ou moins un fork de celui d’intellij maintenu par JetBrains, le fork d’avant est de Minecraft
 * Reconstruit des constructions de plus haut niveau et plus moderne.
