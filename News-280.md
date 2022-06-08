@@ -27,7 +27,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 [Sept raisons pour lesquelles Java a a encore du sens après 26 ans](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)  
 
-* communauté (dans toutes les grandes villes
+* communauté (dans toutes les grandes villes)
 * force du langage et de la plateforme
 * plus de problèmes résolus que non résolus (librairies)
 * stabilité
@@ -89,7 +89,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 ### Outillage
 
- [VSCode Java 1.5 est sorti](https://twitter.com/vscodejava/status/1514687434805686278?s=21&t=9B-Ur9W6tZf5mulv1K2KDA](https://twitter.com/vscodejava/status/1514687434805686278?s=21&t=9B-Ur9W6tZf5mulv1K2KDA) 
+ [VSCode Java 1.5 est sorti](https://twitter.com/vscodejava/status/1514687434805686278?s=21&t=9B-Ur9W6tZf5mulv1K2KDA) 
 
 * Java 18 support, inlay hints for method parameters, and improvements to class declaration navigation are just a few of the enhancements to expect.
 
