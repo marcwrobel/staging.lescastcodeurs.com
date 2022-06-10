@@ -53,6 +53,11 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 [Proposition de structured concurrency via le projet Loom](https://www.infoq.com/news/2022/06/java-structured-concurrency/)
 
+* Targeted status for JDK 19. 
+* This incubating JEP, under the auspices of Project Loom, 
+* proposes to simplify multithreaded programming by introducing a library to treat multiple tasks running in different threads as a single unit of work. 
+* This can streamline error handling and cancellation, improve reliability, and enhance observability
+
 
 [RedMonk analyse l’apparition du langage Dart, grâce à Flutter, dans leur top 20 des langages de programmation les plus populaires](https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/)  
 
