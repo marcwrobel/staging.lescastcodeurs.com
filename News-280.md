@@ -78,12 +78,26 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 * Nouveau module pour MicroStream (un moteur de graphe d’objet natif Java, intégré à Helidon)
 * Mise à jour de nombreux plugins et extensions (y compris plugins de build)
 
-
 ### Infrastructure
+
+[Kubernetes signals massive adoption of Sigstore for protecting open source ecosystem](https://blog.sigstore.dev/kubernetes-signals-massive-adoption-of-sigstore-for-protecting-open-source-ecosystem-73a6757da73)
+
+* Kubernetes 1.24 (sorti en mai) est la première version utilisant officiellement Sigstore, permettant une vérification transparente des signatures pour protéger contre les attaques de la chaîne d’approvisionnement
+* [Sigstore](https://www.sigstore.dev/) est une nouvelle norme pour la signature, la vérification et la protection des logiciels. Elle se veut être un remplaçant pour GPG par exemple. 
+* Sigstore offre une variété d’avantages à la communauté Kubernetes comme:  
+  * Sigstore’s keyless signing donne une grande expérience de développeur et supprime le besoin de la gestion de clé douloureuse.  
+  * Le journal public et transparent de Sigstore ([Rekor](https://github.com/sigstore/rekor)) avec ses API permettent aux consommateurs Kubernetes de vérifier les signatures.  
+  * ...   
 
 ### Cloud
 
 ### Web
+
+[RFC 9114 - HTTP/3](https://www.rfc-editor.org/rfc/rfc9114.html) est validée (+ [RFC 9204 - QPACK: Field Compression for HTTP/3](https://www.rfc-editor.org/rfc/rfc9204.html) et [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://www.rfc-editor.org/rfc/rfc9218.html)) 
+
+* Basé sur le protocole de transport QUIC qui possède plusieurs fonctionnalités intéressantes telles que le multiplexage de flux, le contrôle de flux par flux et l’établissement de connexion à faible latence.
+* QPACK : un format de compression pour représenter efficacement les champs HTTP à utiliser en HTTP/3. Il s’agit d’une variation de la compression HPACK qui vise à réduire la taille des headers.
+* Extensible Prioritization Scheme for HTTP: schéma qui permet à un client HTTP de communiquer ses préférences quant à la façon dont le serveur en amont priorise les réponses à ses demandes, et permet également à un serveur d’indiquer à un intermédiaire en aval comment ses réponses devraient être priorisées lorsqu’elles sont transmises.
 
 ### Data
 
