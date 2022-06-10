@@ -66,6 +66,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 * Dart en natif pour faire des applis iOS… qui tournent aussi sous Android
 
 
+[Kotlin 1.7 est sorti](https://blog.jetbrains.com/kotlin/2022/06/kotlin-1-7-0-released/)  
+
+* Kotlin K2 compiler pour la JVM em Alpha (les plug ins ne fonctionne pas)
+* amélioration des perf de Kotlin et du compilo pour la JVM
+* build incremental Gradle
+* annotation OptIn et inférence de Builder stabilisés
+* classes implementee par delegation automatique sans consommation mémoire (via inlining)
 
 ### Librairies
 
