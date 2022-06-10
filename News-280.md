@@ -156,6 +156,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 ## Outils de l'épisode
 
+[GitHub Copilot](https://copilot.github.com/) quand le code s'écrit tout seul ... (en fait non, les développeurs ont encore des beaux jours devant eux)
+
+* A voir aussi: [Github Co-Pilot : Addictif ou Efficace ? (Johan Jublanc et Simon Provost)](https://www.youtube.com/watch?v=SQf9ZQsqW30) à Devoxx France 2022
+
 ## Rubrique débutant
 
 ## Conférences
