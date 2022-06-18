@@ -2,7 +2,7 @@
 
 ## Pour créer des notes
 
-Copier le template [Template news](https://github.com/lescastcodeurs/lescastcodeurs.com/wiki/Template-news) ou le [Template interview](https://github.com/lescastcodeurs/lescastcodeurs.com/wiki/Template-interview). 
+Copier le template [Template news](/Template-news.md) ou le [Template interview](/Template-interview.md).
 Créer une page wiki au nom `News-xxx` (e.g. `News-260`) ou `Interview [sujet]` (e.g. `Interview docker compose`).
 
 ## Liste des notes
