@@ -32,7 +32,25 @@ misc: [https://investors.broadcom.com/news-releases/news-release-details/broadco
 - [La rumeur](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware)
 - un ex de VMWare [qui pense que c’est la mort de VMWare](https://www.linkedin.com/pulse/brian-maddens-brutal-unfiltered-thoughts-broadcom-vmware-brian-madden/)
 
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md)
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655747394.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655747394.md).
+
+
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655747723.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655747723.md).
+
+
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655747778.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655747778.md).
+
+
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655748362.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655748362.md).
+
+
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655751076.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/lcc-1655751076.md).
+
+
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test).
+
+
+Message de test avec [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md)
 
 - test1
 - test2
