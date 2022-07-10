@@ -135,9 +135,6 @@ misc: [https://investors.broadcom.com/news-releases/news-release-details/broadco
 
 ### Loi, société et organisation
 
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md)
-
-
 
 ## Outils de l’épisode
 
