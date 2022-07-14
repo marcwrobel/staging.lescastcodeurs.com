@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 13 juil. 2022
+Enregistré le 14 juil. 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
 
@@ -124,12 +124,13 @@ C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/s
 C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test).
 
 
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md) (puis ce que je veux)
-
-sur plusieurs lignes
+[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md) (puis ce que je veux)  sur plusieurs lignes
 
 - test1
 - test2
+
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md).
+
 
 
 ### Langages
