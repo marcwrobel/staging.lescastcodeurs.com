@@ -132,6 +132,9 @@ C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/s
 C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md).
 
 
+C'est fait, les show notes sont disponibles sur [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md).
+
+
 
 ### Langages
 
