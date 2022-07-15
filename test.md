@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 14 juil. 2022
+Enregistré le 15 juil. 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
 
