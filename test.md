@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 18 juil. 2022
+Enregistré le 24 août 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
 
@@ -38,10 +38,23 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffi
 - [La rumeur](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware)
 - un ex de VMWare [qui pense que c’est la mort de VMWare](https://www.linkedin.com/pulse/brian-maddens-brutal-unfiltered-thoughts-broadcom-vmware-brian-madden/)
 
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md) (newcategory)  sur plusieurs lignes
+[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md) (newcategory)
+
+sur plusieurs lignes
 
 - test1
 - test2
+
+De la part de Youen:
+&gt; Hello,
+&gt; 
+&gt; Cette année Codeurs en Seine, c’est le 17 novembre et le cfp est ouvert : [https://cfp.codeursenseine.com/](https://cfp.codeursenseine.com/)
+&gt; N’hésitez pas à amener un peu de JVM dans l’appel à orateur. (ca commence à se faire rare).
+&gt; Pour
+&gt;  rappel : codeurs en seine c’est 1000 personnes autour des métiers du 
+&gt; développement dans une des plus grande salle de Rouen, le kindarena.
+
+
 
 
 ### Langages
@@ -70,7 +83,8 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 
 - un wizard en UI ou CLI pour generer le fichier .jfc
 
-JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming [https://www.infoq.com/news/2022/06/java-structured-concurrency/](https://www.infoq.com/news/2022/06/java-structured-concurrency/)
+JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
+[https://www.infoq.com/news/2022/06/java-structured-concurrency/](https://www.infoq.com/news/2022/06/java-structured-concurrency/)
 
 - Targeted status for JDK 19.
 - This incubating JEP, under the auspices of Project Loom,
