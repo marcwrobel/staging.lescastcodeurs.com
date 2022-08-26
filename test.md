@@ -38,13 +38,6 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffi
 - [La rumeur](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware)
 - un ex de VMWare [qui pense que c’est la mort de VMWare](https://www.linkedin.com/pulse/brian-maddens-brutal-unfiltered-thoughts-broadcom-vmware-brian-madden/)
 
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md) (newcategory)
-
-sur plusieurs lignes
-
-- test1
-- test2
-
 
 ### Langages
 
