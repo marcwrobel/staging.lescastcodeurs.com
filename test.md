@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 25 août 2022
+Enregistré le 26 août 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
 
@@ -37,8 +37,6 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffi
 - La strategie d’investissement de broadcom: acheter des franchises avec une bonne position de marcher et un potentiel de profitabilité augmenté sans gros investissements
 - [La rumeur](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware)
 - un ex de VMWare [qui pense que c’est la mort de VMWare](https://www.linkedin.com/pulse/brian-maddens-brutal-unfiltered-thoughts-broadcom-vmware-brian-madden/)
-- <@U03K72BKKQA> notification marc
-- <@U03KMLHFG9X> notification lcc
 
 [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md) (newcategory)
 
@@ -46,12 +44,6 @@ sur plusieurs lignes
 
 - test1
 - test2
-
-<!channel> notification canal avec URL [https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md](https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md)
-
-
-<!here> notification ici avec [https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md](https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md)
-
 
 
 ### Langages
