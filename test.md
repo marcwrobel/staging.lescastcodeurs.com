@@ -50,6 +50,7 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 - Innovation (Java 9 accélère l’innovation)
 - outillage
 - opportunité d’emploi
+- To be removed !
 
 [https://openjdk.java.net/projects/leyden/notes/01-beginnings](https://openjdk.java.net/projects/leyden/notes/01-beginnings) : les début de leyden
 
