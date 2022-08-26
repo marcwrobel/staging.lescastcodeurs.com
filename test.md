@@ -19,6 +19,16 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffi
 
 ### Non catégorisées
 
+[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md)
+
+sur plusieurs lignes
+
+- test1
+- test2
+
+
+### Langages
+
 Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)
 
 - communauté (dans toutes les grandes villes)
@@ -63,6 +73,9 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - les investissements initiaux de Dart vs Kotlin ou Ceylon qui ont démarrés en meme temps étaient colossaux
 - Dart en natif pour faire des applis iOS… qui tournent aussi sous Android
 
+
+### Librairies
+
 [https://micronaut.io/2022/05/26/micronaut-framework-3-5-0/](https://micronaut.io/2022/05/26/micronaut-framework-3-5-0/)
 
 - Passage à GRAALVM 22.1.0
@@ -71,6 +84,9 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - Intégration avec Turbo pour la vue (Turbo Frame et Turbo Views)
 - Nouveau module pour MicroStream (un moteur de graphe d’objet natif Java, intégré à Helidon)
 - Mise à jour de nombreux plugins et extensions (y compris plugins de build)
+
+
+### Infrastructure
 
 [https://blog.sigstore.dev/kubernetes-signals-massive-adoption-of-sigstore-for-protecting-open-source-ecosystem-73a6757da73](https://blog.sigstore.dev/kubernetes-signals-massive-adoption-of-sigstore-for-protecting-open-source-ecosystem-73a6757da73)
 
@@ -81,15 +97,39 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
   - Le journal public et transparent de Sigstore ([Rekor](https://github.com/sigstore/rekor)) avec ses API permettent aux consommateurs Kubernetes de vérifier les signatures.
   - ...
 
+
+### Cloud
+
+
+### Web
+
 [https://www.rfc-editor.org/rfc/rfc9114.html](https://www.rfc-editor.org/rfc/rfc9114.html) (+ [RFC 9204 - QPACK: Field Compression for HTTP/3](https://www.rfc-editor.org/rfc/rfc9204.html) et [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://www.rfc-editor.org/rfc/rfc9218.html))
 
 - Basé sur le protocole de transport QUIC qui possède plusieurs fonctionnalités intéressantes telles que le multiplexage de flux, le contrôle de flux par flux et l’établissement de connexion à faible latence.
 - QPACK : un format de compression pour représenter efficacement les champs HTTP à utiliser en HTTP/3. Il s’agit d’une variation de la compression HPACK qui vise à réduire la taille des headers.
 - Extensible Prioritization Scheme for HTTP: schéma qui permet à un client HTTP de communiquer ses préférences quant à la façon dont le serveur en amont priorise les réponses à ses demandes, et permet également à un serveur d’indiquer à un intermédiaire en aval comment ses réponses devraient être priorisées lorsqu’elles sont transmises.
 
+
+### Data
+
+
+### Outillage
+
 [https://twitter.com/vscodejava/status/1514687434805686278?s=21&amp;t=9B-Ur9W6tZf5mulv1K2KDA](https://twitter.com/vscodejava/status/1514687434805686278?s=21&amp;t=9B-Ur9W6tZf5mulv1K2KDA)
 
 - Java 18 support, inlay hints for method parameters, and improvements to class declaration navigation are just a few of the enhancements to expect.
+
+
+### Architecture
+
+
+### Méthodologies
+
+
+### Sécurité
+
+
+### Loi, société et organisation
 
 [https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-vmware-approximately-61-billion-cash-and-stock](https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-vmware-approximately-61-billion-cash-and-stock)
 
@@ -104,52 +144,12 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - [La rumeur](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware)
 - un ex de VMWare [qui pense que c’est la mort de VMWare](https://www.linkedin.com/pulse/brian-maddens-brutal-unfiltered-thoughts-broadcom-vmware-brian-madden/)
 
+
+## Outils de l’épisode
+
 [https://copilot.github.com/](https://copilot.github.com/)
 
 - A voir aussi: [Github Co-Pilot : Addictif ou Efficace ? (Johan Jublanc et Simon Provost)](https://www.youtube.com/watch?v=SQf9ZQsqW30) à Devoxx France 2022
-
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md)
-
-sur plusieurs lignes
-
-- test1
-- test2
-
-
-### Langages
-
-
-### Librairies
-
-
-### Infrastructure
-
-
-### Cloud
-
-
-### Web
-
-
-### Data
-
-
-### Outillage
-
-
-### Architecture
-
-
-### Méthodologies
-
-
-### Sécurité
-
-
-### Loi, société et organisation
-
-
-## Outils de l’épisode
 
 
 ## Rubrique débutant
