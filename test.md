@@ -11,20 +11,13 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 26 août 2022
+Enregistré le 29 août 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
 
 ## News
 
 ### Non catégorisées
-
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md)
-
-sur plusieurs lignes
-
-- test1
-- test2
 
 
 ### Langages
