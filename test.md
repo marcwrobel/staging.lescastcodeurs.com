@@ -26,6 +26,9 @@ sur plusieurs lignes
 - test1
 - test2
 
+<!here> notification ici avec [https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md](https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md)
+
+
 
 ### Langages
 
