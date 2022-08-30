@@ -28,6 +28,13 @@ sur plusieurs lignes
 <!here> notification ici avec [https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md](https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md)
 
 
+De la part de Youen:
+> Hello,  
+> Cette année Codeurs en Seine, c’est le 17 novembre et le cfp est ouvert. 
+> N’hésitez pas à amener un peu de JVM dans l’appel à orateur (ca commence à se faire rare). 
+> Pour rappel : codeurs en seine c’est 1000 personnes autour des métiers du développement dans une des plus grande salle de Rouen, le kindarena.
+
+
 
 ### Langages
 
@@ -149,13 +156,6 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 
 [Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu’à y mois
 TODO: reprendre celles de l’épisode d’avant
-
-De la part de Youen:
-> Hello,  
-> Cette année Codeurs en Seine, c’est le 17 novembre et le cfp est ouvert. 
-> N’hésitez pas à amener un peu de JVM dans l’appel à orateur (ca commence à se faire rare). 
-> Pour rappel : codeurs en seine c’est 1000 personnes autour des métiers du développement dans une des plus grande salle de Rouen, le kindarena.
-
 
 
 ## Nous contacter
