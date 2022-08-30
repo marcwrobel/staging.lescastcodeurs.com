@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 29 août 2022
+Enregistré le 30 août 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-42.mp3)
 
@@ -100,8 +100,6 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
   - ...
 
 
-### Cloud
-
 
 ### Web
 
@@ -112,8 +110,6 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - Extensible Prioritization Scheme for HTTP: schéma qui permet à un client HTTP de communiquer ses préférences quant à la façon dont le serveur en amont priorise les réponses à ses demandes, et permet également à un serveur d’indiquer à un intermédiaire en aval comment ses réponses devraient être priorisées lorsqu’elles sont transmises.
 
 
-### Data
-
 
 ### Outillage
 
@@ -122,13 +118,7 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - Java 18 support, inlay hints for method parameters, and improvements to class declaration navigation are just a few of the enhancements to expect.
 
 
-### Architecture
 
-
-### Méthodologies
-
-
-### Sécurité
 
 
 ### Loi, société et organisation
@@ -154,20 +144,11 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - A voir aussi: [Github Co-Pilot : Addictif ou Efficace ? (Johan Jublanc et Simon Provost)](https://www.youtube.com/watch?v=SQf9ZQsqW30) à Devoxx France 2022
 
 
-## Rubrique débutant
-
 
 ## Conférences
 
 [Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu’à y mois
 TODO: reprendre celles de l’épisode d’avant
-
-De la part de Youen:
-> Hello,
-> Cette année Codeurs en Seine, c’est le 17 novembre et le cfp est ouvert.
-> N’hésitez pas à amener un peu de JVM dans l’appel à orateur. (ca commence à se faire rare).
-> Pour rappel : codeurs en seine c’est 1000 personnes autour des métiers du développement dans une des plus grande salle de Rouen, le kindarena.
-
 
 
 ## Nous contacter
