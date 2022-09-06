@@ -66,6 +66,7 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 
 [https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/](https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/)
 
+- Dart en natif pour faire des applis iOS… qui tournent aussi sous Android
 - JavaScript, Python, Java, toujours en tête
 - Mais Rust et Dart sont rentrés récemment
 - L’arrivée de Dart coïncide surtout avec l’émergence de Flutter comme framework d’interface graphique, que ce soit pour Android/iOS, que pour le desktop et le web
@@ -73,7 +74,6 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 - Des applis de Google comme Google Pay et Google Ads sont développées en Flutter, mais aussi le récent SNCF Connect ou des entreprises telles que BMW ou Alibaba (modifié)
 - (cf le talk sur le REX par les développeurs de SNCF Connect à Devoxx France)
 - les investissements initiaux de Dart vs Kotlin ou Ceylon qui ont démarrés en meme temps étaient colossaux
-- Dart en natif pour faire des applis iOS… qui tournent aussi sous Android
 
 
 ### Librairies
