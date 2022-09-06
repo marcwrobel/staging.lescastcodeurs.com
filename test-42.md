@@ -31,6 +31,14 @@ sur plusieurs lignes
 
 ### Langages
 
+JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
+[https://www.infoq.com/news/2022/06/java-structured-concurrency/](https://www.infoq.com/news/2022/06/java-structured-concurrency/)
+
+- Targeted status for JDK 19.
+- This incubating JEP, under the auspices of Project Loom,
+- proposes to simplify multithreaded programming by introducing a library to treat multiple tasks running in different threads as a single unit of work.
+- This can streamline error handling and cancellation, improve reliability, and enhance observability
+
 Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)
 
 - communauté (dans toutes les grandes villes)
@@ -55,14 +63,6 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 [https://egahlin.github.io/2022/05/31/improved-ergonomics.html](https://egahlin.github.io/2022/05/31/improved-ergonomics.html)
 
 - un wizard en UI ou CLI pour generer le fichier .jfc
-
-JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
-[https://www.infoq.com/news/2022/06/java-structured-concurrency/](https://www.infoq.com/news/2022/06/java-structured-concurrency/)
-
-- Targeted status for JDK 19.
-- This incubating JEP, under the auspices of Project Loom,
-- proposes to simplify multithreaded programming by introducing a library to treat multiple tasks running in different threads as a single unit of work.
-- This can streamline error handling and cancellation, improve reliability, and enhance observability
 
 [https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/](https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/)
 
