@@ -75,6 +75,11 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 - (cf le talk sur le REX par les développeurs de SNCF Connect à Devoxx France)
 - les investissements initiaux de Dart vs Kotlin ou Ceylon qui ont démarrés en meme temps étaient colossaux
 
+Test :
+1. [https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589826145969](https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589826145969)
+2. [https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589938914879](https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589938914879)
+
+
 
 ### Librairies
 
