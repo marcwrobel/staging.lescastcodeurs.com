@@ -39,6 +39,16 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - proposes to simplify multithreaded programming by introducing a library to treat multiple tasks running in different threads as a single unit of work.
 - This can streamline error handling and cancellation, improve reliability, and enhance observability
 
+[https://openjdk.java.net/projects/leyden/notes/01-beginnings](https://openjdk.java.net/projects/leyden/notes/01-beginnings) : les début de leyden
+
+- Mark Reinhold lance le projet Leyden, pour adresser les problèmes de temps de démarrage lent de Java, de lenteur du temps jusqu’à la performance max, et d’empreinte un peu lourde
+- à l’aide d’une image statique de votre application
+- une image statique ne fait tourner qu’une seule et unique application sur son JDK, et est un “monde fermé” (ne peut pas charger de classe externes)
+- mais les ingés de la JVM vont travailler sur une approche assez souple, et voire quelles contraintes peuvent être allégées, par rapport à un monde complètement fermé d’une image statique
+- en espérant avoir des améliorations à différents niveaux, pour un max d’appli et de use case différents
+- Le close world c’est ce qui amène la valeur de GraalVM native image et les avantages pour Micronaut, Quarkus et le autres
+- donc pas de closed world: c’est encore un projet de recherche pour l’équipe de la JVM
+
 Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)
 
 - communauté (dans toutes les grandes villes)
@@ -49,16 +59,6 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 - outillage
 - opportunité d’emploi
 - To be removed !
-
-[https://openjdk.java.net/projects/leyden/notes/01-beginnings](https://openjdk.java.net/projects/leyden/notes/01-beginnings) : les début de leyden
-
-- Mark Reinhold lance le projet Leyden, pour adresser les problèmes de temps de démarrage lent de Java, de lenteur du temps jusqu’à la performance max, et d’empreinte un peu lourde
-- à l’aide d’une image statique de votre application
-- une image statique ne fait tourner qu’une seule et unique application sur son JDK, et est un “monde fermé” (ne peut pas charger de classe externes)
-- mais les ingés de la JVM vont travailler sur une approche assez souple, et voire quelles contraintes peuvent être allégées, par rapport à un monde complètement fermé d’une image statique
-- en espérant avoir des améliorations à différents niveaux, pour un max d’appli et de use case différents
-- Le close world c’est ce qui amène la valeur de GraalVM native image et les avantages pour Micronaut, Quarkus et le autres
-- donc pas de closed world: c’est encore un projet de recherche pour l’équipe de la JVM
 
 [https://egahlin.github.io/2022/05/31/improved-ergonomics.html](https://egahlin.github.io/2022/05/31/improved-ergonomics.html)
 
