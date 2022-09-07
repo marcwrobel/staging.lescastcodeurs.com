@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 6 sept. 2022
+Enregistré le 7 sept. 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-42.mp3)
 
@@ -24,9 +24,6 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic
 sur plusieurs lignes
 
 - :lcc_include:
-
-<!here> notification ici avec [https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md](https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md)
-
 
 
 ### Langages
@@ -49,6 +46,10 @@ JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
 - Le close world c’est ce qui amène la valeur de GraalVM native image et les avantages pour Micronaut, Quarkus et le autres
 - donc pas de closed world: c’est encore un projet de recherche pour l’équipe de la JVM
 
+[https://egahlin.github.io/2022/05/31/improved-ergonomics.html](https://egahlin.github.io/2022/05/31/improved-ergonomics.html)
+
+- un wizard en UI ou CLI pour generer le fichier .jfc
+
 Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)
 
 - communauté (dans toutes les grandes villes)
@@ -60,10 +61,6 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 - opportunité d’emploi
 - To be removed !
 
-[https://egahlin.github.io/2022/05/31/improved-ergonomics.html](https://egahlin.github.io/2022/05/31/improved-ergonomics.html)
-
-- un wizard en UI ou CLI pour generer le fichier .jfc
-
 [https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/](https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/)
 
 - Dart en natif pour faire des applis iOS… qui tournent aussi sous Android
@@ -74,11 +71,6 @@ Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-
 - Des applis de Google comme Google Pay et Google Ads sont développées en Flutter, mais aussi le récent SNCF Connect ou des entreprises telles que BMW ou Alibaba (modifié)
 - (cf le talk sur le REX par les développeurs de SNCF Connect à Devoxx France)
 - les investissements initiaux de Dart vs Kotlin ou Ceylon qui ont démarrés en meme temps étaient colossaux
-
-Test :
-1. [https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589826145969](https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589826145969)
-2. [https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589938914879](https://test-pxu1301.slack.com/archives/C03KJ3YGUJ0/p1655589938914879)
-
 
 
 ### Librairies
