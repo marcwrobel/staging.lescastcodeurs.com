@@ -11,144 +11,32 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 7 sept. 2022
+Enregistré le 10 oct. 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-42.mp3)
 
 ## News
 
-### Non catégorisées
-
-[https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test.md)
-
-sur plusieurs lignes
-
-- :lcc_include:
-
 
 ### Langages
-
-JEP 428: Structured Concurrency to Simplify Java Multithreaded Programming
-[https://www.infoq.com/news/2022/06/java-structured-concurrency/](https://www.infoq.com/news/2022/06/java-structured-concurrency/)
-
-- Targeted status for JDK 19.
-- This incubating JEP, under the auspices of Project Loom,
-- proposes to simplify multithreaded programming by introducing a library to treat multiple tasks running in different threads as a single unit of work.
-- This can streamline error handling and cancellation, improve reliability, and enhance observability
-
-[https://openjdk.java.net/projects/leyden/notes/01-beginnings](https://openjdk.java.net/projects/leyden/notes/01-beginnings) : les début de leyden
-
-- Mark Reinhold lance le projet Leyden, pour adresser les problèmes de temps de démarrage lent de Java, de lenteur du temps jusqu’à la performance max, et d’empreinte un peu lourde
-- à l’aide d’une image statique de votre application
-- une image statique ne fait tourner qu’une seule et unique application sur son JDK, et est un “monde fermé” (ne peut pas charger de classe externes)
-- mais les ingés de la JVM vont travailler sur une approche assez souple, et voire quelles contraintes peuvent être allégées, par rapport à un monde complètement fermé d’une image statique
-- en espérant avoir des améliorations à différents niveaux, pour un max d’appli et de use case différents
-- Le close world c’est ce qui amène la valeur de GraalVM native image et les avantages pour Micronaut, Quarkus et le autres
-- donc pas de closed world: c’est encore un projet de recherche pour l’équipe de la JVM
-
-[https://egahlin.github.io/2022/05/31/improved-ergonomics.html](https://egahlin.github.io/2022/05/31/improved-ergonomics.html)
-
-- un wizard en UI ou CLI pour generer le fichier .jfc
-
-Et oui ! [https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)
-
-- communauté (dans toutes les grandes villes)
-- **force** du _langage_ et de la plateforme
-- plus de ~problèmes~ résolus que non résolus (librairies)
-- `stabilité`
-- Innovation (Java 9 accélère l’innovation)
-- outillage
-- opportunité d’emploi
-- To be removed !
-
-[https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/](https://redmonk.com/jgovernor/2022/05/16/flutter-propels-dart-frameworks-language-adoption-and-cross-platform-development/)
-
-- Dart en natif pour faire des applis iOS… qui tournent aussi sous Android
-- JavaScript, Python, Java, toujours en tête
-- Mais Rust et Dart sont rentrés récemment
-- L’arrivée de Dart coïncide surtout avec l’émergence de Flutter comme framework d’interface graphique, que ce soit pour Android/iOS, que pour le desktop et le web
-- Sur les applis mobiles, il y a toujours eu beaucoup de développement natif, mais est aussi arrivé React Native, mais aussi Flutter
-- Des applis de Google comme Google Pay et Google Ads sont développées en Flutter, mais aussi le récent SNCF Connect ou des entreprises telles que BMW ou Alibaba (modifié)
-- (cf le talk sur le REX par les développeurs de SNCF Connect à Devoxx France)
-- les investissements initiaux de Dart vs Kotlin ou Ceylon qui ont démarrés en meme temps étaient colossaux
 
 <!here> notification ici avec [https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md](https://github.com/lescastcodeurs/staging.lescastcodeurs.com/blob/main/news-281.md)
 
 
 
-### Librairies
-
-[https://micronaut.io/2022/05/26/micronaut-framework-3-5-0/](https://micronaut.io/2022/05/26/micronaut-framework-3-5-0/)
-
-- Passage à GRAALVM 22.1.0
-- Compilation incrémentale lors des builds, en particulier intéressant pour les métadonnées pour GraalVM, ce qui permet d’éviter de faire tourner les processeurs d’annotation inutilement
-- Inclusion de Micronaut Data 3.4, avec support des enums Postgres pour JDBC, la pagination pour les Reactive Repositories
-- Intégration avec Turbo pour la vue (Turbo Frame et Turbo Views)
-- Nouveau module pour MicroStream (un moteur de graphe d’objet natif Java, intégré à Helidon)
-- Mise à jour de nombreux plugins et extensions (y compris plugins de build)
-
-
-### Infrastructure
-
-[https://blog.sigstore.dev/kubernetes-signals-massive-adoption-of-sigstore-for-protecting-open-source-ecosystem-73a6757da73](https://blog.sigstore.dev/kubernetes-signals-massive-adoption-of-sigstore-for-protecting-open-source-ecosystem-73a6757da73)
-
-- Kubernetes 1.24 (sorti en mai) est la première version utilisant officiellement Sigstore, permettant une vérification transparente des signatures pour protéger contre les attaques de la chaîne d’approvisionnement
-- [Sigstore](https://www.sigstore.dev/) est une nouvelle norme pour la signature, la vérification et la protection des logiciels. Elle se veut être un remplaçant pour GPG par exemple.
-- Sigstore offre une variété d’avantages à la communauté Kubernetes comme:
-  - Sigstore’s keyless signing donne une grande expérience de développeur et supprime le besoin de la gestion de clé douloureuse.
-  - Le journal public et transparent de Sigstore ([Rekor](https://github.com/sigstore/rekor)) avec ses API permettent aux consommateurs Kubernetes de vérifier les signatures.
-  - ...
-
-
-
-### Web
-
-[https://www.rfc-editor.org/rfc/rfc9114.html](https://www.rfc-editor.org/rfc/rfc9114.html) (+ [RFC 9204 - QPACK: Field Compression for HTTP/3](https://www.rfc-editor.org/rfc/rfc9204.html) et [RFC 9218 - Extensible Prioritization Scheme for HTTP](https://www.rfc-editor.org/rfc/rfc9218.html))
-
-- Basé sur le protocole de transport QUIC qui possède plusieurs fonctionnalités intéressantes telles que le multiplexage de flux, le contrôle de flux par flux et l’établissement de connexion à faible latence.
-- QPACK : un format de compression pour représenter efficacement les champs HTTP à utiliser en HTTP/3. Il s’agit d’une variation de la compression HPACK qui vise à réduire la taille des headers.
-- Extensible Prioritization Scheme for HTTP: schéma qui permet à un client HTTP de communiquer ses préférences quant à la façon dont le serveur en amont priorise les réponses à ses demandes, et permet également à un serveur d’indiquer à un intermédiaire en aval comment ses réponses devraient être priorisées lorsqu’elles sont transmises.
-
-
-
-### Outillage
-
-[https://twitter.com/vscodejava/status/1514687434805686278?s=21&amp;t=9B-Ur9W6tZf5mulv1K2KDA](https://twitter.com/vscodejava/status/1514687434805686278?s=21&amp;t=9B-Ur9W6tZf5mulv1K2KDA)
-
-- Java 18 support, inlay hints for method parameters, and improvements to class declaration navigation are just a few of the enhancements to expect.
 
 
 
 
 
-### Loi, société et organisation
-
-[https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-vmware-approximately-61-billion-cash-and-stock](https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-vmware-approximately-61-billion-cash-and-stock)
-
-- 61 milliards de dollars
-- Avec un objectif de passer de 3,5 à 8,5 milliard d’EBITA par an
-  - Bouger dans la division cloud avec Symantec
-- VMWare était content de sa liberté retrouvée après la spin off de Dell
-- Apparemment pas d’alignement de tech
-- une expansion de portefeuiille dans le software pour broadcom
-- VMWare a beaucoup changé de mains ces dernières années
-- La strategie d’investissement de broadcom: acheter des franchises avec une bonne position de marcher et un potentiel de profitabilité augmenté sans gros investissements
-- [La rumeur](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware)
-- un ex de VMWare [qui pense que c’est la mort de VMWare](https://www.linkedin.com/pulse/brian-maddens-brutal-unfiltered-thoughts-broadcom-vmware-brian-madden/)
 
 
-## Outils de l’épisode
 
-[https://copilot.github.com/](https://copilot.github.com/)
 
-- A voir aussi: [Github Co-Pilot : Addictif ou Efficace ? (Johan Jublanc et Simon Provost)](https://www.youtube.com/watch?v=SQf9ZQsqW30) à Devoxx France 2022
 
 
 
 ## Conférences
-
-[Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu’à y mois
-TODO: reprendre celles de l’épisode d’avant
 
 De la part de Youen:
 > Hello,  
@@ -158,12 +46,14 @@ De la part de Youen:
 
 
 
+* 4-6: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco) <a href="https://dvma22.cfp.dev"><img alt="CFP Devoxx Morocco" src="https://img.shields.io/static/v1?label=CFP&message=6-Jun-2022%20to%2015-Jul-2022&color=red"> </a>* 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E24-Apr-2022&color=red"> </a>* 7: [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France)* 7: [Hackvens](https://hackvens.fr/) - Rennes (France)* 10-14: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="[https://devoxx.be/](https://dvbe22.cfp.dev/#/login)"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%2015-July-2022&color=red"> </a>* 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=red"> </a>* 13-14: [Forum PHP 2022](https://event.afup.org/) - Hotel New York - The Art of Marvel, Disneyland Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://afup.org/event/forumphp2022"><img alt="CFP Forum PHP 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Jun-2022&color=red"> </a>* 17: [Agile Tour Montpellier 2022](https://agiletourmontpellier.fr/2022/) - Montpellier (France)* 18-19: [FlowCon](https://flowcon.fr/) - Montrouge (France)* 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2019-Jun-2022&color=red"> </a>* 20-21: [NixCon 2022](https://discourse.nixos.org/t/nixcon-2022-location-details-more/21392) - Paris (France)* 27-28: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2022/"><img alt="CFP Agile Tour Bordeaux" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2022&color=red"> </a>* 3-4: [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - Nantes (France)* 8-9: [Open Source Experience](https://www.opensource-experience.com/) - Paris (France) <a href="https://sessionize.com/open-source-experience-2022/"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>* 15-16: [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - Toulouse (France) <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=red"> </a>* 17: [Codeurs en Seine](https://www.codeursenseine.com/) - Rouen (France) <a href="[https://sessionize.com/agile-tour-toulouse-2022/](https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq)"><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=red"> </a>* 17: [lbc² by leboncoin](https://www.lbc2.fr/) - Paris (France)* 18: [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - Strasbourg (France) <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=red"> </a>* 18-19: [GreHack](https://grehack.fr/) - Grenoble (France) <a href="https://easychair.org/cfp/GreHack2022"><img alt="CFP" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Aug-2022&color=red"> </a>* 19-20: [Capitole du Libre](https://capitoledulibre.org/) - Toulouse (France) <a href="https://cfp.capitoledulibre.org/cdl-2022/cfp"><img alt="CFP Capitole du Libre de Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2022&color=red"> </a>* 23-25: [Agile Grenoble 2022](http://agile-grenoble.org/) - Grenoble (France)* 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France) <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2022&color=red"> </a>* 2: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/OJC5Ou5YJodfetgSJCa3"><img alt="CFP BDX I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>* 2: [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/) - Dijon (France) <a href="[https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn](https://conference-hall.io/public/event/cXWCepNzXVWwb1i6ktVA)"><img alt="CFP DevFest Dijon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2022&color=green"> </a>* 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online* 15-16: [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=green"> </a>* 19-20: [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=green"> </a>* 25-28: [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=green"> </a>* 7: [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20October-31-2022&color=red">* 12-14: [Devoxx France](https://www.devoxx.fr/) - Paris (France)
+
 ## Nous contacter
 
 Pour réagir à cet épisode, venez discuter sur le groupe Google <https://groups.google.com/group/lescastcodeurs>
 
-Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
-[Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)  
-Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>  
+Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
+[Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)
+Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>
 Tous les épisodes et toutes les infos sur <https://lescastcodeurs.com/>
 <!-- vim: set spelllang=fr : -->
