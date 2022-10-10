@@ -46,6 +46,9 @@ De la part de Youen:
 
 
 
+La liste des conférences provenant de [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda)
+par [Aurélie Vache](https://github.com/scraly) et contributeurs :
+
 * 4-6 octobre 2022 : [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco) <a href="https://dvma22.cfp.dev"><img alt="CFP Devoxx Morocco" src="https://img.shields.io/static/v1?label=CFP&message=6-Jun-2022%20to%2015-Jul-2022&color=red"> </a>
 * 6-7 octobre 2022 : [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E24-Apr-2022&color=red"> </a>
 * 7 octobre 2022 : [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - Perros-Guirec (France)
