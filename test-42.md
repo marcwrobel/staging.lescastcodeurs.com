@@ -19,7 +19,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic
 
 ### Non catégorisées
 
-Enregistrement : [https://recording.zencastr.com/lescastcodeurs/news-284](https://recording.zencastr.com/lescastcodeurs/news-284)
+Enregistrement : [recording.zencastr.com](http://recording.zencastr.com)
 
 
 
