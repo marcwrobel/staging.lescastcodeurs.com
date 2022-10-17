@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 4 sept. 2022
+Enregistré le 17 oct. 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-42.mp3)
 
@@ -19,7 +19,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic
 
 ### Non catégorisées
 
-Enregistrement : [recording.zencastr.com](http://recording.zencastr.com)
+Enregistrement : [recording.zencast.com](http://recording.zencast.com)
 
 
 
