@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 10 nov. 2022
+Enregistré le 20 nov. 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-42.mp3)
 
@@ -75,6 +75,7 @@ par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 * 2 février 2023 : [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=green"> </a>
 * 2 février 2023 : [AgiLeMans](https://www.agilemans.org/) - Le Mans (France) <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=green"> </a>
 * 9-11 février 2023 : [World AI Cannes](https://worldaicannes.com/) - Cannes (France)
+* 16-19 février 2023 : [PyConFR](https://www.pycon.fr/2023/) - Bordeaux (France)
 * 7 mars 2023 : [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - Paris (France) <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=green">
 * 23-24 mars 2023 : [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - Paris (France) <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=green"></a>
 * 5-7 avril 2023 : [FIC](https://europe.forum-fic.com) - Lille Grand Palais (France)
