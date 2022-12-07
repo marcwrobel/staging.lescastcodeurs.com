@@ -22,14 +22,14 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic
 Test [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test-42.md](https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test-42.md)
 
 - C'est top !
--     a. un
--     b. deux
+    a. un
+    b. deux
   1. un
--     a. a
--     b. b
+      a. a
+      b. b
   2. deux
--     a. a2
--     b. b2
+      a. a2
+      b. b2
 
 
 
