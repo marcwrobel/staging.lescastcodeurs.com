@@ -51,894 +51,894 @@ Test [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test-42
 La liste des conférences provenant de [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda)
 par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 
-- [Craft Conf](https://craft-conf.com/)
-- [O'reilly oscon](https://conferences.oreilly.com/oscon/oscon-tx)
-- [Microsoft Build](https://build.microsoft.com/)
-- [Devoxx UK](http://www.devoxx.co.uk)
-- [Riviera Dev](http://rivieradev.fr/)
-- [Ace Conf](http://www.aceconf.com/)
-- [Cluster Europe](https://clustereurope.org/)
-- [React Europe](https://www.react-europe.org/)
-- [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/)
-- [Google I/O](https://events.google.com/io/)
-- [J On The Beach](https://jonthebeach.com/)
-- [NewCrafts](http://ncrafts.io/)
-- [SudWeb](https://sudweb.fr/)
-- [GitHub Satellite](https://githubuniverse.com/satellite/)
-- [Monitorama](http://monitorama.com/)
-- [JEEConf](http://jeeconf.com/)
-- [NG Cruise](https://ngcruise.com/#/)
-- [jPrime](http://jprime.io/)
-- [NG Cruise](https://ngcruise.com/#/)
-- [Shift](http://shift.codeanywhere.com/)
-- [Web2Day](https://web2day.co/)
-- [DevTalks](http://www.devtalks.ro/bucharest/)
-- [DevFest Lille](https://devfest.gdglille.org/)
-- [FinDEVr London](http://findevr.com/)
-- [GOTO Amsterdam](https://blog.gotocon.com/conferences/)
-- [EclipseCon France](https://www.eclipsecon.org/france2017/)
-- [Devoxx Poland](http://devoxx.pl)
-- [Voxxed Days Luxembourg](https://voxxeddays.com/luxembourg/)
-- [Angular Camp](https://angularcamp.org/)
-- [AnDevCon](http://www.andevcon.com/)
-- [SREcon Europe](https://www.usenix.org/conference/srecon17europe)
-- [GoogleDevExpert Summit](https://twitter.com/GoogleDevExpert)
-- [Google Developer Days Europe](https://developers.google.com/events/gdd-europe/)
-- [Software Circus 2017 Cloudbusting](http://cloudbusting.softwarecircus.io/)
-- [Jug Summer Camp](http://www.jugsummercamp.org/)
-- [FrontEnd Connect](http://www.frontend-connect.io/)
-- [DevFest Lima](https://www.joinnus.com/PE/charlas-y-conferencias/lima-devfest-lima-2017-12475)
-- [DevFest Siberia](https://gdg-siberia.com/)
-- [DevFest Toulouse](https://devfesttoulouse.fr)
-- [Strange Loop](https://www.thestrangeloop.com/)
-- [Java One](https://www.oracle.com/javaone/index.html)
-- [GOTo Copenhagen](https://blog.gotocon.com/conferences/)
-- [Microsoft #experiences17](https://experiences17.microsoft.fr/)
-- [ParisWeb](https://www.paris-web.fr/)
-- [GitHub Universe](https://githubuniverse.com/)
-- [Codemotion Berlin](http://berlin2017.codemotionworld.com/)
-- [DevFest Ukraine](https://devfest.ch/)
-- [DockerCon Europe](https://europe-2017.dockercon.com/)
-- [Google Cloud Summit | Paris](https://cloudplatformonline.com/Summit-Paris-2017.html)
-- [DevFest Nantes](https://devfest.gdgnantes.com/)
-- [GeeCon Prague](http://2017.geecon.cz)
-- [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/)
-- [Agile Tour Bordeaux](http://agiletourbordeaux.fr/)
-- [Open Source Summit Europe](https://osseu17.sched.com/event/C4AA)
-- [EclipseCon Europe 2017](https://www.eclipsecon.org/europe2017)
-- [Blend Web Mix](http://www.blendwebmix.com/)
-- [Soft Shake](http://www.soft-shake.ch/)
-- [DevFest Switzerland](https://devfest.ch/)
-- [Scala IO](scala.io)
-- [dotGo](http://www.dotgo.eu)
-- [Devoxx Belgium](https://devoxx.be)
-- [BDXIO](http://bdx.io)
-- [Devoxx Morocco](http://www.devoxx.ma)
-- [GOTO Berlin](https://blog.gotocon.com/conferences/)
-- [AWS re:Invent](https://reinvent.awsevents.com/)
-- [Agile Tour Paris](http://at2017.agiletour.org/paris.html)
-- [dotCSS](http://www.dotcss.io)
-- [dotJS](http://www.dotjs.io)
-- [ConFoo](https://confoo.ca/en)
-- [KubeCon + CloudNativeCon North America 2017](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america)
-- [DevOpsDays NYC](https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363)
-- [Linux Conf AU](http://linux.conf.au)
-- [Azure Red Shirt Dev Tour](https://experiences.microsoft.fr/evenements/technique/azure-red-shirt-dev-tour/)
-- [SnowCamp](http://snowcamp.io/fr/)
-- [dotSwift](https://2018.dotswift.io/)
-- [ng-europe](https://ngeurope.org/)
-- [Cluster Europe](https://clustereurope.org/)
-- [FOSDEM](https://fosdem.org/2018/)
-- [Sunshine PHP](http://2018.sunshinephp.com)
-- [Serverlessconf Paris](http://paris.serverlessconf.io)
-- [Frontend Love](http://frontenddeveloperlove.com)
-- [DevOps Gathering 2018](https://devops-gathering.io/)
-- [IndexConf](http://indexconf.com)
-- [Lambda Days](http://www.lambdadays.org/lambdadays2018)
-- [Touraine Tech](https://touraine.tech/)
-- [Elastic{ON}](https://www.elastic.co/elasticon/conf/2018/sf)
-- [GrafanaEu Con](https://grafana.com/)
-- [ngVikings](https://ngvikings.org/)
-- [VoxxedDays Zurich](https://voxxeddays.com/)
-- [Git Merge](https://git-merge.com)
-- [DrupalCon](https://events.drupal.org/)
-- [VoxxedDays Vienna](https://voxxeddays.com/)
-- [VoxxedDays Bristol](https://voxxeddays.com/)
-- [Big Data Paris](https://www.bigdataparis.com/)
-- [pg Day Paris](https://2018.pgday.paris)
-- [Google Developer Day](https://events.withgoogle.com)
-- [Day of Cloud native](https://www.code-conf.com/dcn/)
-- [VoxxedDays Bucharest](https://voxxeddays.com/)
-- [FOSS Asia](http://fossasia.org)
-- [BreizhCamp](http://www.breizhcamp.org/)
-- [SymfonyLive Paris 2018](https://paris2018.live.symfony.com/)
-- [TensorFlow Dev Summit](http://www.tensorflow.org)
-- [API Conference](http://apiconference.de)
-- [ImageCon](http://www.imagecon.com/)
-- [JCertif](http://ponton.jcertif.com/)
-- [Isle Of Ruby](https://isleofruby.org)
-- [MiXiT](https://mixitconf.org/)
-- [Devoxx France](https://devoxx.fr/)
-- [DroidCon Turin](http://it.droidcon.com/2018/)
-- [Android Makers France](https://androidmakers.fr/)
-- [The Web Conference](https://www2018.thewebconf.org/)
-- [WS-REST 2018](http://2018.ws-rest.org/)
-- [Gotham Go](http://gothamgo.com)
-- [VoxxedDays Melbourne](https://voxxeddays.com/)
-- [KubeCon + CloudNativeCon Europe 2018](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-europe)
-- [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/)
-- [Google IO](http://google.com/io)
-- [Craft Conf](https://craft-conf.com/)
-- [GeeCON](https://geecon.org)
-- [Devoxx UK](http://devoxx.com)
-- [PyCon](https://us.pycon.org/2018/)
-- [Innorobo](https://innorobo.com/en/home/)
-- [Riviera Dev](http://rivieradev.fr/)
-- [DataXDay](http://dataxday.fr)
-- [Newcrafts](http://ncrafts.io/)
-- [Ace Conf](http://www.aceconf.com/)
-- [React Europe](https://www.react-europe.org/)
-- [PHP Tour](https://event.afup.org/)
-- [JEEConf](http://jeeconf.com/)
-- [Container Camp AU](https://2018.container.camp/au/)
-- [J On The Beach](https://jonthebeach.com/)
-- [Sud Web](https://sudweb.fr/2018/)
-- [VoxxedDays Minsk](https://voxxeddays.com/)
-- [jPrime](http://jprime.io/)
-- [dotAI](https://2018.dotai.io/)
-- [Shift](http://shift.codeanywhere.com/)
-- [Gopher Con Iceland](https://gophercon.is/)
-- [OpenMSA DevDay](https://www.openmsa.co/events/devdays/)
-- [dotScale](https://2018.dotscale.io/)
-- [VoxxedDays Singapore](https://voxxeddays.com/)
-- [Monitorama](http://monitorama.com/)
-- [Best Of Web](http://bestofweb.paris/)
-- [DevTalks](http://www.devtalks.ro/bucharest/)
-- [AIParis](https://aiparis.fr/)
-- [GitHub Satellite](https://githubuniverse.com/satellite/)
-- [DockerCon](https://2018.dockercon.com)
-- [EclipseCon France](https://www.eclipsecon.org/france2018/)
-- [Web2Day](https://web2day.co/)
-- [AWS Summit Paris](https://aws.amazon.com/fr/summits/paris/inscription/)
-- [JNation](http://jnation.pt)
-- [Devoxx Poland](https://devoxx.com)
-- [DevFest Lille](https://devfest.gdglille.org/)
-- [JHipster Conf](https://jhipster-conf.github.io)
-- [VoxxedDays Luxembourg](https://voxxeddays.com/)
-- [USI](https://www.usievents.com/fr)
-- [QCon New York](https://qconnewyork.com)
-- [Paris Container Day](http://paris-container-day.fr/)
-- [MongoDB World](https://www.mongodb.com/world18)
-- [Jenkins User Conference](https://juc-paris.jfrog.com/fr/)
-- [Sunny Tech](https://sunny-tech.io/)
-- [La nuit du Hack](https://www.nuitduhack.com/fr)
-- [Oracle Code](https://developer.oracle.com/code)
-- [AWS Transformation Day Toulouse](https://aws.amazon.com/fr/events/transformation-day-2018/toulouse/)
-- [JavaScript Camp](http://angularcamp.tech)
-- [Google Cloud Next 18](https://cloud.withgoogle.com/next18/)
-- [GopherCon UK](http://gophercon.co.uk)
-- [GopherCon](https://www.gophercon.com/)
-- [SRECon](https://www.usenix.org/conference/srecon18europe)
-- [Container Camp UK](https://2018.container.camp/uk/)
-- [AWS Dev Day 2018](https://aws.amazon.com/fr/events/devday-paris/)
-- [JUG Summer Camp](http://www.jugsummercamp.org/)
-- [Jenkins World USA](https://www.cloudbees.com/jenkinsworld/home)
-- [FrenchKit](http://frenchkit.fr/)
-- [Open Hardware Summit](http://2018.oshwa.org)
-- [KotlinConf 2018](https://www.kotlinconf.com)
-- [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018)
-- [DevOps REX](https://www.devopsrex.fr/)
-- [DevFest Nantes 2018](https://devfest.gdgnantes.com)
-- [GeeCON](https://geecon.org)
-- [Hashi Conf](https://www.hashiconf.com/)
-- [JavaOne](https://twitter.com/JavaOneConf)
-- [EclipseCon Europe 2018](https://www.eclipsecon.org/europe2018)
-- [Forum PHP 2018](https://event.afup.org/)
-- [VoxxedDays Microservices](https://voxxeddays.com/microservices/)
-- [Scala.io](https://scala.io/)
-- [DevFest Belgium](devfest-be.cfp.io/ )
-- [µCon London 2018](https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference)
-- [Microsoft Experiences 18](https://experiences18.microsoft.fr/)
-- [GraphQL Summit](https://summit.graphql.com/)
-- [DevFest Toulouse](http://devfesttoulouse.fr)
-- [dotCSS](https://www.dotcss.io)
-- [MongoDB Europe'18](https://www.mongodb.com/europe18)
-- [dotJS](https://www.dotjs.io)
-- [BDX I/O](https://bdx.io)
-- [Devoxx Belgium](https://devoxx.be/)
-- [MobileOne](https://www.mobile.one/)
-- [DevOps D-Day#4](http://2018.devops-dday.com/)
-- [XebiCon](http://xebicon.fr/)
-- [Codeurs en Seine](http://www.codeursenseine.com/)
-- [Maker Faire Paris](https://paris.makerfaire.com/)
-- [Paris Open Source Summit](http://www.opensourcesummit.paris/)
-- [LavaOne](bit.do/lavaone)
-- [Linux Conf AU](http://linux.conf.au)
-- [SnowCamp](http://snowcamp.io/fr/)
-- [dotSwift](https://2019.dotswift.io/)
-- [Touraine Tech](https://touraine.tech/)
-- [FOSDEM](https://fosdem.org/2019/)
-- [DevFest Paris](https://www.billetweb.fr/devfest-paris)
-- [Frontend Love](http://frontenddeveloperlove.com)
-- [Ro MobOs](http://romobos.com/)
-- [VueJs Amsterdam](vuejs.amsterdam)
-- [DevFest Du Bout Du Monde](https://devfest.duboutdumonde.bzh/)
-- [DevOps Gathering](http://devops-gathering.io)
-- [dev://east](https://deveast.uk/)
-- [VoxxedDays Zurich](https://voxxeddays.com/)
-- [Breizh Camp](http://www.breizhcamp.org/)
-- [Voxxed Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/)
-- [Kubernetes Day](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/?utm_source=cncf&utm_medium=email&utm_campaign=cloudnativemonthly&utm_content=january19)
-- [dotGo](https://www.dotgo.eu/)
-- [Greach](http://greachconf.com)
-- [Google Cloud Next](https://cloud.withgoogle.com/next/sf/)
-- [Dublin Tech Summit](https://t.co/vzYtTZmZ6Y)
-- [Voxxed Milan](https://voxxeddays.com/milan/)
-- [Devoxx France](https://www.devoxx.fr/)
-- [Future Sync](http://futuresync.co.uk)
-- [DockerCon 2019](https://dockercon19.smarteventscloud.com/portal/newreg.ww)
-- [Rails Conf](https://railsconf.com/)
-- [Voxxed CERN](https://voxxeddays.com/cern/)
-- [Google IO](https://events.google.com/io/)
-- [Devoxx UK](https://www.devoxx.co.uk/)
-- [Voxxed Melbourne](https://australia.voxxeddays.com)
-- [Voxxed Sidney](https://australia.voxxeddays.com)
-- [Riviera Dev](http://rivieradev.fr)
-- [Newcrafts](https://ncrafts.io)
-- [Cloud Native Rejekts](https://cloud-native.rejekts.io/)
-- [CloudBees Days](https://www.cloudbees.com/cloudbees-days#paris)
-- [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/)
-- [Voxxed Frontend](https://romania.voxxeddays.com/frontend/)
-- [MixiT](https://mixitconf.org)
-- [Voxxed Minsk](https://voxxeddays.com/minsk/)
-- [Dev Day 19](https://devday.io/)
-- [Dev Day 19](https://devday.io/)
-- [JBCNConf](http://www.jbcnconf.com/2019)
-- [ngVikings](https://ngvikings.org/)
-- [GR8Conf EU](https://gr8conf.eu)
-- [Voxxed Singapour](https://voxxeddays.com/singapore/)
-- [GoCon Canada](https://gocon.ca/)
-- [GopherCon Europe](https://www.gophercon.es)
-- [Pucela Tech Day](https://gdgvalladolid.com)
-- [JSConf EU](https://2019.jsconf.eu)
-- [Paris Container Day](http://paris-container-day.fr)
-- [JNation](https://jnation.pt)
-- [LambdaConf](http://lambdaconf.us)
-- [CLUSIF](https://clusif.fr/appel-a-contribution/)
-- [Best Of Web](http://bestofweb.paris/)
-- [Voxxed Athens](https://voxxeddays.com/athens/)
-- [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ça)
-- [Flow Factor Conference](https://flowfactorconference.com/)
-- [OW2Con](https://www.ow2con.org/view/2019/)
-- [Scala Days](https://scaladays.org/)
-- [INFORSID](http://inforsid.fr/Paris2019/)
-- [Dev Break](https://www.devbreak.io/)
-- [DevFest Lille](https://devfest.gdglille.org/)
-- [PGDay](https://pgday.fr)
-- [VoxxedDays Luxembourg](https://voxxeddays.com/luxembourg/)
-- [Container days](https://www.containerdays.io)
-- [Devoxx Poland](http://devoxx.pl)
-- [COMPAS](https://2019.compas-conference.fr/)
-- [QCon New York](https://qconnewyork.com/)
-- [DataXDay](https://dataxday.fr/)
-- [GopherCon Poland](http://twitter.com/GopherConPL)
-- [JHipster Conf](https://jhipster-conf.github.io/)
-- [Sunny Tech](https://sunny-tech.io/)
-- [HashiConf EU](https://hashiconfeu.hashicorp.com/)
-- [GopherCon](https://www.gophercon.com)
-- [Devops World](https://www.cloudbees.com/devops-world)
-- [GopherCon UK](https://www.gophercon.com)
-- [Anxiety Tech](https://www.anxietytech.com/)
-- [JUG Summer Camp](http://www.jugsummercamp.org/edition/10)
-- [Agile en Seine](https://www.agileenseine.com/)
-- [Orléans Tech](http://orleans-tech.com)
-- [We love speed](https://www.welovespeed.com/2019/)
-- [DevFest Toulouse](https://devfesttoulouse.fr)
-- [VoxxedDays Ticino](https://voxxeddays.com/ticino/)
-- [Paris Web](https://www.paris-web.fr)
-- [DevOps Rex](http://devopsrex.fr)
-- [EclipseCon Europe 2019](https://www.eclipsecon.org/europe2019)
-- [Devfest Nantes](https://devfest.gdgnantes.com/fr/)
-- [VoxxedDays Microservices](https://voxxeddays.com/microservices/)
-- [Forum PHP Paris](https://event.afup.org)
-- [React Advanced London](https://reactadvanced.com/)
-- [Scala IO](https://scala.io)
-- [Devoxx Ukraine](http://devoxx.org.ua)
-- [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-eu)
-- [Devoxx Belgium](http://devoxx.be)
-- [Devfest Strasbourg](https://devfest.gdgstrasbourg.fr)
-- [Devoxx Morocco](http://devoxx.ma)
-- [BlendWebMix](https://www.blendwebmix.com/)
-- [BDX I/O](https://www.bdx.io)
-- [Codeurs en Seine](https://www.codeursenseine.com/2019/)
-- [Devops World](https://www.cloudbees.com/devops-world)
-- [KotlinConf](https://kotlinconf.com/)
-- [DroidCon Madrid](https://www.madrid.droidcon.com/)
-- [GitLab Commit](https://about.gitlab.com/events/commit/)
-- [iOS Conf Singapore](https://2020.iosconf.sg/)
-- [SnowCamp](http://snowcamp.io/fr/)
-- [Re Work](https://www.re-work.co/summits/sanfrancisco-summit-2020)
-- [Touraine Tech](https://touraine.tech/)
-- [FOSDEM](https://fosdem.org/2020/)
-- [dotSwift](https://2020.dotswift.io/)
-- [GopherCon Israel](https://www.gophercon.org.il/)
-- [DevFest Paris](https://devfest.gdgparis.com/)
-- [Frontend Developers Love](https://frontenddeveloperlove.com/)
-- [VueJS Amsterdam](https://vuejs.amsterdam/?ref=confstech)
-- [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y)
-- [Unvoxxed Hawaii](https://voxxeddays.com/hawaii/)
-- [ConFoo](https://confoo.ca/en/yul2020)
-- [DevFest du Bout du Monde](https://devfest.duboutdumonde.bzh/)
-- [Git Merge](https://git-merge.com)
-- [DevOps Gathering](https://devops-gathering.io/)
-- [JChateau](https://www.jchateau.org/)
-- [APIDays Express](https://www.apidays.co/jakarta)
-- [GopherCon Russia](https://www.gophercon-russia.ru/)
-- [GopherCon India](https://gopherconindia.com/)
-- [AFUP Day](https://event.afup.org/)
-- [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/)
-- [Flutter Conf Paris](https://flutter-conf.paris/)
-- [Craft Conf](https://craft-conf.com/)
-- [DockerCon](https://www.docker.com/dockercon/)
-- [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops)
-- [Spark+AI Summit](https://databricks.com/sparkaisummit)
-- [Scala Days Berlin](https://scaladays.org/)
-- [DroidCon Berlin](https://www.berlin.droidcon.com/)
-- [GoWayFest](https://goway.io/)
-- [Oxidize](https://oxidizeconf.com/)
-- [GopherCon UK](https://www.gophercon.co.uk/)
-- [Devoxx UK](https://www.devoxx.co.uk/)
-- [Foss4G](https://2020.foss4g.org/)
-- [JUG Summer Camp](https://www.jugsummercamp.org/edition/11)
-- [O'Reilly Strata Data & AI New York](https://conferences.oreilly.com/strata-data-ai/stai-ny)
-- [VoxxedDays Zurich](https://voxxeddays.com/zurich/)
-- [DevOps Days Istanbul](https://devopsdays.istanbul/)
-- [DevOps Days London](https://devopsdays.org/events/2020-london/welcome/)
-- [DevOps Days Prague](https://devopsdays.org/events/2020-prague/welcome/)
-- [GreenConf.io](http://greenconf.io/)
-- [Spring I/O](https://2020.springio.net)
-- [DevopsDays Paris](https://devopsdays.org/events/2020-paris/welcome/)
-- [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/)
-- [Incontro DevOps](https://2020.incontrodevops.it/)
-- [RustLab](https://www.rustlab.it/home)
-- [Le Halloween des Speakers 2020](https://rdv-speakers.fr/)
-- [SRECon](https://www.usenix.org/srecon)
-- [European Cloud Conference](https://europeancloudconference.com/)
-- [DevoxxMA](https://www.devoxx.ma/)
-- [Kubernetes Community Day](https://kubernetescommunitydays.org/events/2020-paris/)
-- [DevoxxUkraine](https://devoxx.com.ua/)
-- [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops)
-- [Codeurs en Seine](https://www.codeursenseine.com)
-- [DroidCon Turin](https://it.droidcon.com/2020/it)
-- [DDD Europe](https://dddeurope.com/2021/handson-conference/)
-- [GopherCon Israel](https://www.gophercon.org.il/)
-- [CloudSud 2021](https://cloudsud.virtualconference.com/#/event)
-- [DevOpsCon](https://devopscon.io/london/)
-- [GopherCon Russia](https://www.gophercon-russia.ru/en)
-- [GopherCon Berlin](https://gophercon.berlin/)
-- [Red Hat Summit 2021 - Part1](https://www.redhat.com/en/summit)
-- [GoLab](https://golab.io/en/)
-- [Cloud Native Rust Day](https://events.linuxfoundation.org/cloud-native-rust-day/program/schedule/)
-- [PromCon Online](https://promcon.io/2021-online/schedule/?)
-- [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-- [Cloud Native Security Day](https://events.linuxfoundation.org/cloud-native-security-day-europe/program/schedule/)
-- [Cloud Native WASM Day](https://events.linuxfoundation.org/cloud-native-wasm-day/program/schedule/)
-- [FluentCon](https://events.linuxfoundation.org/fluentcon/program/schedule/)
-- [Kubernetes AI Day](https://events.linuxfoundation.org/kubernetes-ai-day/program/schedule/)
-- [ServiceMesh Con](https://events.linuxfoundation.org/servicemeshcon-europe/program/schedule/)
-- [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/)
-- [SLO Conf](https://www.sloconf.com/)
-- [MiXiT](https://mixitconf.org/fr/)
-- [Google IO](https://events.google.com/io/)
-- [WTF Is SRE?](https://www.cloud-native-sre.wtf/)
-- [Microsoft Build](https://mybuild.microsoft.com/)
-- [GopherCon Europe](https://gophercon.eu/)
-- [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021)
-- [AFUP Day Lille / Rennes](https://event.afup.org/afup-day-2021/afup-day-2021-lille-rennes-edition-en-ligne/)
-- [hack.commit.push / Paris](https://paris2021.hack-commit-pu.sh/)
-- [Paris Container Day](https://paris-container-day.fr/fr/)
-- [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/)
-- [AlpesCraft](https://www.alpescraft.fr/)
-- [Global Maintainer Summit](https://globalmaintainersummit.github.com/)
-- [HashiConf Europe](https://hashiconf.com/europe/)
-- [GitOpsDay](https://www.gitopsdays.com/)
-- [DevOpsCon](https://devopscon.io/berlin/)
-- [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/)
-- [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit)
-- [Blazor Day](https://blazorday.net/)
-- [Cloud Ouest Online 2021](https://cloudouest.fr/)
-- [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/)
-- [Red Hat DevNation Day France](https://developers.redhat.com/devnation/devnationday-france)
-- [Simple Web Conf 2021](https://simplewebconf.com/)
-- [cdCon](https://events.linuxfoundation.org/cdcon/)
-- [Volcamp.io](https://www.volcamp.io/)
-- [Archilocus](https://www.archilocus.tech/)
-- [SophiaConf](http://www.telecom-valley.fr/sophiaconf-2021)
-- [Riviera Dev](https://rivieradev.fr/)
-- [Kotland](https://www.papercall.io/kotlandconf2021)
-- [JS Italian Conf](https://2021.jsday.it/)
-- [JBNConf](https://www.jbcnconf.com/2021/)
-- [THAT Conference](https://that.us/)
-- [PyOhio](https://www.pyohio.org/2021/)
-- [GitLab Commit](https://about.gitlab.com/events/commit/)
-- [eBPF Summit](https://ebpf.io/summit-2021/)
-- [Gopher Con UK 2021](https://www.gophercon.co.uk/)
-- [Devoxx Poland](https://www.devoxx.pl/)
-- [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/)
-- [JUG Summer Camp](https://www.jugsummercamp.org/edition/12)
-- [API Platform Conference](https://api-platform.com/con/2021/)
-- [International Sketchnote Camp 2021](https://isc20be.home.blog/registration/)
-- [.NET Enterprise Developer Day hosted by Amazon Web Services](https://www.eventbrite.com/e/net-enterprise-developer-day-hosted-by-amazon-web-services-registration-167917464657)
-- [DeveloperWeek Global: Cloud Conference](https://www.developerweek.com/global/conference/cloud/)
-- [WAX Watch Awesome Xperts](https://www.waxconf.fr/)
-- [ContainerDays 2021](https://www.containerdays.io/)
-- [GitKon 2021](https://gitkon.com)
-- [DevFest Perros-Guirec](https://devfest.codedarmor.fr/)
-- [FOSS4G](https://2021.foss4g.org/)
-- [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021)
-- [DevOps World](https://www.devopsworld.com/)
-- [AnsibleFest](https://www.ansible.com/ansiblefest)
-- [Devoxx France](https://www.devoxx.fr/)
-- [ApacheCon](https://apachecon.com/acna2020/)
-- [GopherCon Brasil](https://gopherconbr.org/)
-- [Event Sourcing Live](https://2021.eventsourcing.live/)
-- [Jax London](https://jaxlondon.com)
-- [Virtual Azure Community Day](https://azureday.community/)
-- [JS World](https://jsworldconference.com/)
-- [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/)
-- [Cloud Nord 2021](https://www.cloudnord.fr/)
-- [Monktoberfest](https://monktoberfest.com/)
-- [Grafana ObservabilityCON](https://grafana.com/about/events/observabilitycon/2021/)
-- [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-- [Google Cloud Next](https://cloud.withgoogle.com/next/sf/)
-- [SRECon](https://www.usenix.org/srecon)
-- [B-Boost](https://b-boost.fr/)
-- [DaprCon](https://blog.dapr.io/posts/2021/08/31/announcing-daprcon-2021/)
-- [DevFest Nantes](https://devfest.gdgnantes.com/fr/)
-- [Go West Online](https://www.gowestconf.com/)
-- [HackConf 2021](https://hackconf.bg/)
-- [GopherCon UK](https://gophercon.co.uk)
-- [Devoxx UK](https://www.devoxx.co.uk/)
-- [AsynConf](https://asynconf.fr/)
-- [Microsoft Ignite](https://myignite.microsoft.com/home)
-- [WTF is Cloud Native](https://www.cloud-native-conf.wtf/)
-- [Visual Studio 2022 Launch Event](https://visualstudio.microsoft.com/launch/)
-- [DevRelCon 2021](https://2021.devrel.net/)
-- [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/)
-- [Open Source Experience](https://www.opensource-experience.com)
-- [.NET Conf](https://www.dotnetconf.net/?ocid=AID3018883_TWITTER_oo_spl100001868415077)
-- [UYBHYS](https://www.unlockyourbrain.bzh/)
-- [The Agile Testing Days](https://agiletestingdays.com/)
-- [Codeurs en Seine](https://www.codeursenseine.com/2021)
-- [DevOps DDay](http://devops-dday.com)
-- [DevFest Lille](http://devfest.gdglille.org)
-- [TestJS Summit](https://testjssummit.com)
-- [Devoxx Ukraine](https://devoxx.com.ua/)
-- [Pycon APAC Thailand 2021](https://th.pycon.org/)
-- [DevDayBE](https://www.devday.be/)
-- [AWS re:Invent](https://reinvent.awsevents.com/)
-- [GopherCon](https://www.gophercon.com/)
-- [GOTO Amsterdam 2021](https://gotoams.nl/)
-- [ArgoCon '21](https://argoproj.github.io/argocon21/)
-- [The Privacy Engineer Conference](https://privacyengineercon.com/)
-- [KubeCon + CloudNativeCon + Open Source Summit China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/)
-- [Continuous Delivery: Better Software Faster](https://devternity.com/)
-- [Tech A11y Summit](https://techa11y.dev/)
-- [We Love Speed](https://www.welovespeed.com/en/2021/)
-- [CES](https://www.ces.tech/)
-- [You Got This in Cyberspace](https://yougotthis.io)
-- [That](https://that.us/)
-- [StreamYard Connect Summit](https://hopin.com/events/syconnect)
-- [jChampions Conference](https://jchampionsconf.com/)
-- [Touraine Tech](https://touraine.tech/)
-- [OOP](https://www.oop-konferenz.de/oop-2022/startpage)
-- [SnowCamp](https://snowcamp.io/fr/)
-- [Fosdem](https://fosdem.org/2022/)
-- [.Net frontend Day](https://www.dotnet-frontend.com/)
-- [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022)
-- [Elastic Community Conference](https://sessionize.com/elastic-community-conference)
-- [Oracle Developer Week](https://go.oracle.com/LP=122064)
-- [ConFoo](https://confoo.ca/fr/2022)
-- [web3 Con](https://www.web3con.dev/)
-- [SoloCon](https://solocon.io/)
-- [Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview)
-- [Archilocus](https://www.archilocus.tech/)
-- [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas)
-- [JavaLand](https://www.javaland.eu/en/home/)
-- [Mobilis In Mobile](https://mobilis-in-mobile.io/)
-- [SEO Square](https://seosquare.semji.com/)
-- [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/)
-- [CityJS Conference London](https://cityjsconf.org/)
-- [Cloud Sud](https://cloudsud.fr)
-- [Incontro DevOps Italia](https://2022.incontrodevops.it/)
-- [ETHDubai](https://www.ethdubaiconf.org/)
-- [CSS Day](https://2022.cssday.it/)
-- [React Conference Live](https://reactlive.nl/?ref=devevents)
-- [QCon London](https://qconlondon.com/)
-- [Serverless architecture conference](https://serverless-architecture.io/thehague/)
-- [API Conference](https://apiconference.net/thehague/)
-- [NDC Security](https://ndc-security.com/)
-- [ACCU 2022](https://accu.org/conf-menu-overviews/upcoming-spring-2022)
-- [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/)
-- [PyCon DE & PyData Berlin](https://2022.pycon.de/)
-- [DevNexus](https://devnexus.com/)
-- [DevOpsDays raleigh](https://devopsdays.org/events/2022-raleigh/welcome/)
-- [THCon](https://thcon.party/)
-- [devopsdays Birmingham, AL](https://devopsdays.org/events/2022-birmingham-al/welcome/)
-- [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta/welcome/)
-- [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit)
-- [JSDay](https://2022.jsday.it/)
-- [Devoxx France](https://www.devoxx.fr/)
-- [DevOpsDays Tokyo](https://devopsdays.org/events/2022-tokyo/welcome/)
-- [JS Day](https://2022.jsday.it/)
-- [Android Makers](https://androidmakers.fr/)
-- [DevOpsDays Denver](https://devopsdays.org/events/2022-denver/welcome/)
-- [DevOpsDays Aarhus](https://devopsdays.org/events/2022-aarhus/welcome/)
-- [DevOpsDays Krakow](https://devopsdays.org/events/2022-krakow/welcome/)
-- [IstioCon](https://www.crowdcast.io/e/istiocon-2022)
-- [DevOps Con](https://devopscon.io/london/)
-- [WTFisSRE](https://www.cloud-native-sre.wtf/)
-- [DevDays Europe](https://devdays.lt/)
-- [Developer Week Europe](https://www.developerweek.com/europe/)
-- [J on the beach](https://www.jonthebeach.com/)
-- [PyCon US](https://us.pycon.org/2022/)
-- [PyCon US](https://us.pycon.org/2022/)
-- [DevX Conf](https://devxconf.org)
-- [JFokus](https://www.jfokus.se/)
-- [JAX Hybrid](https://jax.de/mainz-en)
-- [DevOpsDays Boise](https://devopsdays.org/events/2022-boise/welcome/)
-- [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ)
-- [PulumiUP](https://www.pulumi.com/pulumi-up/)
-- [JSDay canarias](https://jsdaycanarias.com/)
-- [Mars@Hack](http://www.montdemarsan-agglo.fr/agglo/jsp/site/Portal.jsp?page_id=547)
-- [SLOConf](https://www.sloconf.com/)
-- [Docker Con](https://www.docker.com/dockercon/)
-- [QCon Plus](https://plus.qconferences.com/)
-- [A11y Paris](https://www.a11yparis.org/)
-- [firenze.dev](https://firenze.dev/evento-next-level-api-con-graphql/)
-- [Google I/O](https://io.google/2022/intl/fr/)
-- [Devoxx UK](https://www.devoxx.co.uk/)
-- [GeeCon Krakow](https://www.geecon.org/)
-- [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/)
-- [Cloud Native Rejekts](https://cloud-native.rejekts.io/)
-- [Cloud Native Wasm Day Europe](https://events.linuxfoundation.org/cloud-native-wasm-day-europe/)
-- [Kubernetes AI Day Europe](https://events.linuxfoundation.org/kubernetes-ai-day-europe/)
-- [Cloud Native eBPF Day Europe](https://events.linuxfoundation.org/cloud-native-ebpf-day-europe/)
-- [Cloud Native Telco Day](https://events.linuxfoundation.org/cloud-native-telco-day-europe/)
-- [fluentCon Europe](https://events.linuxfoundation.org/fluentcon-europe/)
-- [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/)
-- [Kubernetes on Edge Day](https://events.linuxfoundation.org/kubernetes-on-edge-day-europe/)
-- [PrometheusDay Europe](https://events.linuxfoundation.org/prometheus-day-europe/)
-- [ServiceMeshCon Europe](https://events.linuxfoundation.org/servicemeshcon-europe/)
-- [Voxxed Days Zurich](https://voxxeddays.com/zurich/)
-- [RailsConf22](https://railsconf.com/)
-- [SoCraTes](https://socrates-fr.github.io/)
-- [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/)
-- [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/)
-- [Codecamp_Festival]((https://codecamp.ro/the-festival/)
-- [PHP Day](https://2022.phpday.it/)
-- [Java Day Istanbul](https://www.javaday.istanbul/)
-- [Agile Tour Strasbourg](https://www.meetup.com/MtgStrasbourg/events/285587412/)
-- [AFUP Day 2022](https://event.afup.org/)
-- [THAT Conference](https://that.us/events/tx/2022)
-- [MixIT](https://mixitconf.org/fr/)
-- [JFrog SwampUp](http://swampup.jfrog.com/)
-- [Web à Québec](https://webaquebec.org/)
-- [jPrime](https://jprime.io/)
-- [Microsoft Build](microsoft.com/en-us/build)
-- [Spring I/O](https://2022.springio.net/)
-- [HackInBo](https://www.hackinbo.it/)
-- [Craft Conference](https://craft-conf.com/)
-- [Craft Conference](https://craft-conf.com/)
-- [Web2Day](https://web2day.co/)
-- [Confer Conf](https://2022.confer.no/)
-- [Flosscon 2022](https://www.flosscon.org/conferences/FLOSSCon2022)
-- [PyCon Italia 2022](https://pycon.it/en)
-- [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in)
-- [LeadDev](https://leaddev.com/)
-- [cdCon](https://events.linuxfoundation.org/cdcon/)
-- [Forum International de la Cybersécurité](https://www.forum-fic.com/)
-- [OpenInfra Summit Berlin 2022](https://openinfra.dev/summit/)
-- [OW2Con](https://www.ow2con.org/view/2022/)
-- [API Days Interface](https://www.apidays.global/interface/)
-- [Le Camping des Speakers](https://camping-speakers.fr/)
-- [AlpesCraft](https://www.alpescraft.fr/)
-- [DevFest Lille](http://devfest.gdglille.org)
-- [uxday 2022](https://2022.uxday.it/)
-- [France API](https://www.franceapi.fr/)
-- [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress/#/)
-- [DevFest for Ukraine](https://devfest.gdg.org.ua/)
-- [Prisma Day](https://prisma.io/day)
-- [VIVA Technology](https://vivatechnology.com/)
-- [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/)
-- [Joy of Coding](https://joyofcoding.org/)
-- [Cloud Ouest 2022](https://cloudouest.fr/)
-- [DevOps Con](https://devopscon.io/berlin/)
-- [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top)
-- [NDC Melbourne](https://ndcmelbourne.com/)
-- [InfoQ Live](https://live.infoq.com/conference/2022/june)
-- [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/)
-- [JavaDay du Paris JUG](https://javaday.parisjug.org/)
-- [enterJS](https://enterjs.de/)
-- [Devoxx Poland](https://devoxx.pl/)
-- [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/)
-- [ServerlessDays Paris](https://paris.serverlessdays.io/en/)
-- [DDD Europe 2022](https://dddeurope.com/)
-- [Hack In The Wood](https://www.hackinthewoods.be/)
-- [SoCraTes Rennes](https://socrates-rennes.github.io/)
-- [devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/)
-- [ML Conference](https://mlconference.ai/munich)
-- [Hack in Paris](https://hackinparis.com/)
-- [Dev nation Day France](https://hopin.com/events/devnation-day-france-2022#top)
-- [API Days Dubai](https://www.apidays.global/dubai/)
-- [BreizhCamp](https://www.breizhcamp.org/)
-- [Sunny Tech](https://sunny-tech.io/)
-- [Agi'Lille 2022](https://agilille.fr/)
-- [DroidCon Berlin](https://www.berlin.droidcon.com/)
-- [HugoConf](https://hugoconf.io/)
-- [EuroPython 2022](https://ep2021.europython.eu/)
-- [JBCNConf](https://www.jbcnconf.com/2022/)
-- [InfoQ Live](https://live.infoq.com/conference/2022/july)
-- [THAT Conference](https://that.us/events/wi/2022)
-- [API Days New York](https://www.apidays.global/new-york/)
-- [Selenium Conf 2022](https://2022.seleniumconf.in)
-- [Cloud Native Summit](https://www.cloudnativesummit.co/)
-- [frOSCon](https://www.froscon.org/en/)
-- [FOSS4G](https://2022.foss4g.org/)
-- [InfoQ Live](https://live.infoq.com/)
-- [API Days Hong Kong](https://www.apidays.global/hong-kong/)
-- [Socrates.du](http://www.socrates-conference.de/home)
-- [UX Nordic 2022](https://uxnordic.com/)
-- [Web Summer Camp 2022](https://2022.websummercamp.com)
-- [SRE France - Summer Camp 2022](https://sre-summercamp.github.io/)
-- [Kubernetes Community Days Sri Lanka 2022](https://community.cncf.io/events/details/cncf-kcd-sri-lanka-presents-kcd-sri-lanka-2022/)
-- [ContainerDays 2022](https://www.containerdays.io/)
-- [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/)
-- [JUG SummerCamp](https://www.jugsummercamp.org/edition/13)
-- [Kubernetes Community Days Washington DC 2022](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kubernetes-community-days-washington-dc-2022/)
-- [Uptime](https://uptime.aiven.io)
-- [API Days Australia](https://www.apidays.global/australia/)
-- [API Platform Conference](https://api-platform.com/con/2022)
-- [Les Escales du Libre](https://www.eventyay.com/e/d78c8bb0)
-- [Agile en Seine](https://www.agileenseine.com/)
-- [JCON ONLINE](https://jcon.one/)
-- [GrafanaLive: Paris](https://go2.grafana.com/2022-09_GrafanaLive_Paris.html)
-- [DevOpsDays Chicago](https://devopsdays.org/chicago)
-- [GrafanaLive: Berlin](https://go2.grafana.com/2022-09-22_GrafanaLive_Berlin.html)
-- [GrafanaLive: Toronto](https://go2.grafana.com/2022-09-22-GrafanaLiveToronto.html)
-- [Strange Loop 2022](https://thestrangeloop.com)
-- [Agile India 2022](https://2022.agileindia.org)
-- [PyCon Portugal](http://2022.pycon.pt/)
-- [RomHack2022](https://romhack.camp/)
-- [DevFest Craiova 2022](https://gdg.community.dev/events/details/google-gdg-craiova-presents-devfest-craiova-2022/)
-- [BigData & AI Paris](https://www.bigdataparis.com/)
-- [GopherCon](https://www.gophercon.com/)
-- [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/)
-- [GrafanaLive: London](https://grafana.com/about/events/grafana-live/2022/london/)
-- [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date)
-- [Cloud Nord](https://cloudnord.fr/)
-- [Mêlée Tech 2022](https://www.meleenumerique.com/)
-- [KubeHuddle](https://www.kubehuddle.com/)
-- [NodeConf EU 2022](https://www.nodeconf.eu/)
-- [Devoxx Morocco](https://devoxx.ma/)
-- [PWA Summit 2022](https://www.pwasummit.org/)
-- [Nordic.js](https://nordicjs.com/2022)
-- [Paris Web](https://paris-web.fr/)
-- [DevFest Perros-Guirec](https://devfest.codedarmor.fr/)
-- [Hackvens](https://hackvens.fr/)
-- [Intersection Conference](https://www.intersection-conference.eu/)
-- [Devoxx Belgium](https://devoxx.be/)
-- [Kubernetes Community Days Munich 2022](https://community.cncf.io/events/details/cncf-kcd-munich-presents-kubernetes-community-days-munich-2022-1/)
-- [Volcamp 2022](https://www.volcamp.io/)
-- [GeeCon Prague](https://www.geecon.org/)
-- [International Conference on Development and Learning](https://waset.org/development-and-learning-conference-in-october-2022-in-london)
-- [Forum PHP 2022](https://event.afup.org/)
-- [EuroRust](https://eurorust.eu)
-- [Fyne Conf](https://conf.fyne.io/)
-- [JavaOne](https://www.oracle.com/cloudworld/javaone/)
-- [Agile Tour Montpellier 2022](https://agiletourmontpellier.fr/2022/)
-- [Dash](https://www.dashcon.io/)
-- [FlowCon](https://flowcon.fr/)
-- [BaselOne22](https://baselone.ch/one)
-- [P99 Conf](https://www.p99conf.io/)
-- [DevFest Nantes](https://devfest.gdgnantes.com/)
-- [NixCon 2022](https://discourse.nixos.org/t/nixcon-2022-location-details-more/21392)
-- [Open Observability Day (North America)](https://events.linuxfoundation.org/open-observability-day-north-america/)
-- [EclipseCon 2022](https://www.eclipsecon.org/2022)
-- [International JavaScript Conference Hybrid](https://javascript-conference.com/munich/)
-- [QCon San Francisco](https://qconsf.com/)
-- [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon)
-- [DevOpsDays Montreal](https://devopsdays.org/)
-- [API Days London](https://www.apidays.global/london/)
-- [Arm DevSummit 2022](https://devsummit.arm.com/)
-- [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/)
-- [Agile Tour Bordeaux](http://agiletourbordeaux.fr/)
-- [Container Day](https://2022.containerday.it/)
-- [ObservabilityCON](https://grafana.com/about/events/observabilitycon/2022)
-- [WordPress Accessibility Day](https://wpaccessibility.day/)
-- [JFall](https://jfall.nl/)
-- [Data Community Conference](https://www.data-community.ch)
-- [DevOps Barcelona](https://devops.barcelona/)
-- [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/)
-- [PyCon Sweden](https://www.pycon.se/)
-- [AsyncAPI Conf](https://conference.asyncapi.com/)
-- [Open Source Experience](https://www.opensource-experience.com/)
-- [PromCon EU](https://promcon.io/2022-munich/)
-- [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/)
-- [Decarbonize Software](https://decarb.greensoftware.foundation/)
-- [OSMC](https://osmc.de/)
-- [ParisTestConf](https://paristestconf.com/)
-- [Agile Tour Toulouse](https://tour.agiletoulouse.fr/)
-- [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/)
-- [NODES 2022 (Neo4j Online Developer Expo and Summit)](https://neo4j.com/nodes-2022/)
-- [Codeurs en Seine](https://www.codeursenseine.com/)
-- [Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/)
-- [lbc² by leboncoin](https://www.lbc2.fr/)
-- [LFN Developer & Testing Forum](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=68786848)
-- [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/)
-- [SymfonyCon Disneyland Paris](https://live.symfony.com/2022-paris-con/)
-- [DevOpsDays Bengaluru](https://devopsdaysindia.org/)
-- [GreHack](https://grehack.fr/)
-- [Capitole du Libre](https://capitoledulibre.org/)
-- [Java Summit-IL](https://www.javasummitil.com/)
-- [Cyber security Business Convention](https://cbc-convention.com/)
-- [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/)
-- [Kubernetes Community Days Spain 2022](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/)
-- [Agile Grenoble 2022](http://agile-grenoble.org/)
-- [HACK-IT-N 2022](https://hack-it-n.com/)
-- [Kubernetes Community Days & OpenInfra Days Indonesia 2022](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-openinfra-days-indonesia-2022/)
-- [Yocto Project Summit](https://yoctoproject.org/summit)
-- [QCon Plus](https://plus.qconferences.com/)
-- [Devops DDay #7](https://2022.devops-dday.com/)
-- [BDX I/O](https://www.bdxio.fr/)
-- [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/)
-- [Oπen Conf Athens 2022](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open_conf/"><img alt="CFP Oπen Conf Athens 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2022&color=red"> </a>]()
-- [PyCon Chile 2022](https://pycon.cl/)
-- [Automotive Linux Summit](https://events.linuxfoundation.org/open-source-summit-japan/about/automotive-linux-summit/)
-- [CloudOpen Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/cloudopen/)
-- [Community Leadership Conference Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/community-leadership-conference/)
-- [ContainerCon](https://events.linuxfoundation.org/open-source-summit-japan/about/containercon/)
-- [Critical Software Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/critical-software-summit/)
-- [Embedded IoT Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/embedded-iot-summit/)
-- [Emerging OS Forum Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/emerging-os-forum/)
-- [LinuxCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/linuxcon/)
-- [ContainerCon](https://events.linuxfoundation.org/open-source-summit-japan/about/containercon/)
-- [Open AI + Data Forum Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/open-ai-data-forum/)
-- [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/)
-- [OSPOCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/)
-- [DevOpsCon Munich](https://devopscon.io/call-for-papers/)
-- [DevRel Con Prague](https://prague-2022.devrelcon.dev/)
-- [DevFest Stockholm 2022](https://devfest.gdgcloud.se/)
-- [KubeDay Japan](https://events.linuxfoundation.org/kubeday-japan/)
-- [SODA Con](https://events.linuxfoundation.org/sodacon-japan/)
-- [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/)
-- [PrestoCon](https://events.linuxfoundation.org/prestocon/)
-- [SREcon22 Asia/Pacific](https://www.usenix.org/srecon)
-- [Agile Tour Lausanne 2022](https://www.agilesuisse.ch/agile-tour-lausanne-2022)
-- [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/)
-- [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)
-- [RISC-V Summit](https://events.linuxfoundation.org/riscv-summit/)
-- [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/)
-- [API Days Paris](https://www.apidays.global/paris/)
-- [Agile Tour Rennes](https://agiletour.agilerennes.org/)
-- [Archilocus](https://www.archilocus.tech/about)
-- [jChampionsConference](https://jchampionsconf.com/)
-- [Touraine Tech](https://touraine.tech/)
-- [NDC London](https://ndclondon.com/)
-- [Spring One Essentials](https://springone.io/)
-- [Flutter Forward](https://flutter.dev/events/flutter-forward)
-- [Global Summit for Node.js](https://events.geekle.us/nodejs2/)
-- [SnowCamp](https://snowcamp.io/fr/)
-- [Laracon EU](https://laracon.eu/)
-- [CloudNative SecurityCon NA 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/)
-- [Spring One Essentials](https://springone.io/)
-- [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB)
-- [AgiLeMans](https://www.agilemans.org/)
-- [JSConf Chile](https://jsconf.cl/)
-- [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/)
-- [CfgMgmtCamp](https://cfgmgmtcamp.eu/ghent2023/)
-- [GitLab Contributor Days 2023.1](https://www.meetup.com/gitlab-virtual-meetups/events/290364126/)
-- [Jfokus](https://www.jfokus.se/)
-- [Flutter Global Summit](https://events.geekle.us/flutter23/)
-- [State of Open Con](https://stateofopencon.com/)
-- [Civo Navigate](https://www.civo.com/navigate)
-- [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/)
-- [World AI Cannes](https://worldaicannes.com/)
-- [enterJS Web-Performance Day](https://enterjs.de/web-performance.php)
-- [Angular Global Summit](https://events.geekle.us/angular2/)
-- [Magento Florida](https://meetmagentofl.com/)
-- [DeveloperWeek](https://www.developerweek.com/)
-- [HashiTalks](https://events.hashicorp.com/hashitalks2023)
-- [PyConFR](https://www.pycon.fr/2023/)
-- [DeveloperWeek](https://www.developerweek.com/)
-- [ConFoo](https://confoo.ca/fr/2023)
-- [Testing, Agile, DevOps and Low code Showcase: Methods and Tools](https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/)
-- [Kubernetes Community Days Amsterdam 2023](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/)
-- [Laracon India](https://laracon.in/)
-- [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/)
-- [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/)
-- [Scale 20x](https://www.socallinuxexpo.org/scale/20x)
-- [Chemnitz Linux Days](https://chemnitzer.linux-tage.de/2023/en/)
-- [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/)
-- [DevRel Con Yokohama](https://developerrelations.com/event/devrelcon-yokohama-2023)
-- [Cassandra Summit](https://events.linuxfoundation.org/cassandra-summit/)
-- [ICSA](https://icsa-conferences.org/2023/)
-- [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/)
-- [Voxxed Days Zurich](https://voxxeddays.com/zurich/)
-- [HTML & CSS Days](https://javascript-days.de/html-css)
-- [SRECon Americas](https://www.usenix.org/conference/srecon23americas)
-- [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2023/)
-- [International PHP Conference Berlin](https://phpconference.com/berlin-en)
-- [Webinale](https://webinale.de/en/)
-- [Apprise Conf](https://appriseconf.com/)
-- [DevDay](https://www.devday.be/)
-- [Wasm I/O](https://wasmio.tech)
-- [SymfonyLive Paris](https://live.symfony.com/2023-paris/)
-- [Agile Niort](https://agileniort.fr/)
-- [Scalar](https://www.scalar-conf.com/)
-- [Azure Cosmos Conf](https://learn.microsoft.com/fr-fr/events/learn-events/azure-cosmos-db-conf-2023/)
-- [QCon London](https://qconlondon.com/)
-- [JdLL](https://jdll.org/)
-- [FIC](https://europe.forum-fic.com)
-- [DevOps Days Nashville](https://devopsdays.org/events/2023-nashville/welcome/)
-- [Devoxx France](https://www.devoxx.fr/)
-- [KotlinConf](https://kotlinconf.com/)
-- [MiXit](https://mixitconf.org/fr/)
-- [Node Congress](https://nodecongress.com/)
-- [Cloud-Native Rejekts](https://cloud-native.rejekts.io/)
-- [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-- [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/)
-- [NYSwifty](https://nyswifty.com/)
-- [InflectraCon](https://www.inflectracon.com/)
-- [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/)
-- [Dotnet days](https://dotnetdays.ro/)
-- [Polycloud](https://polycloud.fr)
-- [DevOps Days Denver](https://devopsdays.org/events/2023-denver/welcome/)
-- [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/)
-- [Serverless Architecture Conference](https://serverless-architecture.io/london)
-- [API Conference London](https://apiconference.net/london)
-- [Great International Developer Summit](https://developersummit.com/)
-- [Building IoT](https://www.buildingiot.de/index.php)
-- [PyData](https://pydata.org/seattle2023)
-- [Clojure/conj](https://2023.clojure-conj.org/)
-- [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/)
-- [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/)
-- [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/)
-- [JAX](https://jax.de/mainz)
-- [Devoxx UK](https://www.devoxx.co.uk/)
-- [AFUP Day](https://event.afup.org/)
-- [Vue.js Live Conference](https://vuejslive.com/)
-- [SLOconf 2023](https://www.sloconf.com/)
-- [PyCon LT](https://pycon.lt/2023)
-- [Qubit Conference Prague](https://prague.qubitconference.com/)
-- [JS Heroes](https://jsheroes.io/)
-- [phpday](https://2023.phpday.it/)
-- [Spring I/O](https://2023.springio.net/)
-- [VoxxedDays Brussels](https://brussels.voxxeddays.com/)
-- [Web À Québec](https://webaquebec.org/)
-- [Newcrafts Paris](https://ncrafts.io/)
-- [NDC Oslo](https://ndcoslo.com/)
-- [DDD Europe](https://2023.dddeurope.com/)
-- [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449)
-- [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/)
-- [Le Camping des Speakers](https://camping-speakers.fr/)
-- [JCON PEOPLE](https://jcon.one/)
-- [CloudLand 2023](https://www.cloudland.org/en/home/)
-- [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/)
-- [Monitorama 2023](https://monitorama.com/2023/pdx.html#cfp)
-- [NodeTLV](https://www.nodetlv.com/)
-- [Sunny Tech](https://sunny-tech.io/)
-- [DevBCN](http://www.devbcn.com)
-- [VLDB Very Large Database](https://vldb.org/2023/)
-- [API Platform Conference](https://api-platform.com/con/2023)
-- [Strange Loop 2023](https://thestrangeloop.com)
-- [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/)
-- [QCon San Francisco](https://qconsf.com/)
-- [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/)
-- [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon)
-- [Volcamp 2023](https://www.volcamp.io/)
-- [KubeCon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-- [Open Source Experience](https://www.opensource-experience.com/)
+- 25-28 April 2017 : [Craft Conf](https://craft-conf.com/) - 
+- 8-11 May 2017 : [O'reilly oscon](https://conferences.oreilly.com/oscon/oscon-tx) - 
+- 10-12 May 2017 : [Microsoft Build](https://build.microsoft.com/) - 
+- 11-12 May 2017 : [Devoxx UK](http://www.devoxx.co.uk) - 
+- 11-12 May 2017 : [Riviera Dev](http://rivieradev.fr/) - 
+- 11-12 May 2017 : [Ace Conf](http://www.aceconf.com/) - 
+- 15 May 2017 : [Cluster Europe](https://clustereurope.org/) - 
+- 16-19 May 2017 : [React Europe](https://www.react-europe.org/) - 
+- 16-17 May 2017 : [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/) - 
+- 17-19 May 2017 : [Google I/O](https://events.google.com/io/) - 
+- 17-19 May 2017 : [J On The Beach](https://jonthebeach.com/) - 
+- 18-19 May 2017 : [NewCrafts](http://ncrafts.io/) - 
+- 19-20 May 2017 : [SudWeb](https://sudweb.fr/) - 
+- 22-23 May 2017 : [GitHub Satellite](https://githubuniverse.com/satellite/) - 
+- 22-24 May 2017 : [Monitorama](http://monitorama.com/) - 
+- 26-27 May 2017 : [JEEConf](http://jeeconf.com/) - 
+- 29-31 May 2017 : [NG Cruise](https://ngcruise.com/#/) - 
+- 30-31 May 2017 : [jPrime](http://jprime.io/) - 
+- 1-2 June 2017 : [NG Cruise](https://ngcruise.com/#/) - 
+- 1-2 June 2017 : [Shift](http://shift.codeanywhere.com/) - 
+- 7-9 June 2017 : [Web2Day](https://web2day.co/) - 
+- 8 June 2017 : [DevTalks](http://www.devtalks.ro/bucharest/) - 
+- 9 June 2017 : [DevFest Lille](https://devfest.gdglille.org/) - 
+- 12-13 June 2017 : [FinDEVr London](http://findevr.com/) - 
+- 12-14 June 2017 : [GOTO Amsterdam](https://blog.gotocon.com/conferences/) - 
+- 21-22 June 2017 : [EclipseCon France](https://www.eclipsecon.org/france2017/) - 
+- 21-23 June 2017 : [Devoxx Poland](http://devoxx.pl) - 
+- 22 June 2017 : [Voxxed Days Luxembourg](https://voxxeddays.com/luxembourg/) - 
+- 6-7 July 2017 : [Angular Camp](https://angularcamp.org/) - 
+- 17-19 July 2017 : [AnDevCon](http://www.andevcon.com/) - 
+- 30 August 2017-1 September 2017 : [SREcon Europe](https://www.usenix.org/conference/srecon17europe) - 
+- 4 September 2017 : [GoogleDevExpert Summit](https://twitter.com/GoogleDevExpert) - 
+- 5-6 September 2017 : [Google Developer Days Europe](https://developers.google.com/events/gdd-europe/) - 
+- 7-8 September 2017 : [Software Circus 2017 Cloudbusting](http://cloudbusting.softwarecircus.io/) - 
+- 15 September 2017 : [Jug Summer Camp](http://www.jugsummercamp.org/) - 
+- 22-23 September 2017 : [FrontEnd Connect](http://www.frontend-connect.io/) - 
+- 23-24 September 2017 : [DevFest Lima](https://www.joinnus.com/PE/charlas-y-conferencias/lima-devfest-lima-2017-12475) - 
+- 23-24 September 2017 : [DevFest Siberia](https://gdg-siberia.com/) - 
+- 28 September 2017 : [DevFest Toulouse](https://devfesttoulouse.fr) - 
+- 28-30 September 2017 : [Strange Loop](https://www.thestrangeloop.com/) - 
+- 1-5 October 2017 : [Java One](https://www.oracle.com/javaone/index.html) - 
+- 1-5 October 2017 : [GOTo Copenhagen](https://blog.gotocon.com/conferences/) - 
+- 3-4 October 2017 : [Microsoft #experiences17](https://experiences17.microsoft.fr/) - 
+- 5-7 October 2017 : [ParisWeb](https://www.paris-web.fr/) - 
+- 10-12 October 2017 : [GitHub Universe](https://githubuniverse.com/) - 
+- 12-13 October 2017 : [Codemotion Berlin](http://berlin2017.codemotionworld.com/) - 
+- 13-14 October 2017 : [DevFest Ukraine](https://devfest.ch/) - 
+- 16-19 October 2017 : [DockerCon Europe](https://europe-2017.dockercon.com/) - 
+- 19 October 2017 : [Google Cloud Summit | Paris](https://cloudplatformonline.com/Summit-Paris-2017.html) - 
+- 19-20 October 2017 : [DevFest Nantes](https://devfest.gdgnantes.com/) - 
+- 19-20 October 2017 : [GeeCon Prague](http://2017.geecon.cz) - 
+- 19-20 October 2017 : [Voxxed Days Belgrade](https://belgrade.voxxeddays.com/) - 
+- 20-21 October 2017 : [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - 
+- 23-26 October 2017 : [Open Source Summit Europe](https://osseu17.sched.com/event/C4AA) - 
+- 24-26 October 2017 : [EclipseCon Europe 2017](https://www.eclipsecon.org/europe2017) - 
+- 26-27 October 2017 : [Blend Web Mix](http://www.blendwebmix.com/) - 
+- 26-27 October 2017 : [Soft Shake](http://www.soft-shake.ch/) - 
+- 28-29 October 2017 : [DevFest Switzerland](https://devfest.ch/) - 
+- 2-3 November 2017 : [Scala IO](scala.io) - 
+- 6 November 2017 : [dotGo](http://www.dotgo.eu) - 
+- 6-10 November 2017 : [Devoxx Belgium](https://devoxx.be) - 
+- 10 November 2017 : [BDXIO](http://bdx.io) - 
+- 14-16 November 2017 : [Devoxx Morocco](http://www.devoxx.ma) - 
+- 15-17 November 2017 : [GOTO Berlin](https://blog.gotocon.com/conferences/) - 
+- 27 November 2017-1 December 2017 : [AWS re:Invent](https://reinvent.awsevents.com/) - 
+- 29 November 2017 : [Agile Tour Paris](http://at2017.agiletour.org/paris.html) - 
+- 30 November 2017 : [dotCSS](http://www.dotcss.io) - 
+- 1 December 2017 : [dotJS](http://www.dotjs.io) - 
+- 4-6 December 2017 : [ConFoo](https://confoo.ca/en) - 
+- 6-8 December 2017 : [KubeCon + CloudNativeCon North America 2017](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-north-america) - 
+- 18-19 January 2018 : [DevOpsDays NYC](https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363) - 
+- 22-26 January 2018 : [Linux Conf AU](http://linux.conf.au) - 
+- 23 January 2018 : [Azure Red Shirt Dev Tour](https://experiences.microsoft.fr/evenements/technique/azure-red-shirt-dev-tour/) - 
+- 24-27 January 2018 : [SnowCamp](http://snowcamp.io/fr/) - 
+- 29 January 2018 : [dotSwift](https://2018.dotswift.io/) - 
+- 1-2 February 2018 : [ng-europe](https://ngeurope.org/) - 
+- 2 February 2018 : [Cluster Europe](https://clustereurope.org/) - 
+- 3-4 February 2018 : [FOSDEM](https://fosdem.org/2018/) - 
+- 8-10 February 2018 : [Sunshine PHP](http://2018.sunshinephp.com) - 
+- 15 February 2018 : [Serverlessconf Paris](http://paris.serverlessconf.io) - 
+- 15-16 February 2018 : [Frontend Love](http://frontenddeveloperlove.com) - 
+- 19-21 February 2018 : [DevOps Gathering 2018](https://devops-gathering.io/) - 
+- 20-22 February 2018 : [IndexConf](http://indexconf.com) - 
+- 22-23 February 2018 : [Lambda Days](http://www.lambdadays.org/lambdadays2018) - 
+- 23 February 2018 : [Touraine Tech](https://touraine.tech/) - 
+- 27-1 February 2018 : [Elastic{ON}](https://www.elastic.co/elasticon/conf/2018/sf) - 
+- 1-2 March 2018 : [GrafanaEu Con](https://grafana.com/) - 
+- 1-2 March 2018 : [ngVikings](https://ngvikings.org/) - 
+- 8 March 2018 : [VoxxedDays Zurich](https://voxxeddays.com/) - 
+- 8 March 2018 : [Git Merge](https://git-merge.com) - 
+- 9-13 March 2018 : [DrupalCon](https://events.drupal.org/) - 
+- 12-13 March 2018 : [VoxxedDays Vienna](https://voxxeddays.com/) - 
+- 12-13 March 2018 : [VoxxedDays Bristol](https://voxxeddays.com/) - 
+- 12-13 March 2018 : [Big Data Paris](https://www.bigdataparis.com/) - 
+- 15 March 2018 : [pg Day Paris](https://2018.pgday.paris) - 
+- 19 March 2018 : [Google Developer Day](https://events.withgoogle.com) - 
+- 20 March 2018 : [Day of Cloud native](https://www.code-conf.com/dcn/) - 
+- 22-23 March 2018 : [VoxxedDays Bucharest](https://voxxeddays.com/) - 
+- 22-25 March 2018 : [FOSS Asia](http://fossasia.org) - 
+- 28-30 March 2018 : [BreizhCamp](http://www.breizhcamp.org/) - 
+- 29-30 March 2018 : [SymfonyLive Paris 2018](https://paris2018.live.symfony.com/) - 
+- 30 March 2018 : [TensorFlow Dev Summit](http://www.tensorflow.org) - 
+- 11-13 April 2018 : [API Conference](http://apiconference.de) - 
+- 12 April 2018 : [ImageCon](http://www.imagecon.com/) - 
+- 12-14 April 2018 : [JCertif](http://ponton.jcertif.com/) - 
+- 13-15 April 2018 : [Isle Of Ruby](https://isleofruby.org) - 
+- 19-20 April 2018 : [MiXiT](https://mixitconf.org/) - 
+- 18-20 April 2018 : [Devoxx France](https://devoxx.fr/) - 
+- 19-20 April 2018 : [DroidCon Turin](http://it.droidcon.com/2018/) - 
+- 23-24 April 2018 : [Android Makers France](https://androidmakers.fr/) - 
+- 23-27 April 2018 : [The Web Conference](https://www2018.thewebconf.org/) - 
+- 23 April 2018 : [WS-REST 2018](http://2018.ws-rest.org/) - 
+- 27 April 2018 : [Gotham Go](http://gothamgo.com) - 
+- 2-3 May 2018 : [VoxxedDays Melbourne](https://voxxeddays.com/) - 
+- 2-4 May 2018 : [KubeCon + CloudNativeCon Europe 2018](http://events.linuxfoundation.org/events/kubecon-and-cloudnativecon-europe) - 
+- 8-9 May 2018 : [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/) - 
+- 8-10 May 2018 : [Google IO](http://google.com/io) - 
+- 8-11 May 2018 : [Craft Conf](https://craft-conf.com/) - 
+- 9-11 May 2018 : [GeeCON](https://geecon.org) - 
+- 9-11 May 2018 : [Devoxx UK](http://devoxx.com) - 
+- 9-17 May 2018 : [PyCon](https://us.pycon.org/2018/) - 
+- 15-17 May 2018 : [Innorobo](https://innorobo.com/en/home/) - 
+- 16-18 May 2018 : [Riviera Dev](http://rivieradev.fr/) - 
+- 17 May 2018 : [DataXDay](http://dataxday.fr) - 
+- 17-18 May 2018 : [Newcrafts](http://ncrafts.io/) - 
+- 17-18 May 2018 : [Ace Conf](http://www.aceconf.com/) - 
+- 17-18 May 2018 : [React Europe](https://www.react-europe.org/) - 
+- 17-18 May 2018 : [PHP Tour](https://event.afup.org/) - 
+- 18-19 May 2018 : [JEEConf](http://jeeconf.com/) - 
+- 23-25 May 2018 : [Container Camp AU](https://2018.container.camp/au/) - 
+- 23-25 May 2018 : [J On The Beach](https://jonthebeach.com/) - 
+- 25-26 May 2018 : [Sud Web](https://sudweb.fr/2018/) - 
+- 26 May 2018 : [VoxxedDays Minsk](https://voxxeddays.com/) - 
+- 29-30 May 2018 : [jPrime](http://jprime.io/) - 
+- 31 May 2018 : [dotAI](https://2018.dotai.io/) - 
+- 31 May 2018 : [Shift](http://shift.codeanywhere.com/) - 
+- 31-3 May 2018 : [Gopher Con Iceland](https://gophercon.is/) - 
+- 31 May 2018 : [OpenMSA DevDay](https://www.openmsa.co/events/devdays/) - 
+- 1 June 2018 : [dotScale](https://2018.dotscale.io/) - 
+- 1 June 2018 : [VoxxedDays Singapore](https://voxxeddays.com/) - 
+- 4-6 June 2018 : [Monitorama](http://monitorama.com/) - 
+- 7-8 June 2018 : [Best Of Web](http://bestofweb.paris/) - 
+- 8 June 2018 : [DevTalks](http://www.devtalks.ro/bucharest/) - 
+- 11-12 June 2018 : [AIParis](https://aiparis.fr/) - 
+- 12-13 June 2018 : [GitHub Satellite](https://githubuniverse.com/satellite/) - 
+- 12-15 June 2018 : [DockerCon](https://2018.dockercon.com) - 
+- 13-14 June 2018 : [EclipseCon France](https://www.eclipsecon.org/france2018/) - 
+- 13-15 June 2018 : [Web2Day](https://web2day.co/) - 
+- 19 June 2018 : [AWS Summit Paris](https://aws.amazon.com/fr/summits/paris/inscription/) - 
+- 19 June 2018 : [JNation](http://jnation.pt) - 
+- 20-22 June 2018 : [Devoxx Poland](https://devoxx.com) - 
+- 21 June 2018 : [DevFest Lille](https://devfest.gdglille.org/) - 
+- 21 June 2018 : [JHipster Conf](https://jhipster-conf.github.io) - 
+- 22 June 2018 : [VoxxedDays Luxembourg](https://voxxeddays.com/) - 
+- 25-26 June 2018 : [USI](https://www.usievents.com/fr) - 
+- 25-29 June 2018 : [QCon New York](https://qconnewyork.com) - 
+- 26 June 2018 : [Paris Container Day](http://paris-container-day.fr/) - 
+- 26-27 June 2018 : [MongoDB World](https://www.mongodb.com/world18) - 
+- 28 June 2018 : [Jenkins User Conference](https://juc-paris.jfrog.com/fr/) - 
+- 28-29 June 2018 : [Sunny Tech](https://sunny-tech.io/) - 
+- 30-1 June 2018 : [La nuit du Hack](https://www.nuitduhack.com/fr) - 
+- 3 July 2018 : [Oracle Code](https://developer.oracle.com/code) - 
+- 5 July 2018 : [AWS Transformation Day Toulouse](https://aws.amazon.com/fr/events/transformation-day-2018/toulouse/) - 
+- 18-20 July 2018 : [JavaScript Camp](http://angularcamp.tech) - 
+- 24-27 July 2018 : [Google Cloud Next 18](https://cloud.withgoogle.com/next18/) - 
+- 1-3 August 2018 : [GopherCon UK](http://gophercon.co.uk) - 
+- 28-29 August 2018 : [GopherCon](https://www.gophercon.com/) - 
+- 29-31 August 2018 : [SRECon](https://www.usenix.org/conference/srecon18europe) - 
+- 6-7 September 2018 : [Container Camp UK](https://2018.container.camp/uk/) - 
+- 11 September 2018 : [AWS Dev Day 2018](https://aws.amazon.com/fr/events/devday-paris/) - 
+- 14 September 2018 : [JUG Summer Camp](http://www.jugsummercamp.org/) - 
+- 16-19 September 2018 : [Jenkins World USA](https://www.cloudbees.com/jenkinsworld/home) - 
+- 20-21 September 2018 : [FrenchKit](http://frenchkit.fr/) - 
+- 27 September 2018 : [Open Hardware Summit](http://2018.oshwa.org) - 
+- 3-5 October 2018 : [KotlinConf 2018](https://www.kotlinconf.com) - 
+- 12-13 October 2018 : [DevFest Ukraine 2018](https://devfest.gdg.org.ua/2018) - 
+- 16 October 2018 : [DevOps REX](https://www.devopsrex.fr/) - 
+- 18-19 October 2018 : [DevFest Nantes 2018](https://devfest.gdgnantes.com) - 
+- 18-19 October 2018 : [GeeCON](https://geecon.org) - 
+- 22-24 October 2018 : [Hashi Conf](https://www.hashiconf.com/) - 
+- 22-25 October 2018 : [JavaOne](https://twitter.com/JavaOneConf) - 
+- 23-25 October 2018 : [EclipseCon Europe 2018](https://www.eclipsecon.org/europe2018) - 
+- 25-26 October 2018 : [Forum PHP 2018](https://event.afup.org/) - 
+- 29-31 October 2018 : [VoxxedDays Microservices](https://voxxeddays.com/microservices/) - 
+- 29-31 October 2018 : [Scala.io](https://scala.io/) - 
+- 3 November 2018 : [DevFest Belgium](devfest-be.cfp.io/ ) - 
+- 5-6 November 2018 : [µCon London 2018](https://skillsmatter.com/conferences/10336-mucon-london-2018-the-microservices-conference) - 
+- 6-7 November 2018 : [Microsoft Experiences 18](https://experiences18.microsoft.fr/) - 
+- 7-8 November 2018 : [GraphQL Summit](https://summit.graphql.com/) - 
+- 8 November 2018 : [DevFest Toulouse](http://devfesttoulouse.fr) - 
+- 8 November 2018 : [dotCSS](https://www.dotcss.io) - 
+- 8 November 2018 : [MongoDB Europe'18](https://www.mongodb.com/europe18) - 
+- 9 November 2018 : [dotJS](https://www.dotjs.io) - 
+- 9 November 2018 : [BDX I/O](https://bdx.io) - 
+- 12-16 November 2018 : [Devoxx Belgium](https://devoxx.be/) - 
+- 14-15 November 2018 : [MobileOne](https://www.mobile.one/) - 
+- 15 November 2018 : [DevOps D-Day#4](http://2018.devops-dday.com/) - 
+- 20 November 2018 : [XebiCon](http://xebicon.fr/) - 
+- 22 November 2018 : [Codeurs en Seine](http://www.codeursenseine.com/) - 
+- 23-25 November 2018 : [Maker Faire Paris](https://paris.makerfaire.com/) - 
+- 5-6 December 2018 : [Paris Open Source Summit](http://www.opensourcesummit.paris/) - 
+- 14-16 January 2019 : [LavaOne](bit.do/lavaone) - 
+- 21-25 January 2019 : [Linux Conf AU](http://linux.conf.au) - 
+- 23-26 January 2019 : [SnowCamp](http://snowcamp.io/fr/) - 
+- 28 January 2019 : [dotSwift](https://2019.dotswift.io/) - 
+- 1 February 2019 : [Touraine Tech](https://touraine.tech/) - 
+- 2-3 February 2019 : [FOSDEM](https://fosdem.org/2019/) - 
+- 8 February 2019 : [DevFest Paris](https://www.billetweb.fr/devfest-paris) - 
+- 13-15 February 2019 : [Frontend Love](http://frontenddeveloperlove.com) - 
+- 14-16 February 2019 : [Ro MobOs](http://romobos.com/) - 
+- 14-15 February 2019 : [VueJs Amsterdam](vuejs.amsterdam) - 
+- 22 February 2019 : [DevFest Du Bout Du Monde](https://devfest.duboutdumonde.bzh/) - 
+- 11-13 March 2019 : [DevOps Gathering](http://devops-gathering.io) - 
+- 15 March 2019 : [dev://east](https://deveast.uk/) - 
+- 19 March 2019 : [VoxxedDays Zurich](https://voxxeddays.com/) - 
+- 20-22 March 2019 : [Breizh Camp](http://www.breizhcamp.org/) - 
+- 20-22 March 2019 : [Voxxed Bucharest](https://romania.voxxeddays.com/bucharest/2019-03-20/) - 
+- 23 March 2019 : [Kubernetes Day](https://events.linuxfoundation.org/events/kubernetes-day-india-2019/?utm_source=cncf&utm_medium=email&utm_campaign=cloudnativemonthly&utm_content=january19) - 
+- 25 March 2019 : [dotGo](https://www.dotgo.eu/) - 
+- 28-30 March 2019 : [Greach](http://greachconf.com) - 
+- 9-11 April 2019 : [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - 
+- 10-11 April 2019 : [Dublin Tech Summit](https://t.co/vzYtTZmZ6Y) - 
+- 13 April 2019 : [Voxxed Milan](https://voxxeddays.com/milan/) - 
+- 17-19 April 2019 : [Devoxx France](https://www.devoxx.fr/) - 
+- 25 April 2019 : [Future Sync](http://futuresync.co.uk) - 
+- 29-2 April 2019 : [DockerCon 2019](https://dockercon19.smarteventscloud.com/portal/newreg.ww) - 
+- 30-2 April 2019 : [Rails Conf](https://railsconf.com/) - 
+- 1 May 2019 : [Voxxed CERN](https://voxxeddays.com/cern/) - 
+- 7-9 May 2019 : [Google IO](https://events.google.com/io/) - 
+- 8-10 May 2019 : [Devoxx UK](https://www.devoxx.co.uk/) - 
+- 13-14 May 2019 : [Voxxed Melbourne](https://australia.voxxeddays.com) - 
+- 13-14 May 2019 : [Voxxed Sidney](https://australia.voxxeddays.com) - 
+- 15-17 May 2019 : [Riviera Dev](http://rivieradev.fr) - 
+- 16-17 May 2019 : [Newcrafts](https://ncrafts.io) - 
+- 18-19 May 2019 : [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - 
+- 22 May 2019 : [CloudBees Days](https://www.cloudbees.com/cloudbees-days#paris) - 
+- 20-23 May 2019 : [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/) - 
+- 21-22 May 2019 : [Voxxed Frontend](https://romania.voxxeddays.com/frontend/) - 
+- 23-24 May 2019 : [MixiT](https://mixitconf.org) - 
+- 24-25 May 2019 : [Voxxed Minsk](https://voxxeddays.com/minsk/) - 
+- 25 May 2019 : [Dev Day 19](https://devday.io/) - 
+- 25 May 2019 : [Dev Day 19](https://devday.io/) - 
+- 27-29 May 2019 : [JBCNConf](http://www.jbcnconf.com/2019) - 
+- 27-28 May 2019 : [ngVikings](https://ngvikings.org/) - 
+- 27-29 May 2019 : [GR8Conf EU](https://gr8conf.eu) - 
+- 30-31 May 2019 : [Voxxed Singapour](https://voxxeddays.com/singapore/) - 
+- 31 May 2019 : [GoCon Canada](https://gocon.ca/) - 
+- 30-1 May 2019 : [GopherCon Europe](https://www.gophercon.es) - 
+- 1 June 2019 : [Pucela Tech Day](https://gdgvalladolid.com) - 
+- 1-2 June 2019 : [JSConf EU](https://2019.jsconf.eu) - 
+- 4 June 2019 : [Paris Container Day](http://paris-container-day.fr) - 
+- 4 June 2019 : [JNation](https://jnation.pt) - 
+- 5-8 June 2019 : [LambdaConf](http://lambdaconf.us) - 
+- 6 June 2019 : [CLUSIF](https://clusif.fr/appel-a-contribution/) - 
+- 6-7 June 2019 : [Best Of Web](http://bestofweb.paris/) - 
+- 6-8 June 2019 : [Voxxed Athens](https://voxxeddays.com/athens/) - 
+- 10-13 June 2019 : [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ça) - 
+- 11 June 2019 : [Flow Factor Conference](https://flowfactorconference.com/) - 
+- 11-13 June 2019 : [OW2Con](https://www.ow2con.org/view/2019/) - 
+- 11-13 June 2019 : [Scala Days](https://scaladays.org/) - 
+- 11-14 June 2019 : [INFORSID](http://inforsid.fr/Paris2019/) - 
+- 13-14 June 2019 : [Dev Break](https://www.devbreak.io/) - 
+- 14 June 2019 : [DevFest Lille](https://devfest.gdglille.org/) - 
+- 19 June 2019 : [PGDay](https://pgday.fr) - 
+- 20-21 June 2019 : [VoxxedDays Luxembourg](https://voxxeddays.com/luxembourg/) - 
+- 24-26 June 2019 : [Container days](https://www.containerdays.io) - 
+- 24-27 June 2019 : [Devoxx Poland](http://devoxx.pl) - 
+- 24-28 June 2019 : [COMPAS](https://2019.compas-conference.fr/) - 
+- 24-28 June 2019 : [QCon New York](https://qconnewyork.com/) - 
+- 27 June 2019 : [DataXDay](https://dataxday.fr/) - 
+- 27 June 2019 : [GopherCon Poland](http://twitter.com/GopherConPL) - 
+- 27 June 2019 : [JHipster Conf](https://jhipster-conf.github.io/) - 
+- 27-28 June 2019 : [Sunny Tech](https://sunny-tech.io/) - 
+- 8-10 July 2019 : [HashiConf EU](https://hashiconfeu.hashicorp.com/) - 
+- 24-27 July 2019 : [GopherCon](https://www.gophercon.com) - 
+- 12-15 August 2019 : [Devops World](https://www.cloudbees.com/devops-world) - 
+- 21-23 August 2019 : [GopherCon UK](https://www.gophercon.com) - 
+- 23 August 2019 : [Anxiety Tech](https://www.anxietytech.com/) - 
+- 13 September 2019 : [JUG Summer Camp](http://www.jugsummercamp.org/edition/10) - 
+- 16-17 September 2019 : [Agile en Seine](https://www.agileenseine.com/) - 
+- 17 September 2019 : [Orléans Tech](http://orleans-tech.com) - 
+- 20 September 2019 : [We love speed](https://www.welovespeed.com/2019/) - 
+- 3 October 2019 : [DevFest Toulouse](https://devfesttoulouse.fr) - 
+- 5 October 2019 : [VoxxedDays Ticino](https://voxxeddays.com/ticino/) - 
+- 10-12 October 2019 : [Paris Web](https://www.paris-web.fr) - 
+- 17 October 2019 : [DevOps Rex](http://devopsrex.fr) - 
+- 21-24 October 2019 : [EclipseCon Europe 2019](https://www.eclipsecon.org/europe2019) - 
+- 21-22 October 2019 : [Devfest Nantes](https://devfest.gdgnantes.com/fr/) - 
+- 21-23 October 2019 : [VoxxedDays Microservices](https://voxxeddays.com/microservices/) - 
+- 24-25 October 2019 : [Forum PHP Paris](https://event.afup.org) - 
+- 25 October 2019 : [React Advanced London](https://reactadvanced.com/) - 
+- 29-31 October 2019 : [Scala IO](https://scala.io) - 
+- 1-2 November 2019 : [Devoxx Ukraine](http://devoxx.org.ua) - 
+- 4-7 November 2019 : [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-eu) - 
+- 4-8 November 2019 : [Devoxx Belgium](http://devoxx.be) - 
+- 6 November 2019 : [Devfest Strasbourg](https://devfest.gdgstrasbourg.fr) - 
+- 12-14 November 2019 : [Devoxx Morocco](http://devoxx.ma) - 
+- 13-14 November 2019 : [BlendWebMix](https://www.blendwebmix.com/) - 
+- 15 November 2019 : [BDX I/O](https://www.bdx.io) - 
+- 21 November 2019 : [Codeurs en Seine](https://www.codeursenseine.com/2019/) - 
+- 2-5 December 2019 : [Devops World](https://www.cloudbees.com/devops-world) - 
+- 4-6 December 2019 : [KotlinConf](https://kotlinconf.com/) - 
+- 20-21 December 2019 : [DroidCon Madrid](https://www.madrid.droidcon.com/) - 
+- 14 January 2020 : [GitLab Commit](https://about.gitlab.com/events/commit/) - 
+- 15-18 January 2020 : [iOS Conf Singapore](https://2020.iosconf.sg/) - 
+- 22-25 January 2020 : [SnowCamp](http://snowcamp.io/fr/) - 
+- 30-31 January 2020 : [Re Work](https://www.re-work.co/summits/sanfrancisco-summit-2020) - 
+- 31 January 2020 : [Touraine Tech](https://touraine.tech/) - 
+- 1-2 February 2020 : [FOSDEM](https://fosdem.org/2020/) - 
+- 3 February 2020 : [dotSwift](https://2020.dotswift.io/) - 
+- 3 February 2020 : [GopherCon Israel](https://www.gophercon.org.il/) - 
+- 14 February 2020 : [DevFest Paris](https://devfest.gdgparis.com/) - 
+- 19-21 February 2020 : [Frontend Developers Love](https://frontenddeveloperlove.com/) - 
+- 20-21 February 2020 : [VueJS Amsterdam](https://vuejs.amsterdam/?ref=confstech) - 
+- 23-26 February 2020 : [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-n'y) - 
+- 24-25 February 2020 : [Unvoxxed Hawaii](https://voxxeddays.com/hawaii/) - 
+- 26-28 February 2020 : [ConFoo](https://confoo.ca/en/yul2020) - 
+- 28 February 2020 : [DevFest du Bout du Monde](https://devfest.duboutdumonde.bzh/) - 
+- 4 March 2020 : [Git Merge](https://git-merge.com) - 
+- 9-11 March 2020 : [DevOps Gathering](https://devops-gathering.io/) - 
+- 11-15 March 2020 : [JChateau](https://www.jchateau.org/) - 
+- 17 March 2020 : [APIDays Express](https://www.apidays.co/jakarta) - 
+- 28 March 2020 : [GopherCon Russia](https://www.gophercon-russia.ru/) - 
+- 28-29 March 2020 : [GopherCon India](https://gopherconindia.com/) - 
+- 15 May 2020 : [AFUP Day](https://event.afup.org/) - 
+- 21-22 May 2020 : [VoxxedDays Frontend Bucharest](https://romania.voxxeddays.com/frontend/) - 
+- 6 June 2020 : [Flutter Conf Paris](https://flutter-conf.paris/) - 
+- 9-12 June 2020 : [Craft Conf](https://craft-conf.com/) - 
+- 15-18 June 2020 : [DockerCon](https://www.docker.com/dockercon/) - 
+- 15-18 June 2020 : [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - 
+- 23-25 June 2020 : [Spark+AI Summit](https://databricks.com/sparkaisummit) - 
+- 1-3 July 2020 : [Scala Days Berlin](https://scaladays.org/) - 
+- 1-3 July 2020 : [DroidCon Berlin](https://www.berlin.droidcon.com/) - 
+- 11 July 2020 : [GoWayFest](https://goway.io/) - 
+- 17-20 July 2020 : [Oxidize](https://oxidizeconf.com/) - 
+- 19-21 August 2020 : [GopherCon UK](https://www.gophercon.co.uk/) - 
+- 24-26 August 2020 : [Devoxx UK](https://www.devoxx.co.uk/) - 
+- 24-29 August 2020 : [Foss4G](https://2020.foss4g.org/) - 
+- 11 September 2020 : [JUG Summer Camp](https://www.jugsummercamp.org/edition/11) - 
+- 14-17 September 2020 : [O'Reilly Strata Data & AI New York](https://conferences.oreilly.com/strata-data-ai/stai-ny) - 
+- 15 September 2020 : [VoxxedDays Zurich](https://voxxeddays.com/zurich/) - 
+- 17-18 September 2020 : [DevOps Days Istanbul](https://devopsdays.istanbul/) - 
+- 24-25 September 2020 : [DevOps Days London](https://devopsdays.org/events/2020-london/welcome/) - 
+- 29-30 September 2020 : [DevOps Days Prague](https://devopsdays.org/events/2020-prague/welcome/) - 
+- 30 September 2020 : [GreenConf.io](http://greenconf.io/) - 
+- 8-9 October 2020 : [Spring I/O](https://2020.springio.net) - 
+- 15 October 2020 : [DevopsDays Paris](https://devopsdays.org/events/2020-paris/welcome/) - 
+- 15-16 October 2020 : [VoxxedDays Thessaloniki](https://voxxeddays.com/thessaloniki/) - 
+- 22 October 2020 : [Incontro DevOps](https://2020.incontrodevops.it/) - 
+- 16-17 October 2020 : [RustLab](https://www.rustlab.it/home) - 
+- 26-30 October 2020 : [Le Halloween des Speakers 2020](https://rdv-speakers.fr/) - 
+- 27-29 October 2020 : [SRECon](https://www.usenix.org/srecon) - 
+- 27-29 October 2020 : [European Cloud Conference](https://europeancloudconference.com/) - 
+- 3-5 November 2020 : [DevoxxMA](https://www.devoxx.ma/) - 
+- 4 November 2020 : [Kubernetes Community Day](https://kubernetescommunitydays.org/events/2020-paris/) - 
+- 5-7 November 2020 : [DevoxxUkraine](https://devoxx.com.ua/) - 
+- 16-19 November 2020 : [O'Reilly Infrastructure and Ops Conference](https://conferences.oreilly.com/infrastructure-ops) - 
+- 19 November 2020 : [Codeurs en Seine](https://www.codeursenseine.com) - 
+- 27-28 November 2020 : [DroidCon Turin](https://it.droidcon.com/2020/it) - 
+- 4-5 February 2021 : [DDD Europe](https://dddeurope.com/2021/handson-conference/) - 
+- 11 February 2021 : [GopherCon Israel](https://www.gophercon.org.il/) - 
+- 11 March 2021 : [CloudSud 2021](https://cloudsud.virtualconference.com/#/event) - 
+- 20-23 April 2021 : [DevOpsCon](https://devopscon.io/london/) - 
+- 23-25 April 2021 : [GopherCon Russia](https://www.gophercon-russia.ru/en) - 
+- 25-29 April 2021 : [GopherCon Berlin](https://gophercon.berlin/) - 
+- 27-28 April 2021 : [Red Hat Summit 2021 - Part1](https://www.redhat.com/en/summit) - 
+- 29 April 2021 : [GoLab](https://golab.io/en/) - 
+- 3 May 2021 : [Cloud Native Rust Day](https://events.linuxfoundation.org/cloud-native-rust-day/program/schedule/) - 
+- 3 May 2021 : [PromCon Online](https://promcon.io/2021-online/schedule/?) - 
+- 4-7 May 2021 : [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - 
+- 4 May 2021 : [Cloud Native Security Day](https://events.linuxfoundation.org/cloud-native-security-day-europe/program/schedule/) - 
+- 4 May 2021 : [Cloud Native WASM Day](https://events.linuxfoundation.org/cloud-native-wasm-day/program/schedule/) - 
+- 4 May 2021 : [FluentCon](https://events.linuxfoundation.org/fluentcon/program/schedule/) - 
+- 4 May 2021 : [Kubernetes AI Day](https://events.linuxfoundation.org/kubernetes-ai-day/program/schedule/) - 
+- 4 May 2021 : [ServiceMesh Con](https://events.linuxfoundation.org/servicemeshcon-europe/program/schedule/) - 
+- 4 May 2021 : [Kubernetes on EDGE Day](https://events.linuxfoundation.org/kubernetes-on-edge-day/program/schedule/) - 
+- 17-20 May 2021 : [SLO Conf](https://www.sloconf.com/) - 
+- 18-20 May 2021 : [MiXiT](https://mixitconf.org/fr/) - 
+- 18-20 May 2021 : [Google IO](https://events.google.com/io/) - 
+- 20 May 2021 : [WTF Is SRE?](https://www.cloud-native-sre.wtf/) - 
+- 25-27 May 2021 : [Microsoft Build](https://mybuild.microsoft.com/) - 
+- 26-28 May 2021 : [GopherCon Europe](https://gophercon.eu/) - 
+- 27 May 2021 : [DockerCon Live 2021](https://docker.events.cube365.net/dockercon-live/2021) - 
+- 28 May 2021 : [AFUP Day Lille / Rennes](https://event.afup.org/afup-day-2021/afup-day-2021-lille-rennes-edition-en-ligne/) - 
+- 29 May 2021 : [hack.commit.push / Paris](https://paris2021.hack-commit-pu.sh/) - 
+- 2-3 June 2021 : [Paris Container Day](https://paris-container-day.fr/fr/) - 
+- 5 June 2021 : [DevRel Con Tokyo 2021](https://tokyo-2021.devrel.net/) - 
+- 7-11 June 2021 : [AlpesCraft](https://www.alpescraft.fr/) - 
+- 8-9 June 2021 : [Global Maintainer Summit](https://globalmaintainersummit.github.com/) - 
+- 8-11 June 2021 : [HashiConf Europe](https://hashiconf.com/europe/) - 
+- 9-10 June 2021 : [GitOpsDay](https://www.gitopsdays.com/) - 
+- 14-17 June 2021 : [DevOpsCon](https://devopscon.io/berlin/) - 
+- 11 June 2021 : [AFUP Day Toulouse / Tours](https://event.afup.org/afup-day-2021/afup-day-2021-toulouse-tours-edition-en-ligne/) - 
+- 15-16 June 2021 : [Red Hat Summit 2021 - Part2](https://www.redhat.com/en/summit) - 
+- 17 June 2021 : [Blazor Day](https://blazorday.net/) - 
+- 18 June 2021 : [Cloud Ouest Online 2021](https://cloudouest.fr/) - 
+- 21-22 June 2021 : [VoxxedDays Luxembourg](https://luxembourg.voxxeddays.com/) - 
+- 22 June 2021 : [Red Hat DevNation Day France](https://developers.redhat.com/devnation/devnationday-france) - 
+- 22-25 June 2021 : [Simple Web Conf 2021](https://simplewebconf.com/) - 
+- 23-24 June 2021 : [cdCon](https://events.linuxfoundation.org/cdcon/) - 
+- 23-24 June 2021 : [Volcamp.io](https://www.volcamp.io/) - 
+- 24 June 2021 : [Archilocus](https://www.archilocus.tech/) - 
+- 28-30 June 2021 : [SophiaConf](http://www.telecom-valley.fr/sophiaconf-2021) - 
+- 2 July 2021 : [Riviera Dev](https://rivieradev.fr/) - 
+- 2-3 July 2021 : [Kotland](https://www.papercall.io/kotlandconf2021) - 
+- 6-7 July 2021 : [JS Italian Conf](https://2021.jsday.it/) - 
+- 23 July 2021 : [JBNConf](https://www.jbcnconf.com/2021/) - 
+- 26-30 July 2021 : [THAT Conference](https://that.us/) - 
+- 31 July 2021 : [PyOhio](https://www.pyohio.org/2021/) - 
+- 3-4 August 2021 : [GitLab Commit](https://about.gitlab.com/events/commit/) - 
+- 18-19 August 2021 : [eBPF Summit](https://ebpf.io/summit-2021/) - 
+- 18-20 August 2021 : [Gopher Con UK 2021](https://www.gophercon.co.uk/) - 
+- 25-27 August 2021 : [Devoxx Poland](https://www.devoxx.pl/) - 
+- 7-8 September 2021 : [DevOpsDays Zürich](https://devopsdays.org/events/2021-zurich/welcome/) - 
+- 10 September 2021 : [JUG Summer Camp](https://www.jugsummercamp.org/edition/12) - 
+- 10 September 2021 : [API Platform Conference](https://api-platform.com/con/2021/) - 
+- 10-12 September 2021 : [International Sketchnote Camp 2021](https://isc20be.home.blog/registration/) - 
+- 13 September 2021 : [.NET Enterprise Developer Day hosted by Amazon Web Services](https://www.eventbrite.com/e/net-enterprise-developer-day-hosted-by-amazon-web-services-registration-167917464657) - 
+- 13-14 September 2021 : [DeveloperWeek Global: Cloud Conference](https://www.developerweek.com/global/conference/cloud/) - 
+- 14 September 2021 : [WAX Watch Awesome Xperts](https://www.waxconf.fr/) - 
+- 21-23 September 2021 : [ContainerDays 2021](https://www.containerdays.io/) - 
+- 22-23 September 2021 : [GitKon 2021](https://gitkon.com) - 
+- 24 September 2021 : [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - 
+- 27 September 2021-2 October 2021 : [FOSS4G](https://2021.foss4g.org/) - 
+- 28 September 2021 : [Serverless Days Paris](https://www.papercall.io/serverless-days-paris-2021) - 
+- 28-30 September 2021 : [DevOps World](https://www.devopsworld.com/) - 
+- 29-30 September 2021 : [AnsibleFest](https://www.ansible.com/ansiblefest) - 
+- 29 September 2021-1 October 2021 : [Devoxx France](https://www.devoxx.fr/) - 
+- 29 September 2021-1 October 2021 : [ApacheCon](https://apachecon.com/acna2020/) - 
+- 1-2 October 2021 : [GopherCon Brasil](https://gopherconbr.org/) - 
+- 4-6 October 2021 : [Event Sourcing Live](https://2021.eventsourcing.live/) - 
+- 4-7 October 2021 : [Jax London](https://jaxlondon.com) - 
+- 6 October 2021 : [Virtual Azure Community Day](https://azureday.community/) - 
+- 5-6 October 2021 : [JS World](https://jsworldconference.com/) - 
+- 5-7 October 2021 : [DevOps Enterprise Summit - DOES](https://events.itrevolution.com/virtual/) - 
+- 7-8 October 2021 : [Cloud Nord 2021](https://www.cloudnord.fr/) - 
+- 7-8 October 2021 : [Monktoberfest](https://monktoberfest.com/) - 
+- 8-10 October 2021 : [Grafana ObservabilityCON](https://grafana.com/about/events/observabilitycon/2021/) - 
+- 11-15 October 2021 : [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - 
+- 12-14 October 2021 : [Google Cloud Next](https://cloud.withgoogle.com/next/sf/) - 
+- 12-14 October 2021 : [SRECon](https://www.usenix.org/srecon) - 
+- 14-15 October 2021 : [B-Boost](https://b-boost.fr/) - 
+- 19 October 2021 : [DaprCon](https://blog.dapr.io/posts/2021/08/31/announcing-daprcon-2021/) - 
+- 21-22 October 2021 : [DevFest Nantes](https://devfest.gdgnantes.com/fr/) - 
+- 22 October 2021 : [Go West Online](https://www.gowestconf.com/) - 
+- 22-23 October 2021 : [HackConf 2021](https://hackconf.bg/) - 
+- 25-27 October 2021 : [GopherCon UK](https://gophercon.co.uk) - 
+- 1-3 November 2021 : [Devoxx UK](https://www.devoxx.co.uk/) - 
+- 1-3 November 2021 : [AsynConf](https://asynconf.fr/) - 
+- 2-4 November 2021 : [Microsoft Ignite](https://myignite.microsoft.com/home) - 
+- 4 November 2021 : [WTF is Cloud Native](https://www.cloud-native-conf.wtf/) - 
+- 8 November 2021 : [Visual Studio 2022 Launch Event](https://visualstudio.microsoft.com/launch/) - 
+- 8-10 November 2021 : [DevRelCon 2021](https://2021.devrel.net/) - 
+- 9 November 2021 : [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - 
+- 9-10 November 2021 : [Open Source Experience](https://www.opensource-experience.com) - 
+- 9-11 November 2021 : [.NET Conf](https://www.dotnetconf.net/?ocid=AID3018883_TWITTER_oo_spl100001868415077) - 
+- 12-13 November 2021 : [UYBHYS](https://www.unlockyourbrain.bzh/) - 
+- 15-18 November 2021 : [The Agile Testing Days](https://agiletestingdays.com/) - 
+- 18 November 2021 : [Codeurs en Seine](https://www.codeursenseine.com/2021) - 
+- 18 November 2021 : [DevOps DDay](http://devops-dday.com) - 
+- 19 November 2021 : [DevFest Lille](http://devfest.gdglille.org) - 
+- 18-19 November 2021 : [TestJS Summit](https://testjssummit.com) - 
+- 19-20 November 2021 : [Devoxx Ukraine](https://devoxx.com.ua/) - 
+- 20-21 November 2021 : [Pycon APAC Thailand 2021](https://th.pycon.org/) - 
+- 23 November 2021 : [DevDayBE](https://www.devday.be/) - 
+- 29 November 2021-3 December 2021 : [AWS re:Invent](https://reinvent.awsevents.com/) - 
+- 5-8 December 2021 : [GopherCon](https://www.gophercon.com/) - 
+- 6-9 December 2021 : [GOTO Amsterdam 2021](https://gotoams.nl/) - 
+- 8 December 2021 : [ArgoCon '21](https://argoproj.github.io/argocon21/) - 
+- 9 December 2021 : [The Privacy Engineer Conference](https://privacyengineercon.com/) - 
+- 9-10 December 2021 : [KubeCon + CloudNativeCon + Open Source Summit China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) - 
+- 11 December 2021 : [Continuous Delivery: Better Software Faster](https://devternity.com/) - 
+- 15 December 2021 : [Tech A11y Summit](https://techa11y.dev/) - 
+- 16 December 2021 : [We Love Speed](https://www.welovespeed.com/en/2021/) - 
+- 5-7 January 2022 : [CES](https://www.ces.tech/) - 
+- 14-15 January 2022 : [You Got This in Cyberspace](https://yougotthis.io) - 
+- 17 January 2022 : [That](https://that.us/) - 
+- 20 January 2022 : [StreamYard Connect Summit](https://hopin.com/events/syconnect) - 
+- 20-25 January 2022 : [jChampions Conference](https://jchampionsconf.com/) - 
+- 21 January 2022 : [Touraine Tech](https://touraine.tech/) - 
+- 31 January 2022-4 February 2022 : [OOP](https://www.oop-konferenz.de/oop-2022/startpage) - 
+- 2-5 February 2022 : [SnowCamp](https://snowcamp.io/fr/) - 
+- 5-6 February 2022 : [Fosdem](https://fosdem.org/2022/) - 
+- 10 February 2022 : [.Net frontend Day](https://www.dotnet-frontend.com/) - 
+- 10 February 2022 : [Dataquitaine](https://www.dataquitaine.com/2022/conference-ia-ai-datascience-ro-bordeaux-2022) - 
+- 11-12 February 2022 : [Elastic Community Conference](https://sessionize.com/elastic-community-conference) - 
+- 21-25 February 2022 : [Oracle Developer Week](https://go.oracle.com/LP=122064) - 
+- 23-25 February 2022 : [ConFoo](https://confoo.ca/fr/2022) - 
+- 28-6 February 2022 : [web3 Con](https://www.web3con.dev/) - 
+- 8-10 March 2022 : [SoloCon](https://solocon.io/) - 
+- 8-11 March 2022 : [Esri Developer Summit](https://www.esri.com/en-us/about/events/devsummit/overview) - 
+- 10 March 2022 : [Archilocus](https://www.archilocus.tech/) - 
+- 14-16 March 2022 : [SRECon22 Americas](https://www.usenix.org/conference/srecon22americas) - 
+- 15-17 March 2022 : [JavaLand](https://www.javaland.eu/en/home/) - 
+- 18 March 2022 : [Mobilis In Mobile](https://mobilis-in-mobile.io/) - <a href="https://conference-hall.io/public/event/7MA75159U7eqMByzxmrZ"><img alt="CFP Mobilis In Mobile" src="https://img.shields.io/static/v1?label=CFP&message=01-Dec-2021-%3E31-Jan-2022&color=red"> </a>
+- 22-23 March 2022 : [SEO Square](https://seosquare.semji.com/) - 
+- 23-25 March 2022 : [VoxxedDays Bucharest](https://romania.voxxeddays.com/bucharest/voxxed-days-bucharest-2022/) - 
+- 23-25 March 2022 : [CityJS Conference London](https://cityjsconf.org/) - 
+- 24 March 2022 : [Cloud Sud](https://cloudsud.fr) - <a href="https://conference-hall.io/public/event/lEimlpsjR1JfydbTWvzY"><img alt="CFP Cloud Sud" src="https://img.shields.io/static/v1?label=CFP&message=Until%2019-Feb-2022&color=red"> </a>
+- 28 March 2022 : [Incontro DevOps Italia](https://2022.incontrodevops.it/) - 
+- 29-31 March 2022 : [ETHDubai](https://www.ethdubaiconf.org/) - 
+- 1 April 2022 : [CSS Day](https://2022.cssday.it/) - 
+- 1 April 2022 : [React Conference Live](https://reactlive.nl/?ref=devevents) - 
+- 4-6 April 2022 : [QCon London](https://qconlondon.com/) - 
+- 4-6 April 2022 : [Serverless architecture conference](https://serverless-architecture.io/thehague/) - 
+- 4-6 April 2022 : [API Conference](https://apiconference.net/thehague/) - 
+- 4-7 April 2022 : [NDC Security](https://ndc-security.com/) - 
+- 5-9 April 2022 : [ACCU 2022](https://accu.org/conf-menu-overviews/upcoming-spring-2022) - 
+- 7-8 April 2022 : [SymfonyLive Paris 2022](https://live.symfony.com/2022-paris/) - <a href="https://live.symfony.com/2022-paris/cfp"><img alt="CFP SymfonyLive Paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=red"> </a>
+- 11-13 April 2022 : [PyCon DE & PyData Berlin](https://2022.pycon.de/) - 
+- 12-14 April 2022 : [DevNexus](https://devnexus.com/) - 
+- 13-14 April 2022 : [DevOpsDays raleigh](https://devopsdays.org/events/2022-raleigh/welcome/) - 
+- 14-15 April 2022 : [THCon](https://thcon.party/) - 
+- 18-19 April 2022 : [devopsdays Birmingham, AL](https://devopsdays.org/events/2022-birmingham-al/welcome/) - 
+- 19-20 April 2022 : [DevOpsDays Atlanta](https://devopsdays.org/events/2022-atlanta/welcome/) - 
+- 20-21 April 2022 : [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit) - 
+- 21-22 April 2022 : [JSDay](https://2022.jsday.it/) - 
+- 20-22 April 2022 : [Devoxx France](https://www.devoxx.fr/) - <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=24-Nov-2021-%3E09-Jan-2022&color=red"> </a>
+- 21-22 April 2022 : [DevOpsDays Tokyo](https://devopsdays.org/events/2022-tokyo/welcome/) - 
+- 21-22 April 2022 : [JS Day](https://2022.jsday.it/) - 
+- 25-26 April 2022 : [Android Makers](https://androidmakers.fr/) - 
+- 25-26 April 2022 : [DevOpsDays Denver](https://devopsdays.org/events/2022-denver/welcome/) - 
+- 26-27 April 2022 : [DevOpsDays Aarhus](https://devopsdays.org/events/2022-aarhus/welcome/) - 
+- 26-27 April 2022 : [DevOpsDays Krakow](https://devopsdays.org/events/2022-krakow/welcome/) - 
+- 25-29 April 2022 : [IstioCon](https://www.crowdcast.io/e/istiocon-2022) - <a href="https://sessionize.com/istiocon-2022/"><img alt="CFP IstioCon" src="https://img.shields.io/static/v1?label=CFP&message=21-Jan-2022-%3E03-Mar-2022&color=red"> </a>
+- 26-29 April 2022 : [DevOps Con](https://devopscon.io/london/) - 
+- 28 April 2022 : [WTFisSRE](https://www.cloud-native-sre.wtf/) - 
+- 27-28 April 2022 : [DevDays Europe](https://devdays.lt/) - 
+- 27-28 April 2022 : [Developer Week Europe](https://www.developerweek.com/europe/) - 
+- 27-29 April 2022 : [J on the beach](https://www.jonthebeach.com/) - 
+- 27-3 April 2022 : [PyCon US](https://us.pycon.org/2022/) - 
+- 27 April 2022-3 May 2022 : [PyCon US](https://us.pycon.org/2022/) - 
+- 2-3 May 2022 : [DevX Conf](https://devxconf.org) - 
+- 2-4 May 2022 : [JFokus](https://www.jfokus.se/) - 
+- 2-6 May 2022 : [JAX Hybrid](https://jax.de/mainz-en) - 
+- 3 May 2022 : [DevOpsDays Boise](https://devopsdays.org/events/2022-boise/welcome/) - 
+- 3 May 2022 : [Le Tremplin des Speakers](https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ) - <a href="https://conference-hall.io/public/event/YWp80xxngUcObepMyFCJ"><img alt="CFP Le Tremplin des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Mar-2022%20to%2026-Mar-2022&color=red"> </a>
+- 4-5 May 2022 : [PulumiUP](https://www.pulumi.com/pulumi-up/) - 
+- 5-7 May 2022 : [JSDay canarias](https://jsdaycanarias.com/) - 
+- 6 May 2022 : [Mars@Hack](http://www.montdemarsan-agglo.fr/agglo/jsp/site/Portal.jsp?page_id=547) - 
+- 9-12 May 2022 : [SLOConf](https://www.sloconf.com/) - <a href="https://www.papercall.io/sloconf"><img alt="CFP SLOConf" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2008-Mar-2022&color=red"> </a>
+- 10 May 2022 : [Docker Con](https://www.docker.com/dockercon/) - 
+- 10-20 May 2022 : [QCon Plus](https://plus.qconferences.com/) - 
+- 11 May 2022 : [A11y Paris](https://www.a11yparis.org/) - <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+- 11 May 2022 : [firenze.dev](https://firenze.dev/evento-next-level-api-con-graphql/) - 
+- 11-12 May 2022 : [Google I/O](https://io.google/2022/intl/fr/) - 
+- 11-13 May 2022 : [Devoxx UK](https://www.devoxx.co.uk/) - 
+- 11-13 May 2022 : [GeeCon Krakow](https://www.geecon.org/) - 
+- 12-13 May 2022 : [DevOpsDays Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - 
+- 14-15 May 2022 : [Cloud Native Rejekts](https://cloud-native.rejekts.io/) - <a href="https://cfp.cloud-native.rejekts.io/cloud-native-rejekts-eu-valencia-2022/cfp"><img alt="CFP Rejekts" src="https://img.shields.io/static/v1?label=CFP&message=07-Mar-2022%20to%2021-Mar-2022&color=red"> </a>
+- 16 May 2022 : [Cloud Native Wasm Day Europe](https://events.linuxfoundation.org/cloud-native-wasm-day-europe/) - 
+- 16 May 2022 : [Kubernetes AI Day Europe](https://events.linuxfoundation.org/kubernetes-ai-day-europe/) - 
+- 16 May 2022 : [Cloud Native eBPF Day Europe](https://events.linuxfoundation.org/cloud-native-ebpf-day-europe/) - 
+- 16 May 2022 : [Cloud Native Telco Day](https://events.linuxfoundation.org/cloud-native-telco-day-europe/) - 
+- 16 May 2022 : [fluentCon Europe](https://events.linuxfoundation.org/fluentcon-europe/) - 
+- 16-17 May 2022 : [Cloud Native SecurityCon Europe](https://events.linuxfoundation.org/cloud-native-securitycon-europe/) - 
+- 17 May 2022 : [Kubernetes on Edge Day](https://events.linuxfoundation.org/kubernetes-on-edge-day-europe/) - 
+- 17 May 2022 : [PrometheusDay Europe](https://events.linuxfoundation.org/prometheus-day-europe/) - 
+- 17 May 2022 : [ServiceMeshCon Europe](https://events.linuxfoundation.org/servicemeshcon-europe/) - 
+- 17 May 2022 : [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - 
+- 17-19 May 2022 : [RailsConf22](https://railsconf.com/) - 
+- 17-20 May 2022 : [SoCraTes](https://socrates-fr.github.io/) - 
+- 17-20 May 2022 : [KubeCon Europe 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2022/) - 
+- 17-20 May 2022 : [GitOpsCon Europe 2022](https://events.linuxfoundation.org/gitopscon-europe/) - <a href="https://events.linuxfoundation.org/gitopscon-europe/program/cfp/"><img alt="CFP GitOpsCon" src="https://img.shields.io/static/v1?label=CFP&message=05-Jan-2022%20to%2014-Feb-2022&color=red"> </a>
+- 19 May 2022 : [Codecamp_Festival]((https://codecamp.ro/the-festival/) - 
+- 19-20 May 2022 : [PHP Day](https://2022.phpday.it/) - 
+- 19-22 May 2022 : [Java Day Istanbul](https://www.javaday.istanbul/) - 
+- 20 May 2022 : [Agile Tour Strasbourg](https://www.meetup.com/MtgStrasbourg/events/285587412/) - 
+- 20 May 2022 : [AFUP Day 2022](https://event.afup.org/) - 
+- 23-26 May 2022 : [THAT Conference](https://that.us/events/tx/2022) - 
+- 24-25 May 2022 : [MixIT](https://mixitconf.org/fr/) - <a href="https://www.papercall.io/mixit2022"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=17-Dec-2021%20to%2016-Feb-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+- 24-26 May 2022 : [JFrog SwampUp](http://swampup.jfrog.com/) - <a href="https://sessionize.com/swampup-2022?utm_campaign=SwampUp+CFP"><img alt="CFP SwampUp2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Dec-2021%20to%2011-Feb-2022&color=red"> </a>
+- 24-26 May 2022 : [Web à Québec](https://webaquebec.org/) - <a href="https://yr21i4wwzuv.typeform.com/to/ddNC6Su7"><img alt="CFP Web a Quebec" src="https://img.shields.io/static/v1?label=CFP&message=until%2024-Jan-2022&color=red"> </a>
+- 25-26 May 2022 : [jPrime](https://jprime.io/) - <a href="https://jprime.io/cfp"><img alt="CFP MixIT 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Mar-2022&color=red"> </a>
+- 25-27 May 2022 : [Microsoft Build](microsoft.com/en-us/build) - 
+- 26-27 May 2022 : [Spring I/O](https://2022.springio.net/) - <a href="https://www.papercall.io/springio22"><img alt="CFP Spring I/O 2022" src="https://img.shields.io/static/v1?label=CFP&message=23-Dec-2021%20to%2001-Mar-2022&color=red"> </a>
+- 28 May 2022 : [HackInBo](https://www.hackinbo.it/) - 
+- 31-3 May 2022 : [Craft Conference](https://craft-conf.com/) - <a href="https://www.papercall.io/craft2022"><img alt="CFP craft" src="https://img.shields.io/static/v1?label=CFP&message=to%2018-Mar-2022&color=red"> </a>
+- 31 May 2022-3 June 2022 : [Craft Conference](https://craft-conf.com/) - <a href="https://www.papercall.io/craft2022"><img alt="CFP craft" src="https://img.shields.io/static/v1?label=CFP&message=to%2018-Mar-2022&color=red"> </a>
+- 1-3 June 2022 : [Web2Day](https://web2day.co/) - 
+- 2 June 2022 : [Confer Conf](https://2022.confer.no/) - <a href="https://2022.confer.no/speakers"><img alt="CFP Confer Conf 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-May-2022&color=red    "> </a>
+- 2-3 June 2022 : [Flosscon 2022](https://www.flosscon.org/conferences/FLOSSCon2022) - <a href="https://flosscon.org"><img alt="CFP Flosscon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2022-May-2022&color=red"> </a>
+- 2-5 June 2022 : [PyCon Italia 2022](https://pycon.it/en) - 
+- 3-4 June 2022 : [Kubernetes Community Days Chennai 2022](http://www.kcdchennai.in) - <a href="http://www.kcdchennai.in/"><img alt="CFP Kubernetes Community Days Chennai 2022" src="https://img.shields.io/static/v1?label=CFP&message=16-Feb-2022%20to%2020-Mar-2022&color=red"> </a>
+- 7-8 June 2022 : [LeadDev](https://leaddev.com/) - 
+- 7-8 June 2022 : [cdCon](https://events.linuxfoundation.org/cdcon/) - <a href="https://events.linuxfoundation.org/cdcon/program/cfp/"><img alt="CFP cdCon" src="https://img.shields.io/static/v1?label=CFP&message=10-Jan-2022%20to%2018-Feb-2022&color=red"> </a>
+- 7-9 June 2022 : [Forum International de la Cybersécurité](https://www.forum-fic.com/) - 
+- 7-9 June 2022 : [OpenInfra Summit Berlin 2022](https://openinfra.dev/summit/) - 
+- 8-9 June 2022 : [OW2Con](https://www.ow2con.org/view/2022/) - 
+- 8-9 June 2022 : [API Days Interface](https://www.apidays.global/interface/) - 
+- 9-10 June 2022 : [Le Camping des Speakers](https://camping-speakers.fr/) - <a href="https://conference-hall.io/public/event/0Ij6N6UQOInRF9fdEm6G"><img alt="CFP Le Camping des Speakers 2022" src="https://img.shields.io/static/v1?label=CFP&message=7-Dec-2021%20to%2020-Feb-2022&color=red"> </a>
+- 9-10 June 2022 : [AlpesCraft](https://www.alpescraft.fr/) - 
+- 10 June 2022 : [DevFest Lille](http://devfest.gdglille.org) - <a href="https://conference-hall.io/public/event/vzbfowsExm54SrWLtxA5"><img alt="CFP DevFest Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=24-Jan-2022%20to%2031-Mar-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+- 10 June 2022 : [uxday 2022](https://2022.uxday.it/) - 
+- 14 June 2022 : [France API](https://www.franceapi.fr/) - 
+- 14-15 June 2022 : [WeAreDevelopers World Congress](https://www.wearedevelopers.com/world-congress/#/) - 
+- 14-15 June 2022 : [DevFest for Ukraine](https://devfest.gdg.org.ua/) - 
+- 15-16 June 2022 : [Prisma Day](https://prisma.io/day) - 
+- 15-18 June 2022 : [VIVA Technology](https://vivatechnology.com/) - 
+- 16-17 June 2022 : [SymfonyWorld Online 2022 Summer Edition](https://live.symfony.com/2022-world-summer/) - <a href="https://live.symfony.com/2022-world-summer/cfp"><img alt="CFP SymfonyWorld Online 2022 Summer Edition" src="https://img.shields.io/static/v1?label=CFP&message=Until%2014-02-2022&color=red"> </a>
+- 17 June 2022 : [Joy of Coding](https://joyofcoding.org/) - 
+- 17 June 2022 : [Cloud Ouest 2022](https://cloudouest.fr/) - <a href="https://conference-hall.io/public/event/txK7ihjaAR4LtuJyYZCx"> <img alt="CFP Cloud Ouest 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%2030-04-2022&color=red"> </a>
+- 20-23 June 2022 : [DevOps Con](https://devopscon.io/berlin/) - 
+- 20-24 June 2022 : [Domain-Driven Design Europe 2022](https://2022.dddeurope.com/#page-top) - 
+- 20-24 June 2022 : [NDC Melbourne](https://ndcmelbourne.com/) - 
+- 21 June 2022 : [InfoQ Live](https://live.infoq.com/conference/2022/june) - 
+- 21-22 June 2022 : [Voxxed Days Luxembourg](https://luxembourg.voxxeddays.com/en/) - <a href="http://cfp-voxxed-lux.yajug.org/"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=20-Feb-2022%20to%2010-Avr-2022&color=red"> </a>
+- 22 June 2022 : [JavaDay du Paris JUG](https://javaday.parisjug.org/) - 
+- 22-23 June 2022 : [enterJS](https://enterjs.de/) - 
+- 22-24 June 2022 : [Devoxx Poland](https://devoxx.pl/) - 
+- 22-24 June 2022 : [devopsdays Amsterdam](https://devopsdays.org/events/2022-amsterdam/welcome/) - 
+- 23 June 2022 : [ServerlessDays Paris](https://paris.serverlessdays.io/en/) - <a href="https://vdlux20.cfp.dev/#/login"><img alt="CFP Voxxed Days Luxembourg" src="https://img.shields.io/static/v1?label=CFP&message=Until%2020-Feb-2022&color=red"> </a>
+- 23-24 June 2022 : [DDD Europe 2022](https://dddeurope.com/) - 
+- 23-26 June 2022 : [Hack In The Wood](https://www.hackinthewoods.be/) - 
+- 24 June 2022 : [SoCraTes Rennes](https://socrates-rennes.github.io/) - 
+- 24-25 June 2022 : [devopsdays Prague](https://devopsdays.org/events/2022-prague/welcome/) - 
+- 27-29 June 2022 : [ML Conference](https://mlconference.ai/munich) - 
+- 27-1 June 2022 : [Hack in Paris](https://hackinparis.com/) - <a href="https://www.papercall.io/hackinparis2022"><img alt="CFP Hack in paris 2022" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2011-Mar-2022&color=red"> </a>
+- 28 June 2022 : [Dev nation Day France](https://hopin.com/events/devnation-day-france-2022#top) - 
+- 29-30 June 2022 : [API Days Dubai](https://www.apidays.global/dubai/) - 
+- 29-1 June 2022 : [BreizhCamp](https://www.breizhcamp.org/) - <a href="https://sessionize.com/breizhcamp-2022/"><img alt="CFP BreizhCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=14-Mar-2022%20to%2025-Apr-2022&color=red"> </a>
+- 30-1 June 2022 : [Sunny Tech](https://sunny-tech.io/) - <a href="https://conference-hall.io/public/event/m1kfbpSntxF3QBVUwoFY"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=6-Dec-2021%20to%2027-Feb-2022&color=red"> </a>
+- 30-1 June 2022 : [Agi'Lille 2022](https://agilille.fr/) - <a href="https://sessionize.com/agilille-2022/"><img alt="CFP Agi'Lille 2022" src="https://img.shields.io/static/v1?label=CFP&message=11-Mar-2022%20to%2007-May-2022&color=red"> </a>
+- 6-8 July 2022 : [DroidCon Berlin](https://www.berlin.droidcon.com/) - <a href="https://sessionize.com/droidcon-berlin-2022/"><img alt="CFP DroidCon Berlin 2022" src="https://img.shields.io/static/v1?label=CFP&message=01-02%20to%2020-May-2022&color=red"> </a>
+- 8-9 July 2022 : [HugoConf](https://hugoconf.io/) - 
+- 11-17 July 2022 : [EuroPython 2022](https://ep2021.europython.eu/) - 
+- 18-20 July 2022 : [JBCNConf](https://www.jbcnconf.com/2022/) - 
+- 19 July 2022 : [InfoQ Live](https://live.infoq.com/conference/2022/july) - 
+- 25-29 July 2022 : [THAT Conference](https://that.us/events/wi/2022) - 
+- 27-28 July 2022 : [API Days New York](https://www.apidays.global/new-york/) - 
+- 29-30 July 2022 : [Selenium Conf 2022](https://2022.seleniumconf.in) - 
+- 5 August 2022 : [Cloud Native Summit](https://www.cloudnativesummit.co/) - 
+- 20-21 August 2022 : [frOSCon](https://www.froscon.org/en/) - 
+- 22-28 August 2022 : [FOSS4G](https://2022.foss4g.org/) - 
+- 23 August 2022 : [InfoQ Live](https://live.infoq.com/) - 
+- 24-25 August 2022 : [API Days Hong Kong](https://www.apidays.global/hong-kong/) - 
+- 25-28 August 2022 : [Socrates.du](http://www.socrates-conference.de/home) - 
+- 26 August 2022 : [UX Nordic 2022](https://uxnordic.com/) - 
+- 1-2 September 2022 : [Web Summer Camp 2022](https://2022.websummercamp.com) - 
+- 3-4 September 2022 : [SRE France - Summer Camp 2022](https://sre-summercamp.github.io/) - <img alt="CFP SRE France - Summer Camp 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2022&color=red"> </a> - Chambéry (France)
+- 3-4 September 2022 : [Kubernetes Community Days Sri Lanka 2022](https://community.cncf.io/events/details/cncf-kcd-sri-lanka-presents-kcd-sri-lanka-2022/) - 
+- 5-7 September 2022 : [ContainerDays 2022](https://www.containerdays.io/) - 
+- 7-8 September 2022 : [DeveloperWeek Global: Cloud](https://www.developerweek.com/global/conference/cloud/) - 
+- 9 September 2022 : [JUG SummerCamp](https://www.jugsummercamp.org/edition/13) - <a href="https://www.jugsummercamp.org/edition/13"><img alt="CFP JUG SummerCamp 2022" src="https://img.shields.io/static/v1?label=CFP&message=2-May-2022%20to%201-Jul-2022&color=red"> </a>
+- 14 September 2022 : [Kubernetes Community Days Washington DC 2022](https://community.cncf.io/events/details/cncf-kcd-washington-dc-presents-kubernetes-community-days-washington-dc-2022/) - 
+- 14-15 September 2022 : [Uptime](https://uptime.aiven.io) - 
+- 14-15 September 2022 : [API Days Australia](https://www.apidays.global/australia/) - 
+- 15-16 September 2022 : [API Platform Conference](https://api-platform.com/con/2022) - 
+- 20 September 2022 : [Les Escales du Libre](https://www.eventyay.com/e/d78c8bb0) - <a href="https://www.eventyay.com/e/d78c8bb0/cfs"><img alt="CFP Escales du Libre Nantes" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Aug-2022&color=red"> </a>
+- 20-21 September 2022 : [Agile en Seine](https://www.agileenseine.com/) - <a href="https://sessionize.com/agile-en-seine-2022/"><img alt="CFP Agile en Seine" src="https://img.shields.io/static/v1?label=CFP&message=Until%20to%2025-Jun-2022&color=red"> </a>
+- 20-23 September 2022 : [JCON ONLINE](https://jcon.one/) - 
+- 21 September 2022 : [GrafanaLive: Paris](https://go2.grafana.com/2022-09_GrafanaLive_Paris.html) - 
+- 21-22 September 2022 : [DevOpsDays Chicago](https://devopsdays.org/chicago) - 
+- 22 September 2022 : [GrafanaLive: Berlin](https://go2.grafana.com/2022-09-22_GrafanaLive_Berlin.html) - 
+- 22 September 2022 : [GrafanaLive: Toronto](https://go2.grafana.com/2022-09-22-GrafanaLiveToronto.html) - 
+- 22-24 September 2022 : [Strange Loop 2022](https://thestrangeloop.com) - <a href="https://thestrangeloop.com/cfp.html/"><img alt="Strange Loop 2022 CFP" src="https://img.shields.io/static/v1?label=CFP&message=until 20-Apr-2022&color=red"> </a> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" />
+- 22-24 September 2022 : [Agile India 2022](https://2022.agileindia.org) - 
+- 24 September 2022 : [PyCon Portugal](http://2022.pycon.pt/) - 
+- 24 September 2022 : [RomHack2022](https://romhack.camp/) - <a href="https://romhack.camp/"><img alt="RomHack2022" src="https://img.shields.io/static/v1?label=CFP&message=until 29-May-2022&color=red"> </a>
+- 24 September 2022 : [DevFest Craiova 2022](https://gdg.community.dev/events/details/google-gdg-craiova-presents-devfest-craiova-2022/) - <a href="https://forms.gle/U4s42xVWY2rJgKPN6"><img alt="DevFestCraiova2022" src="https://img.shields.io/static/v1?label=CFP&message=until 05-September-2022&color=green"> </a>
+- 26-27 September 2022 : [BigData & AI Paris](https://www.bigdataparis.com/) - 
+- 26-28 September 2022 : [GopherCon](https://www.gophercon.com/) - 
+- 26-29 September 2022 : [International JavaScript Conference Hybrid](https://javascript-conference.com/new-york/) - 
+- 28 September 2022 : [GrafanaLive: London](https://grafana.com/about/events/grafana-live/2022/london/) - 
+- 28-29 September 2022 : [DevOps World 2022](https://www.cloudbees.com/c/devops-world-2022-save-the-date) - <a href="https://assets.cloudbees.com/MzMzLVFQVi03MjUAAAGEENe8Ddj2m2ND8y469mGfpl-u3PnjGNmJ2wz1pWCNco6e5XhiUbm3cpDALNvRK1BeUFbLmmQ="><img alt="CFP DevOps World 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-May-2022&color=red"> </a>
+- 29 September 2022 : [Cloud Nord](https://cloudnord.fr/) - <a href="https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu"><img alt="CFP Cloud Nord 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
+- 30 September 2022 : [Mêlée Tech 2022](https://www.meleenumerique.com/) - <a href="https://sessionize.com/melee-tech-2022"><img alt="CFP Mêlée Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=red"> </a>
+- 3-4 October 2022 : [KubeHuddle](https://www.kubehuddle.com/) - <a href="[https://conference-hall.io/public/event/wGVYkl21UFxeiuakhKfu](https://sessionize.com/kubehuddle/)"><img alt="Kube Huddle" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=red"> </a>
+- 3-5 October 2022 : [NodeConf EU 2022](https://www.nodeconf.eu/) - <a href="[https://sessionize.com/nodeconf-eu-2022](https://sessionize.com/nodeconf-eu-2022)"><img alt="NodeConf EU 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2006-Jul-2022&color=red"> </a>
+- 4-6 October 2022 : [Devoxx Morocco](https://devoxx.ma/) - <a href="https://dvma22.cfp.dev"><img alt="CFP Devoxx Morocco" src="https://img.shields.io/static/v1?label=CFP&message=6-Jun-2022%20to%2015-Jul-2022&color=red"> </a>
+- 5-6 October 2022 : [PWA Summit 2022](https://www.pwasummit.org/) - <a href="https://sessionize.com/pwa-summit-2022"><img alt="PWA Summit 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Jul-2022&color=red"> </a>
+- 6-7 October 2022 : [Nordic.js](https://nordicjs.com/2022) - 
+- 6-7 October 2022 : [Paris Web](https://paris-web.fr/) - <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E24-Apr-2022&color=red"> </a>
+- 7 October 2022 : [DevFest Perros-Guirec](https://devfest.codedarmor.fr/) - 
+- 7 October 2022 : [Hackvens](https://hackvens.fr/) - 
+- 7-8 October 2022 : [Intersection Conference](https://www.intersection-conference.eu/) - 
+- 10-14 October 2022 : [Devoxx Belgium](https://devoxx.be/) - <a href="[https://devoxx.be/](https://dvbe22.cfp.dev/#/login)"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%2015-July-2022&color=red"> </a>
+- 12-13 October 2022 : [Kubernetes Community Days Munich 2022](https://community.cncf.io/events/details/cncf-kcd-munich-presents-kubernetes-community-days-munich-2022-1/) - 
+- 13-14 October 2022 : [Volcamp 2022](https://www.volcamp.io/) - <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=red"> </a>
+- 13-14 October 2022 : [GeeCon Prague](https://www.geecon.org/) - 
+- 13-14 October 2022 : [International Conference on Development and Learning](https://waset.org/development-and-learning-conference-in-october-2022-in-london) - 
+- 13-14 October 2022 : [Forum PHP 2022](https://event.afup.org/) - <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://afup.org/event/forumphp2022"><img alt="CFP Forum PHP 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Jun-2022&color=red"> </a>
+- 13-14 October 2022 : [EuroRust](https://eurorust.eu) - <a href="https://www.papercall.io/eurorust-2022"><img alt="CFP EuroRust" src="https://img.shields.io/static/v1?label=CFP&message=%3E28-August-2022&color=red"> </a>
+- 14 October 2022 : [Fyne Conf](https://conf.fyne.io/) - <a href="https://www.papercall.io/fyneconf2022"><img alt="CFP Fyne Conf" src="https://img.shields.io/static/v1?label=CFP&message=%3E09-Sept-2022&color=red"> </a>
+- 16-20 October 2022 : [JavaOne](https://www.oracle.com/cloudworld/javaone/) - 
+- 17 October 2022 : [Agile Tour Montpellier 2022](https://agiletourmontpellier.fr/2022/) - 
+- 18-19 October 2022 : [Dash](https://www.dashcon.io/) - <a href="https://www.dashcon.io/cfp/"><img alt="CFP Dash" src="https://img.shields.io/static/v1?label=CFP&message=until%2012-August-2022&color=red"> </a>
+- 18-19 October 2022 : [FlowCon](https://flowcon.fr/) - 
+- 19-20 October 2022 : [BaselOne22](https://baselone.ch/one) - <a href="https://form.typeform.com/to/AYNtbnrl"><img alt="CFP BaselOne22" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-Apr-2022&color=red"> </a>
+- 19-20 October 2022 : [P99 Conf](https://www.p99conf.io/) - 
+- 20-21 October 2022 : [DevFest Nantes](https://devfest.gdgnantes.com/) - <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"> <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2019-Jun-2022&color=red"> </a>
+- 20-21 October 2022 : [NixCon 2022](https://discourse.nixos.org/t/nixcon-2022-location-details-more/21392) - 
+- 24 October 2022 : [Open Observability Day (North America)](https://events.linuxfoundation.org/open-observability-day-north-america/) - 
+- 24-27 October 2022 : [EclipseCon 2022](https://www.eclipsecon.org/2022) - <a href="https://www.eclipsecon.org/2022/cfp"><img alt="CFP EclipseCon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>
+- 24-28 October 2022 : [International JavaScript Conference Hybrid](https://javascript-conference.com/munich/) - 
+- 24-28 October 2022 : [QCon San Francisco](https://qconsf.com/) - 
+- 25-27 October 2022 : [SREcon22 Europe/Middle East/Africa](https://www.usenix.org/srecon) - 
+- 26-27 October 2022 : [DevOpsDays Montreal](https://devopsdays.org/) - <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4qwC-lcdymPpvd15hUFqR6lVDABvXXcFNZrIwvNeugG7MgQ/viewform"><img alt="CFP DevOpsDays Montreal" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-April-2022&color=red"> </a>
+- 26-27 October 2022 : [API Days London](https://www.apidays.global/london/) - 
+- 26-27 October 2022 : [Arm DevSummit 2022](https://devsummit.arm.com/) - 
+- 25-28 October 2022 : [KubeCon North America + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2022/) - 
+- 27-28 October 2022 : [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - <a href="https://sessionize.com/agile-tour-bordeaux-2022/"><img alt="CFP Agile Tour Bordeaux" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2022&color=red"> </a>
+- 28 October 2022 : [Container Day](https://2022.containerday.it/) - 
+- 1-2 November 2022 : [ObservabilityCON](https://grafana.com/about/events/observabilitycon/2022) - 
+- 2-3 November 2022 : [WordPress Accessibility Day](https://wpaccessibility.day/) - <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://wpaccessibility.day/participate/speaking-at-wp-accessibility-day/"><img alt="CFP WP Accessibility Day" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-August-2022&color=red" /></a>
+- 3 November 2022 : [JFall](https://jfall.nl/) - 
+- 3 November 2022 : [Data Community Conference](https://www.data-community.ch) - 
+- 3-4 November 2022 : [DevOps Barcelona](https://devops.barcelona/) - <a href="https://devops.barcelona/call-for-papers"><img alt="CFP devops barcelona" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2022&color=red"> </a>
+- 3-4 November 2022 : [Agile Tour Nantes 2022](https://agilenantes.org/evenements/agile-tour-nantes/agile-tour-nantais-2022/) - 
+- 3-4 November 2022 : [PyCon Sweden](https://www.pycon.se/) - 
+- 3-5 November 2022 : [AsyncAPI Conf](https://conference.asyncapi.com/) - 
+- 8-9 November 2022 : [Open Source Experience](https://www.opensource-experience.com/) - <a href="https://sessionize.com/open-source-experience-2022/"><img alt="CFP Open Source Experience" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Jun-2022&color=red"> </a>
+- 8-9 November 2022 : [PromCon EU](https://promcon.io/2022-munich/) - 
+- 8-10 November 2022 : [The Linux Foundation Member Summit](https://events.linuxfoundation.org/lf-member-summit/) - 
+- 10 November 2022 : [Decarbonize Software](https://decarb.greensoftware.foundation/) - 
+- 14-16 November 2022 : [OSMC](https://osmc.de/) - <a href="https://osmc.de/call-for-papers/"><img alt="CFP OSMC" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
+- 15-16 November 2022 : [ParisTestConf](https://paristestconf.com/) - <a href="https://paristestconf.com/call-for-papers-2022"><img alt="CFP ParisTestConf" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-May-2022&color=red"> </a>
+- 15-16 November 2022 : [Agile Tour Toulouse](https://tour.agiletoulouse.fr/) - <a href="https://sessionize.com/agile-tour-toulouse-2022/"><img alt="CFP Agile Tour Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Jun-2022&color=red"> </a>
+- 15-16 November 2022 : [ONE Summit](https://events.linuxfoundation.org/one-summit-north-america/) - 
+- 16-17 November 2022 : [NODES 2022 (Neo4j Online Developer Expo and Summit)](https://neo4j.com/nodes-2022/) - <a href="https://sessionize.com/neo4j-nodes-2022/"><img alt="Neo4j Online Developer Expo and Summit)" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-Aug-2022&color=red"> </a>
+- 17 November 2022 : [Codeurs en Seine](https://www.codeursenseine.com/) - <a href="https://conference-hall.io/public/event/Uv6XULhgmt7z2YuoJ8nq"><img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /><img alt="CFP codeur en seine" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-Sept-2022&color=red"> </a>
+- 17 November 2022 : [Kubernetes Community Days Italy 2022](https://community.cncf.io/events/details/cncf-kcd-italy-presents-kubernetes-community-days-italy-2022/) - 
+- 17 November 2022 : [lbc² by leboncoin](https://www.lbc2.fr/) - 
+- 17-18 November 2022 : [LFN Developer & Testing Forum](https://wiki.lfnetworking.org/pages/viewpage.action?pageId=68786848) - 
+- 18 November 2022 : [DevFest Strasbourg](https://devfest.gdgstrasbourg.fr/) - <a href="https://conference-hall.io/speaker/event/wgaja45IBdGT4sw4CXDB"><img alt="CFP Devfest Strasbourg" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=red"> </a>
+- 17-18 November 2022 : [SymfonyCon Disneyland Paris](https://live.symfony.com/2022-paris-con/) - 
+- 18-19 November 2022 : [DevOpsDays Bengaluru](https://devopsdaysindia.org/) - <a href="https://forms.gle/LmCGgZse3Lp4XNgz9"><img alt="CFP DevOpsDays Bengaluru" src="https://img.shields.io/static/v1?label=CFP&message=until%206-Aug-2022&color=red"> </a>
+- 18-19 November 2022 : [GreHack](https://grehack.fr/) - <a href="https://easychair.org/cfp/GreHack2022"><img alt="CFP" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Aug-2022&color=red"> </a>
+- 19-20 November 2022 : [Capitole du Libre](https://capitoledulibre.org/) - <a href="https://cfp.capitoledulibre.org/cdl-2022/cfp"><img alt="CFP Capitole du Libre de Toulouse" src="https://img.shields.io/static/v1?label=CFP&message=until%2026-Sep-2022&color=red"> </a>
+- 21 November 2022 : [Java Summit-IL](https://www.javasummitil.com/) - <a href="https://sessionize.com/javasummit-il-22/"><img alt="CFP Java Summit-IL" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
+- 22 November 2022 : [Cyber security Business Convention](https://cbc-convention.com/) - 
+- 22-23 November 2022 : [Kubernetes Community Days UK 2022](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2022/) - 
+- 22-24 November 2022 : [Kubernetes Community Days Spain 2022](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2022/) - 
+- 23-25 November 2022 : [Agile Grenoble 2022](http://agile-grenoble.org/) - 
+- 25 November 2022 : [HACK-IT-N 2022](https://hack-it-n.com/) - 
+- 26-27 November 2022 : [Kubernetes Community Days & OpenInfra Days Indonesia 2022](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-openinfra-days-indonesia-2022/) - 
+- 29 November 2022-1 December 2022 : [Yocto Project Summit](https://yoctoproject.org/summit) - 
+- 29 November 2022-9 December 2022 : [QCon Plus](https://plus.qconferences.com/) - 
+- 1 December 2022 : [Devops DDay #7](https://2022.devops-dday.com/) - <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-July-2022&color=red"> </a>
+- 2 December 2022 : [BDX I/O](https://www.bdxio.fr/) - <a href="https://conference-hall.io/public/event/OJC5Ou5YJodfetgSJCa3"><img alt="CFP BDX I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=red"> </a>
+- 2 December 2022 : [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/) - <a href="https://conference-hall.io/public/event/cXWCepNzXVWwb1i6ktVA"><img alt="CFP DevFest Dijon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2022&color=red"> </a>
+- 2-3 December 2022 : [Oπen Conf Athens 2022](https://www.open-conf.gr/) - Athens (Greece) <a href="https://sessionize.com/open_conf/"><img alt="CFP Oπen Conf Athens 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Aug-2022&color=red"> </a>]() - 
+- 2-4 December 2022 : [PyCon Chile 2022](https://pycon.cl/) - 
+- 5-6 December 2022 : [Automotive Linux Summit](https://events.linuxfoundation.org/open-source-summit-japan/about/automotive-linux-summit/) - 
+- 5-6 December 2022 : [CloudOpen Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/cloudopen/) - 
+- 5-6 December 2022 : [Community Leadership Conference Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/community-leadership-conference/) - 
+- 5-6 December 2022 : [ContainerCon](https://events.linuxfoundation.org/open-source-summit-japan/about/containercon/) - 
+- 5-6 December 2022 : [Critical Software Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/critical-software-summit/) - 
+- 5-6 December 2022 : [Embedded IoT Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/embedded-iot-summit/) - 
+- 5-6 December 2022 : [Emerging OS Forum Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/emerging-os-forum/) - 
+- 5-6 December 2022 : [LinuxCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/linuxcon/) - 
+- 5-6 December 2022 : [ContainerCon](https://events.linuxfoundation.org/open-source-summit-japan/about/containercon/) - 
+- 5-6 December 2022 : [Open AI + Data Forum Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/open-ai-data-forum/) - 
+- 5-6 December 2022 : [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) - 
+- 5-6 December 2022 : [OSPOCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/) - 
+- 5-8 December 2022 : [DevOpsCon Munich](https://devopscon.io/call-for-papers/) - <a href="https://devopscon.io/call-for-papers/"><img alt="CFP DevOpsCon Munich" src="https://img.shields.io/static/v1?label=CFP&message=until%2027-Jun-2022&color=red"> </a>
+- 6-7 December 2022 : [DevRel Con Prague](https://prague-2022.devrelcon.dev/) - 
+- 7 December 2022 : [DevFest Stockholm 2022](https://devfest.gdgcloud.se/) - 
+- 7 December 2022 : [KubeDay Japan](https://events.linuxfoundation.org/kubeday-japan/) - 
+- 7 December 2022 : [SODA Con](https://events.linuxfoundation.org/sodacon-japan/) - 
+- 7-8 December 2022 : [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) - 
+- 7-8 December 2022 : [PrestoCon](https://events.linuxfoundation.org/prestocon/) - 
+- 7-9 December 2022 : [SREcon22 Asia/Pacific](https://www.usenix.org/srecon) - 
+- 8 December 2022 : [Agile Tour Lausanne 2022](https://www.agilesuisse.ch/agile-tour-lausanne-2022) - 
+- 8 December 2022 : [Open Source in Finance Forum New York](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) - 
+- 10 December 2022 : [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/) - 
+- 13-14 December 2022 : [RISC-V Summit](https://events.linuxfoundation.org/riscv-summit/) - 
+- 14-15 December 2022 : [DevOpsDays Tel-Aviv](https://sessionize.com/devopsdays-tel-aviv-2022/) - <a href="https://sessionize.com/devopsdays-tel-aviv-2022/"><img alt="DevOpsDays Tel-Aviv" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-August-2022&color=red"> </a>
+- 14-16 December 2022 : [API Days Paris](https://www.apidays.global/paris/) - 
+- 15-16 December 2022 : [Agile Tour Rennes](https://agiletour.agilerennes.org/) - <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
+- 19 January 2023 : [Archilocus](https://www.archilocus.tech/about) - <a href="https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M"><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
+- 19-24 January 2023 : [jChampionsConference](https://jchampionsconf.com/) - 
+- 19-20 January 2023 : [Touraine Tech](https://touraine.tech/) - <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
+- 23-27 January 2023 : [NDC London](https://ndclondon.com/) - <a href="https://sessionize.com/ndc-london-2023"><img alt="CFP NDC London" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-September-2022&color=red"> </a>
+- 24-26 January 2023 : [Spring One Essentials](https://springone.io/) - 
+- 25 January 2023 : [Flutter Forward](https://flutter.dev/events/flutter-forward) - 
+- 25-26 January 2023 : [Global Summit for Node.js](https://events.geekle.us/nodejs2/) - 
+- 25-28 January 2023 : [SnowCamp](https://snowcamp.io/fr/) - <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
+- 26-27 January 2023 : [Laracon EU](https://laracon.eu/) - 
+- 1-2 February 2023 : [CloudNative SecurityCon NA 2023](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/) - <a href="https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/program/cfp/#overview"><img alt="CFP CloudNative SecurityCon 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2013-November-2022&color=red"> </a>
+- 1-3 February 2023 : [Spring One Essentials](https://springone.io/) - 
+- 2 February 2023 : [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"> </a>
+- 2 February 2023 : [AgiLeMans](https://www.agilemans.org/) - <a href="https://sessionize.com/7ieme-journee-agile-au-mans-france-e/"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"> </a>
+- 3-4 February 2023 : [JSConf Chile](https://jsconf.cl/) - 
+- 4-5 February 2023 : [FOSDEM](https://fosdem.org/2022/news/2022-09-14-fosdem-2023-dates/) - 
+- 6-8 February 2023 : [CfgMgmtCamp](https://cfgmgmtcamp.eu/ghent2023/) - 
+- 7-8 February 2023 : [GitLab Contributor Days 2023.1](https://www.meetup.com/gitlab-virtual-meetups/events/290364126/) - 
+- 6-8 February 2023 : [Jfokus](https://www.jfokus.se/) - 
+- 7-8 February 2023 : [Flutter Global Summit](https://events.geekle.us/flutter23/) - 
+- 7-8 February 2023 : [State of Open Con](https://stateofopencon.com/) - 
+- 7-8 February 2023 : [Civo Navigate](https://www.civo.com/navigate) - 
+- 9-10 February 2023 : [Latam 2023 DevRelCon](https://latam-2023.devrelcon.dev/) - 
+- 9-11 February 2023 : [World AI Cannes](https://worldaicannes.com/) - 
+- 15 February 2023 : [enterJS Web-Performance Day](https://enterjs.de/web-performance.php) - 
+- 14-15 February 2023 : [Angular Global Summit](https://events.geekle.us/angular2/) - 
+- 15-16 February 2023 : [Magento Florida](https://meetmagentofl.com/) - 
+- 15-17 February 2023 : [DeveloperWeek](https://www.developerweek.com/) - 
+- 16-17 February 2023 : [HashiTalks](https://events.hashicorp.com/hashitalks2023) - <a href="https://sessionize.com/hashitalks-2023"><img alt="CFP HashiTalks 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2007-December-2022&color=red"> </a>
+- 16-19 February 2023 : [PyConFR](https://www.pycon.fr/2023/) - <a href="https://cfp-2023.pycon.fr/"><img alt="CFP PyConFr 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-Janvier-2023&color=green"> </a>
+- 21-23 February 2023 : [DeveloperWeek](https://www.developerweek.com/) - 
+- 22-24 February 2023 : [ConFoo](https://confoo.ca/fr/2023) - <a href="https://confoo.ca/fr/2023/call-for-papers"><img alt="CFP ConFoo 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2023-September-2022&color=red"> </a>
+- 23 February 2023 : [Testing, Agile, DevOps and Low code Showcase: Methods and Tools](https://www.unicomlearning.com/agile-devops-software-testing-conference/bengaluru-india-2023/) - 
+- 23-24 February 2023 : [Kubernetes Community Days Amsterdam 2023](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/) - 
+- 25-26 February 2023 : [Laracon India](https://laracon.in/) - 
+- 3-4 March 2023 : [DevOps Days Goiana](https://devopsdays.org/events/2023-goiania/welcome/) - 
+- 7 March 2023 : [Kubernetes Community Days France](https://community.cncf.io/events/details/cncf-kcd-france-presents-kubernetes-community-days-france-2023/) - <img alt="CFP KCD Paris" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-15%20to%20November-13-2022&color=red">
+- 9-12 March 2023 : [Scale 20x](https://www.socallinuxexpo.org/scale/20x) - 
+- 11-12 March 2023 : [Chemnitz Linux Days](https://chemnitzer.linux-tage.de/2023/en/) - <img alt="CFP Chemnitz Linux Days" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-January-2023&color=green">
+- 10 March 2023 : [DevOps Days Los Angeles](https://devopsdays.org/events/2023-los-angeles/welcome/) - 
+- 10-11 March 2023 : [DevRel Con Yokohama](https://developerrelations.com/event/devrelcon-yokohama-2023) - 
+- 13-14 March 2023 : [Cassandra Summit](https://events.linuxfoundation.org/cassandra-summit/) - 
+- 13-17 March 2023 : [ICSA](https://icsa-conferences.org/2023/) - 
+- 14-15 March 2023 : [DevOps Days Salt Lake City](https://devopsdays.org/events/2023-salt-lake-city/welcome/) - 
+- 16 March 2023 : [Voxxed Days Zurich](https://voxxeddays.com/zurich/) - 
+- 20 March 2023 : [HTML & CSS Days](https://javascript-days.de/html-css) - 
+- 21-23 March 2023 : [SRECon Americas](https://www.usenix.org/conference/srecon23americas) - 
+- 22-24 March 2023 : [Voxxed Days Bucharest](https://romania.voxxeddays.com/voxxed-days-bucharest-2023/) - 
+- 22-26 March 2023 : [International PHP Conference Berlin](https://phpconference.com/berlin-en) - 
+- 22-26 March 2023 : [Webinale](https://webinale.de/en/) - 
+- 23 March 2023 : [Apprise Conf](https://appriseconf.com/) - <a href="https://docs.google.com/forms/d/e/1FAIpQLSeL3DOqPTM8GgaJONtPI-LmzCZCCU-SIxu1hepAhdQxfpeM-g/viewform"><img alt="CFP Apprise Conf" src="https://img.shields.io/static/v1?label=CFP&message=until%31-January-2023&color=green"></a>
+- 23 March 2023 : [DevDay](https://www.devday.be/) - <a href="https://sessionize.com/devday-2023/?e=1688a2"><img alt="CFP DevDay" src="https://img.shields.io/static/v1?label=CFP&message=from%20October-24%20to%20January-31-2023&color=green"></a>
+- 23-24 March 2023 : [Wasm I/O](https://wasmio.tech) - <a href="https://www.papercall.io/wasmio23"><img alt="CFP Wasm I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2017-January-2023&color=green"></a>
+- 23-24 March 2023 : [SymfonyLive Paris](https://live.symfony.com/2023-paris/) - <a href="https://live.symfony.com/2023-paris/cfp"><img alt="CFP SymfonyLive Paris" src="https://img.shields.io/static/v1?label=CFP&message=until%2016-December-2022&color=yellow<"></a>
+- 23-24 March 2023 : [Agile Niort](https://agileniort.fr/) - <a href="https://sessionize.com/agile_niort_2023"><img alt="CFP AgileNiort" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-December-2022&color=green"></a>
+- 23-24 March 2023 : [Scalar](https://www.scalar-conf.com/) - <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZh-gG3Zb3AxECUOVzq8anoCPlrOUGdtjCtxerWpnANN1DfA/viewform"><img alt="CFP Scalar" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
+- 28 March 2023 : [Azure Cosmos Conf](https://learn.microsoft.com/fr-fr/events/learn-events/azure-cosmos-db-conf-2023/) - <a href="https://sessionize.com/azure-cosmos-db-conf-2023"><img alt="CFP Azure Cosmos" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-February-2023&color=green"></a>
+- 27-29 March 2023 : [QCon London](https://qconlondon.com/) - 
+- 1-2 April 2023 : [JdLL](https://jdll.org/) - <a href="https://jdll.org/participer"><img alt="CFP JDLL" src="https://img.shields.io/static/v1?label=CFP&message=until 31-January2023&color=green"></a>
+- 5-7 April 2023 : [FIC](https://europe.forum-fic.com) - 
+- 6-7 April 2023 : [DevOps Days Nashville](https://devopsdays.org/events/2023-nashville/welcome/) - 
+- 12-14 April 2023 : [Devoxx France](https://www.devoxx.fr/) - <a href="https://cfp.devoxx.fr/"><img alt="CFP Devoxx France" src="https://img.shields.io/static/v1?label=CFP&message=from%20November-21%20to%20January-8-2023&color=green"></a>
+- 12-14 April 2023 : [KotlinConf](https://kotlinconf.com/) - <a href="https://sessionize.com/kotlinconf-2023/"><img alt="CFP KotlinConf" src="https://img.shields.io/static/v1?label=CFP&message=until%201-October-2022&color=red"> </a>
+- 13-14 April 2023 : [MiXit](https://mixitconf.org/fr/) - <a href="https://sessionize.com/mixit2023"><img alt="CFP MiXiT" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-Januray-2023&color=green"> </a>
+- 14-17 April 2023 : [Node Congress](https://nodecongress.com/) - <a href="https://docs.google.com/forms/d/e/1FAIpQLScbO3i3HOOt6qD99HRDw0CsL0HvmchY2Xgovw1FLrqcQytlTg/viewform"><img alt="CFP Node Congress" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-Januray-2023&color=green"> </a>
+- 15-16 April 2023 : [Cloud-Native Rejekts](https://cloud-native.rejekts.io/) - <img alt="CFP Cloud-Native Rejekts 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Feb-6%20to%20Feb-13-2023&color=green"></a>
+- 17-21 April 2023 : [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) - 
+- 18-19 April 2023 : [DevOps Days Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/) - 
+- 18-19 April 2023 : [NYSwifty](https://nyswifty.com/) - 
+- 19-21 April 2023 : [InflectraCon](https://www.inflectracon.com/) - 
+- 20-21 April 2023 : [DevOps Days Birmingham AL](https://devopsdays.org/events/2023-birmingham-al/welcome/) - 
+- 20-22 April 2023 : [Dotnet days](https://dotnetdays.ro/) - <a href="https://sessionize.com/dotnetdays-2023"><img alt="CFP Dotnetdays" src="https://img.shields.io/static/v1?label=CFP&message=until%2002-Januray-2023&color=green"> </a>
+- 23 April 2023 : [Polycloud](https://polycloud.fr) - <a href="https://conference-hall.io/public/event/OR1ldOA5G0ASoizWvVbO"><img alt="Polycloud" src="https://img.shields.io/static/v1?label=CFP&message=until%2008-April-2023&color=green"></a>
+- 23-25 April 2023 : [DevOps Days Denver](https://devopsdays.org/events/2023-denver/welcome/) - 
+- 24-25 April 2023 : [DevOps Days Geneva](https://devopsdays.org/events/2022-geneva/welcome/) - 
+- 24-27 April 2023 : [Serverless Architecture Conference](https://serverless-architecture.io/london) - 
+- 24-27 April 2023 : [API Conference London](https://apiconference.net/london) - 
+- 25-28 April 2023 : [Great International Developer Summit](https://developersummit.com/) - 
+- 26-27 April 2023 : [Building IoT](https://www.buildingiot.de/index.php) - 
+- 26-28 April 2023 : [PyData](https://pydata.org/seattle2023) - 
+- 27-28 April 2023 : [Clojure/conj](https://2023.clojure-conj.org/) - <a href="https://2023.clojure-conj.org/call-for-proposals/)"><img alt="CFP Clojure/conj 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20Dec-19%20to%20January-15-2023&color=green"></a>
+- 28-29 April 2023 : [DevOps Days Caceres](https://devopsdays.org/events/2023-caceres/welcome/) - 
+- 3-4 May 2023 : [DevOps Days Zurich](https://devopsdays.org/events/2023-zurich/welcome/) - 
+- 4 May 2023 : [Codecamp_Festival](https://codecamp.ro/the-festival-book-now/) - 
+- 8-12 May 2023 : [JAX](https://jax.de/mainz) - 
+- 10-12 May 2023 : [Devoxx UK](https://www.devoxx.co.uk/) - <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
+- 12 May 2023 : [AFUP Day](https://event.afup.org/) - <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"></a>
+- 12-15 May 2023 : [Vue.js Live Conference](https://vuejslive.com/) - 
+- 15-18 May 2023 : [SLOconf 2023](https://www.sloconf.com/) - <img alt="CFP SLOconf 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
+- 17-20 May 2023 : [PyCon LT](https://pycon.lt/2023) - 
+- 17-18 May 2023 : [Qubit Conference Prague](https://prague.qubitconference.com/) - 
+- 18-19 May 2023 : [JS Heroes](https://jsheroes.io/) - 
+- 18-19 May 2023 : [phpday](https://2023.phpday.it/) - 
+- 18-19 May 2023 : [Spring I/O](https://2023.springio.net/) - <a href="https://www.papercall.io/springio23"><img alt="CFP Spring I/O 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2020-February-2023&color=green"></a>
+- 23 May 2023 : [VoxxedDays Brussels](https://brussels.voxxeddays.com/) - 
+- 23-25 May 2023 : [Web À Québec](https://webaquebec.org/) - <a href="https://yr21i4wwzuv.typeform.com/to/vgbK9zTW"><img alt="CFP WAQ 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2001-December-2022&color=red"></a>
+- 25-26 May 2023 : [Newcrafts Paris](https://ncrafts.io/) - <a href="https://sessionize.com/newcrafts-paris-2023"><img alt="CFP Newcrafts Paris 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%2001-December-2022%20to%2012-February-2023&color=green"></a>
+- 25-26 May 2023 : [NDC Oslo](https://ndcoslo.com/) - 
+- 8-9 June 2023 : [DDD Europe](https://2023.dddeurope.com/) - <a href="https://sessionize.com/dddeu23/"><img alt="CFP DDDEu 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
+- 15 June 2023 : [KCD Zurich](https://github.com/cncf/kubernetes-community-days/issues/449) - 
+- 15-16 June 2023 : [DevOps Days Birmingham UK](https://devopsdays.org/events/2023-birmingham-uk/welcome/) - 
+- 15-16 June 2023 : [Le Camping des Speakers](https://camping-speakers.fr/) - 
+- 20-23 June 2023 : [JCON PEOPLE](https://jcon.one/) - 
+- 20-23 June 2023 : [CloudLand 2023](https://www.cloudland.org/en/home/) - <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green">
+- 21-23 June 2023 : [DevOps Days Amsterdam](https://devopsdays.org/events/2023-amsterdam/welcome/) - 
+- 26-28 June 2023 : [Monitorama 2023](https://monitorama.com/2023/pdx.html#cfp) - <img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2003-February-2023&color=green">
+- 28 June 2023 : [NodeTLV](https://www.nodetlv.com/) - <a href="https://sessionize.com/nodetlv-2023"><img alt="CFP NodeTLV 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-January-2023&color=green"></a>
+- 29-30 June 2023 : [Sunny Tech](https://sunny-tech.io/) - <a href="https://conference-hall.io/public/event/Jnevkv3bLyxZOyYyiWSC"><img alt="CFP Sunny Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=green"></a>
+- 3-5 July 2023 : [DevBCN](http://www.devbcn.com) - 
+- 28 August 2023-1 September 2023 : [VLDB Very Large Database](https://vldb.org/2023/) - 
+- 21-22 September 2023 : [API Platform Conference](https://api-platform.com/con/2023) - 
+- 21-23 September 2023 : [Strange Loop 2023](https://thestrangeloop.com) - 
+- 27 September 2023 : [DevOps Days Cairo](https://devopsdays.org/events/2023-cairo/welcome/) - 
+- 2-6 October 2023 : [QCon San Francisco](https://qconsf.com/) - 
+- 5-6 October 2023 : [DevOps Days Indianapolis](https://devopsdays.org/events/2023-indianapolis/welcome/) - 
+- 10-12 October 2023 : [SREcon23 Europe/Middle East/Africa](https://www.usenix.org/srecon) - 
+- 12-13 October 2023 : [Volcamp 2023](https://www.volcamp.io/) - 
+- 6-10 November 2023 : [KubeCon + CloudNativeCon NA 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) - 
+- 6-7 December 2023 : [Open Source Experience](https://www.opensource-experience.com/) - 
 
 
 ## Nous contacter
