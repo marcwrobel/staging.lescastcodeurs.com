@@ -11,7 +11,7 @@ tweet: TODO
 
 Résumé
 
-Enregistré le 29 décembre 2022
+Enregistré le 30 décembre 2022
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-42.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-42.mp3)
 
@@ -51,6 +51,8 @@ Test [https://github.com/marcwrobel/staging.lescastcodeurs.com/blob/main/test-42
 La liste des conférences provenant de [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda)
 par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 
+- 14-16 December 2022 : [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online 
+- 15-16 December 2022 : [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France)  <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
 - 19 January 2023 : [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France)  <a href="https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M"><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
 - 19-20 January 2023 : [Touraine Tech](https://touraine.tech/) - Tours (France)  <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
 - 25-28 January 2023 : [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France)  <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
