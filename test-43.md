@@ -17,6 +17,12 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-43.mp3](https://traffic
 
 ## News
 
+### Non catégorisées
+
+[https://debezium.io/blog/2023/04/20/debezium-2-2-final-released/](https://debezium.io/blog/2023/04/20/debezium-2-2-final-released/) test
+
+- ça c'est cool !
+
 
 
 
